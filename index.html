@@ -100,7 +100,7 @@
       pdfViewer.src = "documents/" + this.value;
 
       // change value to fit filename of transcription file
-      transcriptionPath = "documents/transcriptions/" + this.value.replaceAll(".", "_") + ".txt";
+      transcriptionPath = "documents/" + this.value.replaceAll(".", "_") + ".txt";
 
       // read file
       fetch(transcriptionPath)
@@ -112,7 +112,7 @@
         .catch((e) => console.error(e));
 
       // change value to fit filename of txt file
-      kgPath = "documents/KGs/" + this.value.replaceAll(".", "-") + ".txt";
+      kgPath = "documents/" + this.value.replaceAll(".", "-") + ".txt";
 
       // change graph
       addGraph(kgPath);
