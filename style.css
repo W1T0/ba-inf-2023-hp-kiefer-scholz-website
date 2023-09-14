@@ -1,0 +1,283 @@
+/* VARIABLES */
+:root {
+  --primary-color-light: #f8a830; /* fa 984 */
+  --primary-color-dark: #b57e07;
+  --secondary-color-light: #3d3d3d;
+  --secondary-color-dark: #252525;
+  --text-color-white: #ffffff;
+  --text-color-black: #000000;
+}
+
+/* BASIC STUFF */
+html {
+  background-color: var(--secondary-color-dark);
+  scroll-behavior: smooth;
+  height: 100%;
+  margin: 10px;
+}
+
+body {
+  background-color: var(--secondary-color-dark);
+  font-family: Helvetica, Arial, sans-serif;
+  height: 100%;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: greenyellow;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: bold;
+  color: var(--text-color-white);
+  text-align: center;
+  margin: 0;
+}
+
+label {
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--text-color-white);
+  margin: 5px;
+}
+
+p {
+  font-size: 15px;
+  color: var(--text-color-black);
+  margin: 0;
+}
+
+/* 
+* SELECT
+ */
+/* Source: https://codepen.io/herrfischer/pen/aNpWwy */
+select {
+  width: 200px;
+  padding: 10px;
+  border: 0 !important;
+  border-radius: 5px;
+  background-color: var(--primary-color-light);
+  font-weight: bold;
+  /* needed */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* SVG background image */
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Ctitle%3Edown-arrow%3C%2Ftitle%3E%3Cg%20fill%3D%22%23000000%22%3E%3Cpath%20d%3D%22M10.293%2C3.293%2C6%2C7.586%2C1.707%2C3.293A1%2C1%2C0%2C0%2C0%2C.293%2C4.707l5%2C5a1%2C1%2C0%2C0%2C0%2C1.414%2C0l5-5a1%2C1%2C0%2C1%2C0-1.414-1.414Z%22%20fill%3D%22%23000000%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+  background-size: 0.6em;
+  background-position: calc(100% - 1.3em) center;
+  background-repeat: no-repeat;
+  box-shadow: none;
+}
+select::-ms-expand {
+  display: none;
+}
+select:hover {
+  box-shadow: 0 0 5px 3px var(--primary-color-dark);
+}
+
+/*
+* NAV BAR
+*/
+nav {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: var(--secondary-color-light);
+}
+
+li {
+  float: right;
+  border-left: 1px solid var(--primary-color-dark);
+}
+li a {
+  display: block;
+  color: var(--text-color-white);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+
+.header {
+  float: left;
+  border: #000000;
+  text-align: right;
+}
+
+/* 
+* BODY 
+*/
+#files-container {
+  background-color: var(--secondary-color-dark);
+  width: 100%;
+}
+
+.three-blocks {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+.block {
+  /* width: 500px;
+  height: 800px; */
+  margin: 15;
+  flex: 1 1 auto;
+  background-color: #ffffff;
+  border: 3px solid var(--primary-color-light);
+  border-radius: 15px;
+  box-shadow: none;
+}
+.block:hover {
+  box-shadow: 0 0 5px 2px var(--primary-color-light);
+}
+
+#pdf-viewer {
+  border-radius: 15px;
+}
+
+#transcription-viewer {
+  /* center the text */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#transcription-text-field {
+  /* Style text field so that line breaks are visible */
+  white-space: pre-wrap;
+}
+
+/* space between divs */
+div:not(:last-child) {
+  margin-right: 20px;
+}
+
+#file-chooser {
+  margin: 20px;
+}
+
+/*
+* ZOOM
+*/
+button {
+  width: 30px;
+  padding: 5px;
+  border: 0 !important;
+  border-radius: 5px;
+  background-color: var(--primary-color-light);
+  font-weight: bold;
+  font-size: larger;
+  box-shadow: none;
+  float: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+}
+button::-ms-expand {
+  display: none;
+}
+button:hover {
+  box-shadow: 0 0 5px 3px var(--primary-color-light);
+}
+
+/*
+*
+* MAP CSS
+*
+*/
+#map-div {
+  position: relative;
+}
+
+#map {
+  height: 500px;
+  width: 1000px;
+  border: 3px solid var(--primary-color-light);
+  border-radius: 5px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 10%);
+}
+#map:hover {
+  box-shadow: 0 0 5px 2px var(--primary-color-light);
+}
+
+/*
+*
+* SLIDER CSS
+*
+*/
+.slidercontainer {
+  width: 90%; /* Width of the outside container */
+  margin: auto;
+}
+
+/* The slider itself */
+.slider {
+  -webkit-appearance: none; /* Override default CSS styles */
+  appearance: none;
+  width: 90%; /* Full-width */
+  height: 20px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: 0.2s; /* 0.2 seconds transition on hover */
+  transition: opacity 0.2s;
+  margin: auto;
+}
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: var(--primary-color-light);
+  cursor: pointer;
+}
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: var(--primary-color-light);
+  cursor: pointer;
+}
+
+/* Graph above Slider */
+#paper-div {
+  background-color: var(--secondary-color-dark);
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#paper-1 {
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 3px solid var(--primary-color-light);
+  border-radius: 15px;
+  box-shadow: none;
+}
+#paper-1:hover {
+  box-shadow: 0 0 5px 2px var(--primary-color-light);
+}
