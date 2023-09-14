@@ -99,23 +99,23 @@
       // change the pdf if drop down menu selection changed
       pdfViewer.src = "/documents/" + this.value;
 
-      // change value to fit filename of transcription file
-      transcriptionPath = "/documents/transcriptions/" + this.value.replaceAll(".", "_") + ".txt";
+      //   // change value to fit filename of transcription file
+      //   transcriptionPath = "/documents/transcriptions/" + this.value.replaceAll(".", "_") + ".txt";
 
-      // read file
-      fetch(transcriptionPath)
-        .then((res) => res.text())
-        .then((text) => {
-          // change value of text field
-          transcriptionTextField.textContent = text;
-        })
-        .catch((e) => console.error(e));
+      //   // read file
+      //   fetch(transcriptionPath)
+      //     .then((res) => res.text())
+      //     .then((text) => {
+      //       // change value of text field
+      //       transcriptionTextField.textContent = text;
+      //     })
+      //     .catch((e) => console.error(e));
 
-      // change value to fit filename of txt file
-      kgPath = "/documents/KGs/" + this.value.replaceAll(".", "-") + ".txt";
+      //   // change value to fit filename of txt file
+      //   kgPath = "/documents/KGs/" + this.value.replaceAll(".", "-") + ".txt";
 
-      // change graph
-      addGraph(kgPath);
+      //   // change graph
+      //   addGraph(kgPath);
     });
 
     //
