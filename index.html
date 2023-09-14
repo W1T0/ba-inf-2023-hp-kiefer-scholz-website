@@ -97,7 +97,7 @@
     // add event listener to drop down menu
     fileChooser.addEventListener("change", function () {
       // change the pdf if drop down menu selection changed
-      pdfViewer.src = "/documents/scans/" + this.value;
+      pdfViewer.src = "/documents/" + this.value;
 
       // change value to fit filename of transcription file
       transcriptionPath = "/documents/transcriptions/" + this.value.replaceAll(".", "_") + ".txt";
