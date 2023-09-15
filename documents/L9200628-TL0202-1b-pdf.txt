@@ -1,0 +1,14 @@
+ex:L9200628-TL0202-1b-pdf ex:date '1920-06-28'^^xsd:date .
+ex:L9200628-TL0202-1b-pdf ex:B-PER ex:Gretel .
+ex:L9200628-TL0202-1b-pdf ex:B-LOC ex:Kiel .
+ex:Kiel ex:wikidataQID ex:Q1707 .
+ex:Kiel ex:coordinates ex:'54,323333333_10,139444444' .
+ex:L9200628-TL0202-1b-pdf ex:B-PER ex:Fritz .
+ex:L9200628-TL0202-1b-pdf ex:B-OTH_RELIGION ex:Ehe .
+ex:Ehe ex:wikidataQID ex:Q8445 .
+ex:L9200628-TL0202-1b-pdf ex:B-OTH_RELIGION ex:Schein .
+ex:Schein ex:wikidataQID ex:Q697295 .
+ex:L9200628-TL0202-1b-pdf ex:I-PER ex:Mitze .
+ex:L9200628-TL0202-1b-pdf ex:B-PER ex:Walter .
+ex:L9200628-TL0202-1b-pdf ex:B-PER ex:Rudolph .
+

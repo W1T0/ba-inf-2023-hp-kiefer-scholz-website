@@ -1,0 +1,10 @@
+ex:L9210307-TL0256-1a-pdf ex:date '1921-03-07'^^xsd:date .
+ex:L9210307-TL0256-1a-pdf ex:B-PER ex:Strebel .
+ex:L9210307-TL0256-1a-pdf ex:B-PER ex:Lisbeth .
+ex:L9210307-TL0256-1a-pdf ex:I-PER ex:Franzl .
+ex:L9210307-TL0256-1a-pdf ex:B-PER ex:Paul .
+ex:L9210307-TL0256-1a-pdf ex:B-PER ex:Joh .
+ex:L9210307-TL0256-1a-pdf ex:I-PER ex:u .
+ex:L9210307-TL0256-1a-pdf ex:B-PER ex:Franz .
+ex:L9210307-TL0256-1a-pdf ex:B-PER ex:Josef .
+

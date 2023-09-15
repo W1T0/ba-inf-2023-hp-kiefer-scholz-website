@@ -1,0 +1,5 @@
+ex:L9201230-TL0244-1a-pdf ex:date '1920-12-30'^^xsd:date .
+ex:L9201230-TL0244-1a-pdf ex:I-PER ex:Christus .
+ex:L9201230-TL0244-1a-pdf ex:B-PER ex:Paul .
+ex:L9201230-TL0244-1a-pdf ex:B-PER ex:Jesus .
+

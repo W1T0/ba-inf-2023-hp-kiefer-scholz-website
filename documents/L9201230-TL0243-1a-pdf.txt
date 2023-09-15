@@ -1,0 +1,8 @@
+ex:L9201230-TL0243-1a-pdf ex:date '1920-12-30'^^xsd:date .
+ex:L9201230-TL0243-1a-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9201230-TL0243-1a-pdf ex:B-PER ex:Josef .
+ex:L9201230-TL0243-1a-pdf ex:B-PER ex:August .
+ex:L9201230-TL0243-1a-pdf ex:B-OTH_RELIGION ex:Himel .
+ex:Himel ex:wikidataQID ex:Q4489450 .
+

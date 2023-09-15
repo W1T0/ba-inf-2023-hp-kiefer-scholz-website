@@ -1,0 +1,8 @@
+ex:L9200628-TL0202-1a-pdf ex:date '1920-06-28'^^xsd:date .
+ex:L9200628-TL0202-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q986984 .
+ex:Neustadt ex:coordinates ex:'50,319722222_17,579166666' .
+ex:L9200628-TL0202-1a-pdf ex:B-PER ex:Art .
+ex:L9200628-TL0202-1a-pdf ex:B-OTH_RELIGION ex:Schein .
+ex:Schein ex:wikidataQID ex:Q697295 .
+

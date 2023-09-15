@@ -1,0 +1,14 @@
+ex:L9201215-TL0237-1a-pdf ex:date '1920-12-15'^^xsd:date .
+ex:L9201215-TL0237-1a-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9201215-TL0237-1a-pdf ex:B-OTH_RELIGION ex:Kirche .
+ex:Kirche ex:wikidataQID ex:Q34651 .
+ex:L9201215-TL0237-1a-pdf ex:B-PER ex:Robert .
+ex:L9201215-TL0237-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9201215-TL0237-1a-pdf ex:B-OTH_RELIGION ex:Kapuziner .
+ex:Kapuziner ex:wikidataQID ex:Q124862 .
+ex:L9201215-TL0237-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

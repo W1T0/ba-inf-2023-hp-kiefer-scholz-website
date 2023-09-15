@@ -1,0 +1,12 @@
+ex:L9210501-TL0268-2b-pdf ex:date '1921-05-01'^^xsd:date .
+ex:L9210501-TL0268-2b-pdf ex:B-PER ex:August .
+ex:L9210501-TL0268-2b-pdf ex:B-PER ex:Joseph .
+ex:L9210501-TL0268-2b-pdf ex:B-LOC ex:Hamburg .
+ex:Hamburg ex:wikidataQID ex:Q1055 .
+ex:Hamburg ex:coordinates ex:'53,55_10,0' .
+ex:L9210501-TL0268-2b-pdf ex:B-PER ex:Paul .
+ex:L9210501-TL0268-2b-pdf ex:I-PER ex:Georg .
+ex:L9210501-TL0268-2b-pdf ex:B-PER ex:Franz .
+ex:L9210501-TL0268-2b-pdf ex:I-PER ex:Geret .
+ex:L9210501-TL0268-2b-pdf ex:B-PER ex:Josel .
+

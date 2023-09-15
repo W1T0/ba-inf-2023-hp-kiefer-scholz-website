@@ -1,0 +1,9 @@
+ex:L9220219-TL0295-1b-pdf ex:date '1922-02-19'^^xsd:date .
+ex:L9220219-TL0295-1b-pdf ex:B-OTH ex:Pfund .
+ex:L9220219-TL0295-1b-pdf ex:B-OTH_FOOD ex:Gericht .
+ex:Gericht ex:wikidataQID ex:Q746549 .
+ex:L9220219-TL0295-1b-pdf ex:B-OTH_FOOD ex:Bruch .
+ex:Bruch ex:wikidataQID ex:Q622563 .
+ex:L9220219-TL0295-1b-pdf ex:B-PER ex:Marin .
+ex:L9220219-TL0295-1b-pdf ex:B-PER ex:Fama .
+

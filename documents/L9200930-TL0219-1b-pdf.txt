@@ -1,0 +1,6 @@
+ex:L9200930-TL0219-1b-pdf ex:date '1920-09-30'^^xsd:date .
+ex:L9200930-TL0219-1b-pdf ex:B-OTH_RELIGION ex:Ehe .
+ex:Ehe ex:wikidataQID ex:Q8445 .
+ex:L9200930-TL0219-1b-pdf ex:B-OTH_FOOD ex:Fischblut .
+ex:Fischblut ex:wikidataQID ex:Q107246606 .
+

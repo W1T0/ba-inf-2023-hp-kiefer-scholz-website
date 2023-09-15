@@ -1,0 +1,16 @@
+ex:L9210420-TL0266-1b-pdf ex:date '1921-04-20'^^xsd:date .
+ex:L9210420-TL0266-1b-pdf ex:B-PER ex:Robert .
+ex:L9210420-TL0266-1b-pdf ex:B-PER ex:Thekla .
+ex:L9210420-TL0266-1b-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9210420-TL0266-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9210420-TL0266-1b-pdf ex:B-LOC ex:Oberschlesien .
+ex:Oberschlesien ex:wikidataQID ex:Q81011 .
+ex:Oberschlesien ex:coordinates ex:'50,433843_18,032375' .
+ex:L9210420-TL0266-1b-pdf ex:B-LOC ex:Polen .
+ex:Polen ex:wikidataQID ex:Q36 .
+ex:Polen ex:coordinates ex:'52,0_19,0' .
+

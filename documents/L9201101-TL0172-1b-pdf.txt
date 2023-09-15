@@ -1,0 +1,16 @@
+ex:L9201101-TL0172-1b-pdf ex:date '1920-11-01'^^xsd:date .
+ex:L9201101-TL0172-1b-pdf ex:B-LOC ex:Deutschstreich .
+ex:L9201101-TL0172-1b-pdf ex:B-PER ex:Agnes .
+ex:L9201101-TL0172-1b-pdf ex:B-PER ex:Hinrich .
+ex:L9201101-TL0172-1b-pdf ex:B-PER ex:Robert .
+ex:L9201101-TL0172-1b-pdf ex:B-PER ex:Thekla .
+ex:L9201101-TL0172-1b-pdf ex:B-LOC ex:Wien .
+ex:Wien ex:wikidataQID ex:Q1741 .
+ex:Wien ex:coordinates ex:'48,208333333_16,3725' .
+ex:L9201101-TL0172-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9201101-TL0172-1b-pdf ex:B-PER ex:Ottilie .
+ex:L9201101-TL0172-1b-pdf ex:B-LOC ex:Donau .
+ex:L9201101-TL0172-1b-pdf ex:B-OTH_RELIGION ex:Pfarrkirche .
+ex:Pfarrkirche ex:wikidataQID ex:Q317557 .
+

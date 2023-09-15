@@ -1,0 +1,11 @@
+ex:L9201101-TL0172-1a-pdf ex:date '1920-11-01'^^xsd:date .
+ex:L9201101-TL0172-1a-pdf ex:B-OTH ex:Das .
+ex:L9201101-TL0172-1a-pdf ex:B-PER ex:August .
+ex:L9201101-TL0172-1a-pdf ex:B-PER ex:Hoff .
+ex:L9201101-TL0172-1a-pdf ex:B-OTH_RELIGION ex:Ordensschwester .
+ex:Ordensschwester ex:wikidataQID ex:Q28146366 .
+ex:L9201101-TL0172-1a-pdf ex:B-PER ex:Anna .
+ex:L9201101-TL0172-1a-pdf ex:B-PER ex:Thekla .
+ex:L9201101-TL0172-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

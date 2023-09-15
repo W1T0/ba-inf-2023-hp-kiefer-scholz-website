@@ -1,0 +1,4 @@
+ex:L9210211-TL0286-1a-pdf ex:date '1921-02-11'^^xsd:date .
+ex:L9210211-TL0286-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

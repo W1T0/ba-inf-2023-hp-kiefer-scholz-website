@@ -1,0 +1,7 @@
+ex:L9200922-TL0221-1a-pdf ex:date '1920-09-22'^^xsd:date .
+ex:L9200922-TL0221-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200922-TL0221-1a-pdf ex:B-LOC ex:Schlitz .
+ex:Schlitz ex:wikidataQID ex:Q552477 .
+ex:Schlitz ex:coordinates ex:'50,6759_9,55925' .
+

@@ -1,0 +1,4 @@
+ex:L9210610-TL0275-1a-pdf ex:date '1921-06-10'^^xsd:date .
+ex:L9210610-TL0275-1a-pdf ex:B-OTH_RELIGION ex:Seele .
+ex:Seele ex:wikidataQID ex:Q9165 .
+

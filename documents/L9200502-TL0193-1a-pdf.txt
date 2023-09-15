@@ -1,0 +1,9 @@
+ex:L9200502-TL0193-1a-pdf ex:date '1920-05-02'^^xsd:date .
+ex:L9200502-TL0193-1a-pdf ex:B-LOC ex:Schlossen .
+ex:L9200502-TL0193-1a-pdf ex:B-PER ex:Hoff .
+ex:L9200502-TL0193-1a-pdf ex:B-OTH_RELIGION ex:Himmel .
+ex:Himmel ex:wikidataQID ex:Q4489450 .
+ex:L9200502-TL0193-1a-pdf ex:B-LOC ex:Langenbrinck .
+ex:L9200502-TL0193-1a-pdf ex:B-OTH_RELIGION ex:Geiste .
+ex:Geiste ex:wikidataQID ex:Q120312205 .
+

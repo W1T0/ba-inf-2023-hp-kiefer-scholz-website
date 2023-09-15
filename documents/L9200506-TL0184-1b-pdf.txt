@@ -1,0 +1,9 @@
+ex:L9200506-TL0184-1b-pdf ex:date '1920-05-06'^^xsd:date .
+ex:L9200506-TL0184-1b-pdf ex:B-OTH ex:Mark .
+ex:L9200506-TL0184-1b-pdf ex:I-PER ex:Platzes .
+ex:L9200506-TL0184-1b-pdf ex:B-PER ex:August .
+ex:L9200506-TL0184-1b-pdf ex:B-PER ex:Johann .
+ex:L9200506-TL0184-1b-pdf ex:B-PER ex:Alfred .
+ex:L9200506-TL0184-1b-pdf ex:B-PER ex:Robert .
+ex:L9200506-TL0184-1b-pdf ex:B-PER ex:Thekla .
+

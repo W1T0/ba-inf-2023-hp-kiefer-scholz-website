@@ -1,0 +1,13 @@
+ex:L9200409-TL0191-1b-pdf ex:date '1920-04-09'^^xsd:date .
+ex:L9200409-TL0191-1b-pdf ex:B-PER ex:Schäfer .
+ex:L9200409-TL0191-1b-pdf ex:B-OTH_RELIGION ex:Kirche .
+ex:Kirche ex:wikidataQID ex:Q34651 .
+ex:L9200409-TL0191-1b-pdf ex:B-OTH_RELIGION ex:Geduld .
+ex:Geduld ex:wikidataQID ex:Q12846123 .
+ex:L9200409-TL0191-1b-pdf ex:B-OTH_RELIGION ex:Pfingsten .
+ex:Pfingsten ex:wikidataQID ex:Q39864 .
+ex:L9200409-TL0191-1b-pdf ex:B-LOC ex:Rutschland .
+ex:L9200409-TL0191-1b-pdf ex:B-LOC ex:Schlesien .
+ex:Schlesien ex:wikidataQID ex:Q81720 .
+ex:Schlesien ex:coordinates ex:'51,1035_17,0396' .
+

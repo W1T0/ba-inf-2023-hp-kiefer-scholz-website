@@ -1,0 +1,7 @@
+ex:L9211230-TL0291-1b-pdf ex:date '1921-12-30'^^xsd:date .
+ex:L9211230-TL0291-1b-pdf ex:B-PER ex:Robert .
+ex:L9211230-TL0291-1b-pdf ex:B-OTH_RELIGION ex:Kollar .
+ex:Kollar ex:wikidataQID ex:Q118587 .
+ex:L9211230-TL0291-1b-pdf ex:B-OTH_RELIGION ex:Seele .
+ex:Seele ex:wikidataQID ex:Q9165 .
+

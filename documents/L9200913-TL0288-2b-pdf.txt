@@ -1,0 +1,10 @@
+ex:L9200913-TL0288-2b-pdf ex:date '1920-09-13'^^xsd:date .
+ex:L9200913-TL0288-2b-pdf ex:B-PER ex:August .
+ex:L9200913-TL0288-2b-pdf ex:B-PER ex:Agnes .
+ex:L9200913-TL0288-2b-pdf ex:B-PER ex:Paul .
+ex:L9200913-TL0288-2b-pdf ex:B-PER ex:Thekla .
+ex:L9200913-TL0288-2b-pdf ex:B-LOC ex:Langenbrück .
+ex:L9200913-TL0288-2b-pdf ex:B-LOC ex:Breslau .
+ex:L9200913-TL0288-2b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

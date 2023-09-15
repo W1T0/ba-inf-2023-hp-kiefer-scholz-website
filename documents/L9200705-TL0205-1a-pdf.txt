@@ -1,0 +1,5 @@
+ex:L9200705-TL0205-1a-pdf ex:date '1920-07-05'^^xsd:date .
+ex:L9200705-TL0205-1a-pdf ex:B-PER ex:Martha .
+ex:L9200705-TL0205-1a-pdf ex:B-PER ex:Selma .
+ex:L9200705-TL0205-1a-pdf ex:B-PER ex:July .
+

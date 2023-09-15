@@ -1,0 +1,9 @@
+ex:L9201114-TL0231-1b-pdf ex:date '1920-11-14'^^xsd:date .
+ex:L9201114-TL0231-1b-pdf ex:B-PER ex:S .
+ex:L9201114-TL0231-1b-pdf ex:B-OTH_FOOD ex:Rücken .
+ex:Rücken ex:wikidataQID ex:Q107262074 .
+ex:L9201114-TL0231-1b-pdf ex:B-OTH_FOOD ex:Pfeffer .
+ex:Pfeffer ex:wikidataQID ex:Q3143131 .
+ex:L9201114-TL0231-1b-pdf ex:I-PER ex:H .
+ex:L9201114-TL0231-1b-pdf ex:I-PER ex:Obern .
+

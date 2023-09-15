@@ -1,0 +1,13 @@
+ex:L9200404-TL0189-1a-pdf ex:date '1920-04-04'^^xsd:date .
+ex:L9200404-TL0189-1a-pdf ex:B-PER ex:Marie .
+ex:L9200404-TL0189-1a-pdf ex:B-LOC ex:Strelitz .
+ex:L9200404-TL0189-1a-pdf ex:B-PER ex:Josef .
+ex:L9200404-TL0189-1a-pdf ex:B-OTH_RELIGION ex:Christus .
+ex:Christus ex:wikidataQID ex:Q642420 .
+ex:L9200404-TL0189-1a-pdf ex:B-PER ex:Maria .
+ex:L9200404-TL0189-1a-pdf ex:B-OTH_RELIGION ex:Kloster .
+ex:Kloster ex:wikidataQID ex:Q44613 .
+ex:L9200404-TL0189-1a-pdf ex:B-LOC ex:Bern .
+ex:Bern ex:wikidataQID ex:Q822114 .
+ex:Bern ex:coordinates ex:'39,9628_-95,9708' .
+

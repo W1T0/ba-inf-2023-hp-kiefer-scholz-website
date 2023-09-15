@@ -1,0 +1,5 @@
+ex:L9200801-TL0212-1a-pdf ex:date '1920-08-01'^^xsd:date .
+ex:L9200801-TL0212-1a-pdf ex:B-OTH_RELIGION ex:Geiste .
+ex:Geiste ex:wikidataQID ex:Q120312205 .
+ex:L9200801-TL0212-1a-pdf ex:B-PER ex:August .
+

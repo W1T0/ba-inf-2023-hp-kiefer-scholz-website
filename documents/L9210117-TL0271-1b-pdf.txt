@@ -1,0 +1,8 @@
+ex:L9210117-TL0271-1b-pdf ex:date '1921-01-17'^^xsd:date .
+ex:L9210117-TL0271-1b-pdf ex:B-PER ex:Agnes .
+ex:L9210117-TL0271-1b-pdf ex:I-PER ex:Guthe .
+ex:L9210117-TL0271-1b-pdf ex:B-PER ex:Paul .
+ex:L9210117-TL0271-1b-pdf ex:B-PER ex:Robert .
+ex:L9210117-TL0271-1b-pdf ex:B-PER ex:Maren .
+ex:L9210117-TL0271-1b-pdf ex:I-PER ex:der .
+

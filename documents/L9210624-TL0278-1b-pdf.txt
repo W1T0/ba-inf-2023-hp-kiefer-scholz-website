@@ -1,0 +1,6 @@
+ex:L9210624-TL0278-1b-pdf ex:date '1921-06-24'^^xsd:date .
+ex:L9210624-TL0278-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9210624-TL0278-1b-pdf ex:B-PER ex:Tekla .
+ex:L9210624-TL0278-1b-pdf ex:B-OTH_RELIGION ex:Taufe .
+ex:Taufe ex:wikidataQID ex:Q35856 .
+

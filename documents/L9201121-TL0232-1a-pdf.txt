@@ -1,0 +1,10 @@
+ex:L9201121-TL0232-1a-pdf ex:date '1920-11-21'^^xsd:date .
+ex:L9201121-TL0232-1a-pdf ex:B-OTH_RELIGION ex:Mala .
+ex:Mala ex:wikidataQID ex:Q1336519 .
+ex:L9201121-TL0232-1a-pdf ex:B-PER ex:Paul .
+ex:L9201121-TL0232-1a-pdf ex:B-LOC ex:Oecon .
+ex:L9201121-TL0232-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9201121-TL0232-1a-pdf ex:B-PER ex:Thea .
+

@@ -1,0 +1,13 @@
+ex:L9200808-TL0214-1a-pdf ex:date '1920-08-08'^^xsd:date .
+ex:L9200808-TL0214-1a-pdf ex:B-PER ex:Berthold .
+ex:L9200808-TL0214-1a-pdf ex:B-OTH_RELIGION ex:Kasten .
+ex:Kasten ex:wikidataQID ex:Q484416 .
+ex:L9200808-TL0214-1a-pdf ex:B-LOC ex:Langenbrik .
+ex:L9200808-TL0214-1a-pdf ex:B-PER ex:Paul .
+ex:L9200808-TL0214-1a-pdf ex:B-PER ex:Robert .
+ex:L9200808-TL0214-1a-pdf ex:B-PER ex:Kopff .
+ex:L9200808-TL0214-1a-pdf ex:B-LOC ex:Schmiden .
+ex:L9200808-TL0214-1a-pdf ex:B-PER ex:Scker .
+ex:L9200808-TL0214-1a-pdf ex:B-OTH_RELIGION ex:Kloster .
+ex:Kloster ex:wikidataQID ex:Q44613 .
+

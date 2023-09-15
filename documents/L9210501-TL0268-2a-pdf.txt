@@ -1,0 +1,5 @@
+ex:L9210501-TL0268-2a-pdf ex:date '1921-05-01'^^xsd:date .
+ex:L9210501-TL0268-2a-pdf ex:B-LOC ex:Hamburg .
+ex:Hamburg ex:wikidataQID ex:Q1055 .
+ex:Hamburg ex:coordinates ex:'53,55_10,0' .
+

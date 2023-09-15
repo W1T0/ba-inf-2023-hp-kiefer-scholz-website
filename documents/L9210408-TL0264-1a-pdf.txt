@@ -1,0 +1,9 @@
+ex:L9210408-TL0264-1a-pdf ex:date '1921-04-08'^^xsd:date .
+ex:L9210408-TL0264-1a-pdf ex:I-PER ex:Carl .
+ex:L9210408-TL0264-1a-pdf ex:B-PER ex:Mut .
+ex:L9210408-TL0264-1a-pdf ex:I-PER ex:I .
+ex:L9210408-TL0264-1a-pdf ex:I-PER ex:M .
+ex:L9210408-TL0264-1a-pdf ex:B-LOC ex:America .
+ex:America ex:wikidataQID ex:Q30 .
+ex:America ex:coordinates ex:'39,828175_-98,5795' .
+

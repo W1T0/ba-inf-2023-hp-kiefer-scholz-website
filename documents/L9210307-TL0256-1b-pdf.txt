@@ -1,0 +1,8 @@
+ex:L9210307-TL0256-1b-pdf ex:date '1921-03-07'^^xsd:date .
+ex:L9210307-TL0256-1b-pdf ex:B-PER ex:Berthold .
+ex:L9210307-TL0256-1b-pdf ex:B-PER ex:Schuster .
+ex:L9210307-TL0256-1b-pdf ex:B-PER ex:Marie .
+ex:L9210307-TL0256-1b-pdf ex:B-LOC ex:Hammersdorf .
+ex:L9210307-TL0256-1b-pdf ex:B-PER ex:Josef .
+ex:L9210307-TL0256-1b-pdf ex:B-PER ex:Geisler .
+

@@ -1,0 +1,7 @@
+ex:L9210916-TL0247-1a-pdf ex:date '1921-09-16'^^xsd:date .
+ex:L9210916-TL0247-1a-pdf ex:B-LOC ex:Mühlenstraße .
+ex:L9210916-TL0247-1a-pdf ex:B-LOC ex:Düsseldorf .
+ex:Düsseldorf ex:wikidataQID ex:Q1718 .
+ex:Düsseldorf ex:coordinates ex:'51,231144444_6,772380555' .
+ex:L9210916-TL0247-1a-pdf ex:B-PER ex:Sandauen .
+

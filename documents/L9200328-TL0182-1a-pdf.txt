@@ -1,0 +1,12 @@
+ex:L9200328-TL0182-1a-pdf ex:date '1920-03-28'^^xsd:date .
+ex:L9200328-TL0182-1a-pdf ex:B-PER ex:Karolin .
+ex:L9200328-TL0182-1a-pdf ex:B-PER ex:August .
+ex:L9200328-TL0182-1a-pdf ex:B-PER ex:Agnes .
+ex:L9200328-TL0182-1a-pdf ex:B-PER ex:Marie .
+ex:L9200328-TL0182-1a-pdf ex:B-PER ex:Johann .
+ex:L9200328-TL0182-1a-pdf ex:B-LOC ex:Essen .
+ex:Essen ex:wikidataQID ex:Q571423 .
+ex:Essen ex:coordinates ex:'52,721111111_7,940555555' .
+ex:L9200328-TL0182-1a-pdf ex:B-PER ex:Robert .
+ex:L9200328-TL0182-1a-pdf ex:B-PER ex:Backert .
+

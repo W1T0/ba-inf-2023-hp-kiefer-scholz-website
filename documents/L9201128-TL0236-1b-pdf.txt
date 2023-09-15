@@ -1,0 +1,10 @@
+ex:L9201128-TL0236-1b-pdf ex:date '1920-11-28'^^xsd:date .
+ex:L9201128-TL0236-1b-pdf ex:B-OTH_RELIGION ex:Seelen .
+ex:Seelen ex:wikidataQID ex:Q9165 .
+ex:L9201128-TL0236-1b-pdf ex:B-PER ex:Reinhard .
+ex:L9201128-TL0236-1b-pdf ex:B-PER ex:Thekla .
+ex:L9201128-TL0236-1b-pdf ex:B-OTH_RELIGION ex:Kongregation .
+ex:Kongregation ex:wikidataQID ex:Q1384677 .
+ex:L9201128-TL0236-1b-pdf ex:B-OTH_RELIGION ex:Gebet .
+ex:Gebet ex:wikidataQID ex:Q40953 .
+

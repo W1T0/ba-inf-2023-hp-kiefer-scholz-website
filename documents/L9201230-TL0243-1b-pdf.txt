@@ -1,0 +1,8 @@
+ex:L9201230-TL0243-1b-pdf ex:date '1920-12-30'^^xsd:date .
+ex:L9201230-TL0243-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9201230-TL0243-1b-pdf ex:B-OTH_RELIGION ex:Gebet .
+ex:Gebet ex:wikidataQID ex:Q40953 .
+ex:L9201230-TL0243-1b-pdf ex:B-PER ex:Heinel .
+ex:L9201230-TL0243-1b-pdf ex:B-PER ex:Paul .
+

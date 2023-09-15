@@ -1,0 +1,4 @@
+ex:L9210210-TL0325-1b-pdf ex:date '1921-02-10'^^xsd:date .
+ex:L9210210-TL0325-1b-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+

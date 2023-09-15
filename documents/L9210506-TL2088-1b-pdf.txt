@@ -1,0 +1,6 @@
+ex:L9210506-TL2088-1b-pdf ex:date '1921-05-06'^^xsd:date .
+ex:L9210506-TL2088-1b-pdf ex:B-LOC ex:Bad .
+ex:Bad ex:wikidataQID ex:Q504579 .
+ex:Bad ex:coordinates ex:'48,005833333_10,596944444' .
+ex:L9210506-TL2088-1b-pdf ex:I-LOC ex:Rinne .
+

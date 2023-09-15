@@ -1,0 +1,11 @@
+ex:L9200913-TL0288-1a-pdf ex:date '1920-09-13'^^xsd:date .
+ex:L9200913-TL0288-1a-pdf ex:B-OTH ex:Pfund .
+ex:L9200913-TL0288-1a-pdf ex:B-OTH_FOOD ex:Ei .
+ex:Ei ex:wikidataQID ex:Q93189 .
+ex:L9200913-TL0288-1a-pdf ex:B-PER ex:Agnes .
+ex:L9200913-TL0288-1a-pdf ex:B-PER ex:Paul .
+ex:L9200913-TL0288-1a-pdf ex:B-PER ex:Thekla .
+ex:L9200913-TL0288-1a-pdf ex:B-LOC ex:Antschland .
+ex:L9200913-TL0288-1a-pdf ex:B-OTH_FOOD ex:Kartoffel .
+ex:Kartoffel ex:wikidataQID ex:Q16587531 .
+

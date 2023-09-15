@@ -1,0 +1,11 @@
+ex:L9200827-TL0218-2a-pdf ex:date '1920-08-27'^^xsd:date .
+ex:L9200827-TL0218-2a-pdf ex:B-LOC ex:Polen .
+ex:Polen ex:wikidataQID ex:Q36 .
+ex:Polen ex:coordinates ex:'52,0_19,0' .
+ex:L9200827-TL0218-2a-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+ex:L9200827-TL0218-2a-pdf ex:B-PER ex:Koller .
+ex:L9200827-TL0218-2a-pdf ex:B-LOC ex:Oberschlesien .
+ex:Oberschlesien ex:wikidataQID ex:Q81011 .
+ex:Oberschlesien ex:coordinates ex:'50,433843_18,032375' .
+

@@ -1,0 +1,4 @@
+ex:L9201121-TL0232-1b-pdf ex:date '1920-11-21'^^xsd:date .
+ex:L9201121-TL0232-1b-pdf ex:B-OTH_RELIGION ex:Ehe .
+ex:Ehe ex:wikidataQID ex:Q8445 .
+

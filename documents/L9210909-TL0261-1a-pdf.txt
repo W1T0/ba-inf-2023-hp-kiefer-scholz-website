@@ -1,0 +1,5 @@
+ex:L9210909-TL0261-1a-pdf ex:date '1921-09-09'^^xsd:date .
+ex:L9210909-TL0261-1a-pdf ex:B-PER ex:Hans .
+ex:L9210909-TL0261-1a-pdf ex:B-PER ex:Consu .
+ex:L9210909-TL0261-1a-pdf ex:B-PER ex:Robert .
+

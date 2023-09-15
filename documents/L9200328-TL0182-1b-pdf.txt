@@ -1,0 +1,6 @@
+ex:L9200328-TL0182-1b-pdf ex:date '1920-03-28'^^xsd:date .
+ex:L9200328-TL0182-1b-pdf ex:B-PER ex:Tekla .
+ex:L9200328-TL0182-1b-pdf ex:B-OTH_FOOD ex:Ei .
+ex:Ei ex:wikidataQID ex:Q93189 .
+ex:L9200328-TL0182-1b-pdf ex:B-PER ex:Josef .
+

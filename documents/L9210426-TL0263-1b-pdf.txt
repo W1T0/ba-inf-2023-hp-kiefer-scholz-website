@@ -1,0 +1,6 @@
+ex:L9210426-TL0263-1b-pdf ex:date '1921-04-26'^^xsd:date .
+ex:L9210426-TL0263-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9210426-TL0263-1b-pdf ex:B-OTH_RELIGION ex:Ostern .
+ex:Ostern ex:wikidataQID ex:Q21196 .
+

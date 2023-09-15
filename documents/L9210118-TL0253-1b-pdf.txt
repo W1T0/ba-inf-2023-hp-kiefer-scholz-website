@@ -1,0 +1,14 @@
+ex:L9210118-TL0253-1b-pdf ex:date '1921-01-18'^^xsd:date .
+ex:L9210118-TL0253-1b-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9210118-TL0253-1b-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9210118-TL0253-1b-pdf ex:B-PER ex:Paul .
+ex:L9210118-TL0253-1b-pdf ex:B-OTH_FOOD ex:Brot .
+ex:Brot ex:wikidataQID ex:Q7802 .
+ex:L9210118-TL0253-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9210118-TL0253-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

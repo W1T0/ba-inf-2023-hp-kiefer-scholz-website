@@ -1,0 +1,4 @@
+ex:L9200930-TL0219-2a-pdf ex:date '1920-09-30'^^xsd:date .
+ex:L9200930-TL0219-2a-pdf ex:B-PER ex:Müller .
+ex:L9200930-TL0219-2a-pdf ex:B-LOC ex:Köscheid .
+

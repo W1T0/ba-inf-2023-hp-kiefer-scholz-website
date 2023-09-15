@@ -1,0 +1,5 @@
+ex:L9211218-TL0290-1b-pdf ex:date '1921-12-18'^^xsd:date .
+ex:L9211218-TL0290-1b-pdf ex:B-PER ex:Robert .
+ex:L9211218-TL0290-1b-pdf ex:B-PER ex:Carbara .
+ex:L9211218-TL0290-1b-pdf ex:B-PER ex:Ludes .
+

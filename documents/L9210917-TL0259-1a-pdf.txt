@@ -1,0 +1,10 @@
+ex:L9210917-TL0259-1a-pdf ex:date '1921-09-17'^^xsd:date .
+ex:L9210917-TL0259-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9210917-TL0259-1a-pdf ex:B-OTH_RELIGION ex:Ehe .
+ex:Ehe ex:wikidataQID ex:Q8445 .
+ex:L9210917-TL0259-1a-pdf ex:B-OTH_RELIGION ex:Geduld .
+ex:Geduld ex:wikidataQID ex:Q12846123 .
+ex:L9210917-TL0259-1a-pdf ex:B-PER ex:Annia .
+

@@ -1,0 +1,12 @@
+ex:L9211025-TL0287-1b-pdf ex:date '1921-10-25'^^xsd:date .
+ex:L9211025-TL0287-1b-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9211025-TL0287-1b-pdf ex:B-LOC ex:Ober .
+ex:L9211025-TL0287-1b-pdf ex:B-PER ex:Paul .
+ex:L9211025-TL0287-1b-pdf ex:B-OTH_RELIGION ex:Himmel .
+ex:Himmel ex:wikidataQID ex:Q4489450 .
+ex:L9211025-TL0287-1b-pdf ex:B-PER ex:Lahner .
+ex:L9211025-TL0287-1b-pdf ex:B-PER ex:Reinhard .
+ex:L9211025-TL0287-1b-pdf ex:B-PER ex:Thekla .
+ex:L9211025-TL0287-1b-pdf ex:B-LOC ex:Gottes .
+

@@ -1,0 +1,8 @@
+ex:L9200603-TL0203-2a-pdf ex:date '1920-06-03'^^xsd:date .
+ex:L9200603-TL0203-2a-pdf ex:B-LOC ex:Budwigsdorff .
+ex:L9200603-TL0203-2a-pdf ex:B-OTH_RELIGION ex:Ostern .
+ex:Ostern ex:wikidataQID ex:Q21196 .
+ex:L9200603-TL0203-2a-pdf ex:B-PER ex:Josef .
+ex:L9200603-TL0203-2a-pdf ex:B-OTH_RELIGION ex:Kloster .
+ex:Kloster ex:wikidataQID ex:Q44613 .
+

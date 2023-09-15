@@ -1,0 +1,5 @@
+ex:L9200619-TL0199-2b-pdf ex:date '1920-06-19'^^xsd:date .
+ex:L9200619-TL0199-2b-pdf ex:B-PER ex:Thekla .
+ex:L9200619-TL0199-2b-pdf ex:B-PER ex:Paul .
+ex:L9200619-TL0199-2b-pdf ex:B-PER ex:Hedwig .
+

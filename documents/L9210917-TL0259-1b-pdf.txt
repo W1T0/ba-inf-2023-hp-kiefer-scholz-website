@@ -1,0 +1,10 @@
+ex:L9210917-TL0259-1b-pdf ex:date '1921-09-17'^^xsd:date .
+ex:L9210917-TL0259-1b-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9210917-TL0259-1b-pdf ex:B-PER ex:Carl .
+ex:L9210917-TL0259-1b-pdf ex:I-PER ex:Gesche .
+ex:L9210917-TL0259-1b-pdf ex:B-LOC ex:Amerika .
+ex:Amerika ex:wikidataQID ex:Q30 .
+ex:Amerika ex:coordinates ex:'39,828175_-98,5795' .
+

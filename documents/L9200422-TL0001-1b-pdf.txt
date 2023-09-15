@@ -1,0 +1,10 @@
+ex:L9200422-TL0001-1b-pdf ex:date '1920-04-22'^^xsd:date .
+ex:L9200422-TL0001-1b-pdf ex:B-PER ex:Bertholdi .
+ex:L9200422-TL0001-1b-pdf ex:B-PER ex:Berthold .
+ex:L9200422-TL0001-1b-pdf ex:B-PER ex:Agnes .
+ex:L9200422-TL0001-1b-pdf ex:B-OTH_RELIGION ex:Himel .
+ex:Himel ex:wikidataQID ex:Q4489450 .
+ex:L9200422-TL0001-1b-pdf ex:B-PER ex:Jekla .
+ex:L9200422-TL0001-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

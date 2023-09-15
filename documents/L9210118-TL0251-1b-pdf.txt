@@ -1,0 +1,12 @@
+ex:L9210118-TL0251-1b-pdf ex:date '1921-01-18'^^xsd:date .
+ex:L9210118-TL0251-1b-pdf ex:B-PER ex:August .
+ex:L9210118-TL0251-1b-pdf ex:B-PER ex:Marie .
+ex:L9210118-TL0251-1b-pdf ex:B-PER ex:Paul .
+ex:L9210118-TL0251-1b-pdf ex:B-PER ex:Martha .
+ex:L9210118-TL0251-1b-pdf ex:B-PER ex:Josef .
+ex:L9210118-TL0251-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9210118-TL0251-1b-pdf ex:B-LOC ex:Botzen .
+ex:Botzen ex:wikidataQID ex:Q6526 .
+ex:Botzen ex:coordinates ex:'46,498113_11,35478' .
+

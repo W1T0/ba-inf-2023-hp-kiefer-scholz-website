@@ -1,0 +1,5 @@
+ex:L9200615-TL0198-1b-pdf ex:date '1920-06-15'^^xsd:date .
+ex:L9200615-TL0198-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9200615-TL0198-1b-pdf ex:B-PER ex:Paul .
+ex:L9200615-TL0198-1b-pdf ex:B-PER ex:Agnes .
+

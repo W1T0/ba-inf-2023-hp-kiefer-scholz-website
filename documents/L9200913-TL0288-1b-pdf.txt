@@ -1,0 +1,12 @@
+ex:L9200913-TL0288-1b-pdf ex:date '1920-09-13'^^xsd:date .
+ex:L9200913-TL0288-1b-pdf ex:B-OTH_FOOD ex:Milch .
+ex:Milch ex:wikidataQID ex:Q8495 .
+ex:L9200913-TL0288-1b-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9200913-TL0288-1b-pdf ex:B-PER ex:Paulsen .
+ex:L9200913-TL0288-1b-pdf ex:B-OTH_FOOD ex:Fleisch .
+ex:Fleisch ex:wikidataQID ex:Q10990 .
+ex:L9200913-TL0288-1b-pdf ex:B-PER ex:Thekla .
+ex:L9200913-TL0288-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

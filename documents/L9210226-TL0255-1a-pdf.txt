@@ -1,0 +1,11 @@
+ex:L9210226-TL0255-1a-pdf ex:date '1921-02-26'^^xsd:date .
+ex:L9210226-TL0255-1a-pdf ex:B-OTH_RELIGION ex:Gnaden .
+ex:Gnaden ex:wikidataQID ex:Q3852175 .
+ex:L9210226-TL0255-1a-pdf ex:B-PER ex:August .
+ex:L9210226-TL0255-1a-pdf ex:I-PER ex:Christus .
+ex:L9210226-TL0255-1a-pdf ex:B-PER ex:Paul .
+ex:L9210226-TL0255-1a-pdf ex:B-PER ex:Jesu .
+ex:L9210226-TL0255-1a-pdf ex:B-LOC ex:Langenbrück .
+ex:L9210226-TL0255-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

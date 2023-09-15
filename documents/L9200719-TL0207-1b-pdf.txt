@@ -1,0 +1,5 @@
+ex:L9200719-TL0207-1b-pdf ex:date '1920-07-19'^^xsd:date .
+ex:L9200719-TL0207-1b-pdf ex:B-LOC ex:Schlesien .
+ex:Schlesien ex:wikidataQID ex:Q81720 .
+ex:Schlesien ex:coordinates ex:'51,1035_17,0396' .
+

@@ -1,0 +1,13 @@
+ex:L9210827-TL0281-1a-pdf ex:date '1921-08-27'^^xsd:date .
+ex:L9210827-TL0281-1a-pdf ex:B-PER ex:August .
+ex:L9210827-TL0281-1a-pdf ex:B-OTH_RELIGION ex:Geduld .
+ex:Geduld ex:wikidataQID ex:Q12846123 .
+ex:L9210827-TL0281-1a-pdf ex:B-PER ex:Annia .
+ex:L9210827-TL0281-1a-pdf ex:B-PER ex:Wan .
+ex:L9210827-TL0281-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9210827-TL0281-1a-pdf ex:B-OTH_RELIGION ex:Kircher .
+ex:Kircher ex:wikidataQID ex:Q34651 .
+ex:L9210827-TL0281-1a-pdf ex:B-PER ex:Boller .
+

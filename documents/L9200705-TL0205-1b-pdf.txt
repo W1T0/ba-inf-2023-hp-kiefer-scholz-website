@@ -1,0 +1,6 @@
+ex:L9200705-TL0205-1b-pdf ex:date '1920-07-05'^^xsd:date .
+ex:L9200705-TL0205-1b-pdf ex:B-PER ex:Henn .
+ex:L9200705-TL0205-1b-pdf ex:B-PER ex:Frank .
+ex:L9200705-TL0205-1b-pdf ex:I-PER ex:Müller .
+ex:L9200705-TL0205-1b-pdf ex:B-PER ex:Martha .
+

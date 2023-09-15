@@ -1,0 +1,8 @@
+ex:L9201205-TL0239-1a-pdf ex:date '1920-12-05'^^xsd:date .
+ex:L9201205-TL0239-1a-pdf ex:B-LOC ex:Europa .
+ex:L9201205-TL0239-1a-pdf ex:B-PER ex:Anna .
+ex:L9201205-TL0239-1a-pdf ex:B-PER ex:Reinhard .
+ex:L9201205-TL0239-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9201205-TL0239-1a-pdf ex:B-PER ex:Christina .
+

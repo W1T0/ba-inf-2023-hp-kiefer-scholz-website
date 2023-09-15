@@ -1,0 +1,10 @@
+ex:L9220219-TL0295-1a-pdf ex:date '1922-02-19'^^xsd:date .
+ex:L9220219-TL0295-1a-pdf ex:I-PER ex:Hofft .
+ex:L9220219-TL0295-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9220219-TL0295-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9220219-TL0295-1a-pdf ex:B-PER ex:Franz .
+

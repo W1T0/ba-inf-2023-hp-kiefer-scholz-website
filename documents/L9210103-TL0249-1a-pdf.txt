@@ -1,0 +1,9 @@
+ex:L9210103-TL0249-1a-pdf ex:date '1921-01-03'^^xsd:date .
+ex:L9210103-TL0249-1a-pdf ex:I-PER ex:Garbi .
+ex:L9210103-TL0249-1a-pdf ex:B-PER ex:Robert .
+ex:L9210103-TL0249-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9210103-TL0249-1a-pdf ex:I-PER ex:Berlin .
+ex:L9210103-TL0249-1a-pdf ex:B-PER ex:Thea .
+ex:L9210103-TL0249-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

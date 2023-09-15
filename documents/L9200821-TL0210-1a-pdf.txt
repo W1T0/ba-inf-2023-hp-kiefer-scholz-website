@@ -1,0 +1,11 @@
+ex:L9200821-TL0210-1a-pdf ex:date '1920-08-21'^^xsd:date .
+ex:L9200821-TL0210-1a-pdf ex:B-OTH_RELIGION ex:Ostern .
+ex:Ostern ex:wikidataQID ex:Q21196 .
+ex:L9200821-TL0210-1a-pdf ex:B-PER ex:August .
+ex:L9200821-TL0210-1a-pdf ex:I-PER ex:Jedrig .
+ex:L9200821-TL0210-1a-pdf ex:B-PER ex:Agnes .
+ex:L9200821-TL0210-1a-pdf ex:B-PER ex:Marie .
+ex:L9200821-TL0210-1a-pdf ex:I-PER ex:von .
+ex:L9200821-TL0210-1a-pdf ex:B-PER ex:Josef .
+ex:L9200821-TL0210-1a-pdf ex:B-PER ex:Heding .
+

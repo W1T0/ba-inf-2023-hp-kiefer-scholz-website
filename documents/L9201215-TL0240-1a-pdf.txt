@@ -1,0 +1,7 @@
+ex:L9201215-TL0240-1a-pdf ex:date '1920-12-15'^^xsd:date .
+ex:L9201215-TL0240-1a-pdf ex:B-PER ex:August .
+ex:L9201215-TL0240-1a-pdf ex:B-PER ex:Scholz .
+ex:L9201215-TL0240-1a-pdf ex:I-PER ex:Manne .
+ex:L9201215-TL0240-1a-pdf ex:B-PER ex:Robert .
+ex:L9201215-TL0240-1a-pdf ex:B-PER ex:Thekla .
+

@@ -1,0 +1,13 @@
+ex:L9200425-TL0192-1a-pdf ex:date '1920-04-25'^^xsd:date .
+ex:L9200425-TL0192-1a-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+ex:L9200425-TL0192-1a-pdf ex:B-PER ex:Robert .
+ex:L9200425-TL0192-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9200425-TL0192-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9200425-TL0192-1a-pdf ex:B-OTH_RELIGION ex:Hingabe .
+ex:Hingabe ex:wikidataQID ex:Q33111788 .
+

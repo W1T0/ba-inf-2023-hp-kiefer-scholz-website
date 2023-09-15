@@ -1,0 +1,10 @@
+ex:L9200404-TL0189-1b-pdf ex:date '1920-04-04'^^xsd:date .
+ex:L9200404-TL0189-1b-pdf ex:B-PER ex:Tekla .
+ex:L9200404-TL0189-1b-pdf ex:B-PER ex:Art .
+ex:L9200404-TL0189-1b-pdf ex:B-PER ex:Barthold .
+ex:L9200404-TL0189-1b-pdf ex:B-LOC ex:Wien .
+ex:Wien ex:wikidataQID ex:Q1741 .
+ex:Wien ex:coordinates ex:'48,208333333_16,3725' .
+ex:L9200404-TL0189-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

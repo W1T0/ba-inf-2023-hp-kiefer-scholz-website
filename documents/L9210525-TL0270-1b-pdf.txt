@@ -1,0 +1,5 @@
+ex:L9210525-TL0270-1b-pdf ex:date '1921-05-25'^^xsd:date .
+ex:L9210525-TL0270-1b-pdf ex:B-PER ex:Christine .
+ex:L9210525-TL0270-1b-pdf ex:B-PER ex:Thekla .
+ex:L9210525-TL0270-1b-pdf ex:I-PER ex:Kreutz .
+

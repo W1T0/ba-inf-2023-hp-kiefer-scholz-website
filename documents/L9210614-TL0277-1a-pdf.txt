@@ -1,0 +1,9 @@
+ex:L9210614-TL0277-1a-pdf ex:date '1921-06-14'^^xsd:date .
+ex:L9210614-TL0277-1a-pdf ex:B-OTH_FOOD ex:Mehl .
+ex:Mehl ex:wikidataQID ex:Q36465 .
+ex:L9210614-TL0277-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9210614-TL0277-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+

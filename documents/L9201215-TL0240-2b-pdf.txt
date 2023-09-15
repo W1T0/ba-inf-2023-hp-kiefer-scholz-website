@@ -1,0 +1,5 @@
+ex:L9201215-TL0240-2b-pdf ex:date '1920-12-15'^^xsd:date .
+ex:L9201215-TL0240-2b-pdf ex:B-PER ex:Thekla .
+ex:L9201215-TL0240-2b-pdf ex:B-OTH_RELIGION ex:Leid .
+ex:Leid ex:wikidataQID ex:Q5780945 .
+

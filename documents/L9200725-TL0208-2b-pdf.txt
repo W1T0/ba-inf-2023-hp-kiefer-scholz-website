@@ -1,0 +1,4 @@
+ex:L9200725-TL0208-2b-pdf ex:date '1920-07-25'^^xsd:date .
+ex:L9200725-TL0208-2b-pdf ex:B-PER ex:Robert .
+ex:L9200725-TL0208-2b-pdf ex:B-PER ex:Wieser .
+

@@ -1,0 +1,11 @@
+ex:L9210501-TL0268-1b-pdf ex:date '1921-05-01'^^xsd:date .
+ex:L9210501-TL0268-1b-pdf ex:B-PER ex:Mari .
+ex:L9210501-TL0268-1b-pdf ex:B-OTH_RELIGION ex:Ostern .
+ex:Ostern ex:wikidataQID ex:Q21196 .
+ex:L9210501-TL0268-1b-pdf ex:B-PER ex:Franz .
+ex:L9210501-TL0268-1b-pdf ex:I-LOC ex:brück .
+ex:L9210501-TL0268-1b-pdf ex:B-PER ex:Sontag .
+ex:L9210501-TL0268-1b-pdf ex:B-LOC ex:Langen .
+ex:Langen ex:wikidataQID ex:Q14932 .
+ex:Langen ex:coordinates ex:'49,989305555_8,680347222' .
+

@@ -1,0 +1,12 @@
+ex:L9210326-TL0262-1b-pdf ex:date '1921-03-26'^^xsd:date .
+ex:L9210326-TL0262-1b-pdf ex:B-LOC ex:München .
+ex:München ex:wikidataQID ex:Q1726 .
+ex:München ex:coordinates ex:'48,1375_11,575' .
+ex:L9210326-TL0262-1b-pdf ex:B-PER ex:Hedewig .
+ex:L9210326-TL0262-1b-pdf ex:B-PER ex:Thekla .
+ex:L9210326-TL0262-1b-pdf ex:I-PER ex:von .
+ex:L9210326-TL0262-1b-pdf ex:B-LOC ex:Langenbrückt .
+ex:L9210326-TL0262-1b-pdf ex:B-PER ex:Josef .
+ex:L9210326-TL0262-1b-pdf ex:I-PER ex:Langenbrück .
+ex:L9210326-TL0262-1b-pdf ex:B-PER ex:Hedel .
+

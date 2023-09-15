@@ -1,0 +1,9 @@
+ex:L9210210-TL0325-1a-pdf ex:date '1921-02-10'^^xsd:date .
+ex:L9210210-TL0325-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9210210-TL0325-1a-pdf ex:B-LOC ex:Wien .
+ex:Wien ex:wikidataQID ex:Q1741 .
+ex:Wien ex:coordinates ex:'48,208333333_16,3725' .
+ex:L9210210-TL0325-1a-pdf ex:B-OTH_RELIGION ex:Kloster .
+ex:Kloster ex:wikidataQID ex:Q44613 .
+

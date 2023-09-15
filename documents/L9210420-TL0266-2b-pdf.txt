@@ -1,0 +1,7 @@
+ex:L9210420-TL0266-2b-pdf ex:date '1921-04-20'^^xsd:date .
+ex:L9210420-TL0266-2b-pdf ex:B-OTH ex:Mark .
+ex:L9210420-TL0266-2b-pdf ex:B-PER ex:Thekla .
+ex:L9210420-TL0266-2b-pdf ex:B-OTH_FOOD ex:Milch .
+ex:Milch ex:wikidataQID ex:Q8495 .
+ex:L9210420-TL0266-2b-pdf ex:B-PER ex:Paul .
+

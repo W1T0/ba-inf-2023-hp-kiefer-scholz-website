@@ -1,0 +1,5 @@
+ex:L9210124-TL1096-2b-pdf ex:date '1921-01-24'^^xsd:date .
+ex:L9210124-TL1096-2b-pdf ex:B-PER ex:Speck .
+ex:L9210124-TL1096-2b-pdf ex:B-OTH ex:Cent .
+ex:L9210124-TL1096-2b-pdf ex:B-PER ex:Paul .
+

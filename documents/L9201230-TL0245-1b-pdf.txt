@@ -1,0 +1,4 @@
+ex:L9201230-TL0245-1b-pdf ex:date '1920-12-30'^^xsd:date .
+ex:L9201230-TL0245-1b-pdf ex:B-OTH_RELIGION ex:Gnaden .
+ex:Gnaden ex:wikidataQID ex:Q3852175 .
+

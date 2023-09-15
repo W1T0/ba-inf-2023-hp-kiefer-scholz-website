@@ -1,0 +1,12 @@
+ex:L9211124-TL0289-1a-pdf ex:date '1921-11-24'^^xsd:date .
+ex:L9211124-TL0289-1a-pdf ex:B-PER ex:G .
+ex:L9211124-TL0289-1a-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9211124-TL0289-1a-pdf ex:B-OTH ex:Dollar .
+ex:L9211124-TL0289-1a-pdf ex:B-PER ex:Thekla .
+ex:L9211124-TL0289-1a-pdf ex:B-OTH_RELIGION ex:Congregation .
+ex:Congregation ex:wikidataQID ex:Q1384677 .
+ex:L9211124-TL0289-1a-pdf ex:B-OTH_FOOD ex:Burger .
+ex:Burger ex:wikidataQID ex:Q6663 .
+ex:L9211124-TL0289-1a-pdf ex:B-OTH ex:Doller .
+

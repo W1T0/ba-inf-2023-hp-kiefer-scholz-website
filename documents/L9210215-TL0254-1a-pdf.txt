@@ -1,0 +1,5 @@
+ex:L9210215-TL0254-1a-pdf ex:date '1921-02-15'^^xsd:date .
+ex:L9210215-TL0254-1a-pdf ex:B-OTH_RELIGION ex:Geiste .
+ex:Geiste ex:wikidataQID ex:Q120312205 .
+ex:L9210215-TL0254-1a-pdf ex:B-PER ex:Walter .
+

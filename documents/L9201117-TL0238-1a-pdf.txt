@@ -1,0 +1,14 @@
+ex:L9201117-TL0238-1a-pdf ex:date '1920-11-17'^^xsd:date .
+ex:L9201117-TL0238-1a-pdf ex:B-PER ex:Mari .
+ex:L9201117-TL0238-1a-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9201117-TL0238-1a-pdf ex:B-PER ex:Joseph .
+ex:L9201117-TL0238-1a-pdf ex:B-OTH_FOOD ex:Lebensmittel .
+ex:Lebensmittel ex:wikidataQID ex:Q8195619 .
+ex:L9201117-TL0238-1a-pdf ex:B-PER ex:Agnes .
+ex:L9201117-TL0238-1a-pdf ex:B-PER ex:Marie .
+ex:L9201117-TL0238-1a-pdf ex:B-PER ex:Franz .
+ex:L9201117-TL0238-1a-pdf ex:B-OTH_RELIGION ex:Weinachten .
+ex:Weinachten ex:wikidataQID ex:Q19809 .
+ex:L9201117-TL0238-1a-pdf ex:I-PER ex:Hauß .
+

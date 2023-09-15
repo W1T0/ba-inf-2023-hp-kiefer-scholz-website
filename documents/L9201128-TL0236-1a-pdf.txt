@@ -1,0 +1,12 @@
+ex:L9201128-TL0236-1a-pdf ex:date '1920-11-28'^^xsd:date .
+ex:L9201128-TL0236-1a-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9201128-TL0236-1a-pdf ex:B-PER ex:Anna .
+ex:L9201128-TL0236-1a-pdf ex:B-PER ex:Reinhard .
+ex:L9201128-TL0236-1a-pdf ex:B-PER ex:Rein .
+ex:L9201128-TL0236-1a-pdf ex:B-PER ex:Steinhard .
+ex:L9201128-TL0236-1a-pdf ex:B-OTH_RELIGION ex:Gebete .
+ex:Gebete ex:wikidataQID ex:Q40953 .
+ex:L9201128-TL0236-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

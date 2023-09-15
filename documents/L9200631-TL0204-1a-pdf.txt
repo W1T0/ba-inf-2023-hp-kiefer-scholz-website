@@ -1,0 +1,8 @@
+ex:L9200631-TL0204-1a-pdf ex:date '1920-06-31'^^xsd:date .
+ex:L9200631-TL0204-1a-pdf ex:B-PER ex:Thekla .
+ex:L9200631-TL0204-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9200631-TL0204-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9200631-TL0204-1a-pdf ex:B-PER ex:Paul .
+

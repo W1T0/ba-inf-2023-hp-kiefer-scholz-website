@@ -1,0 +1,11 @@
+ex:L9201004-TL0224-2a-pdf ex:date '1920-10-04'^^xsd:date .
+ex:L9201004-TL0224-2a-pdf ex:B-OTH_FOOD ex:Milch .
+ex:Milch ex:wikidataQID ex:Q8495 .
+ex:L9201004-TL0224-2a-pdf ex:B-PER ex:August .
+ex:L9201004-TL0224-2a-pdf ex:B-PER ex:Paul .
+ex:L9201004-TL0224-2a-pdf ex:B-PER ex:Heiden .
+ex:L9201004-TL0224-2a-pdf ex:B-PER ex:Selma .
+ex:L9201004-TL0224-2a-pdf ex:B-PER ex:Robert .
+ex:L9201004-TL0224-2a-pdf ex:B-PER ex:Thekla .
+ex:L9201004-TL0224-2a-pdf ex:B-PER ex:Aperle .
+

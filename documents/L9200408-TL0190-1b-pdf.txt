@@ -1,0 +1,9 @@
+ex:L9200408-TL0190-1b-pdf ex:date '1920-04-08'^^xsd:date .
+ex:L9200408-TL0190-1b-pdf ex:B-PER ex:Glick .
+ex:L9200408-TL0190-1b-pdf ex:B-PER ex:Josef .
+ex:L9200408-TL0190-1b-pdf ex:B-OTH_RELIGION ex:Pfingsten .
+ex:Pfingsten ex:wikidataQID ex:Q39864 .
+ex:L9200408-TL0190-1b-pdf ex:B-OTH_RELIGION ex:Gebet .
+ex:Gebet ex:wikidataQID ex:Q40953 .
+ex:L9200408-TL0190-1b-pdf ex:B-PER ex:Nat .
+

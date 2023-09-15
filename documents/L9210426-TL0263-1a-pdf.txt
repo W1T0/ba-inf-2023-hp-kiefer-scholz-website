@@ -1,0 +1,9 @@
+ex:L9210426-TL0263-1a-pdf ex:date '1921-04-26'^^xsd:date .
+ex:L9210426-TL0263-1a-pdf ex:B-PER ex:Christus .
+ex:L9210426-TL0263-1a-pdf ex:B-PER ex:Josef .
+ex:L9210426-TL0263-1a-pdf ex:B-PER ex:Maria .
+ex:L9210426-TL0263-1a-pdf ex:B-OTH_RELIGION ex:Oster .
+ex:Oster ex:wikidataQID ex:Q21196 .
+ex:L9210426-TL0263-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

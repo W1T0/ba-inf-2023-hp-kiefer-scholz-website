@@ -1,0 +1,8 @@
+ex:L9210525-TL0270-1a-pdf ex:date '1921-05-25'^^xsd:date .
+ex:L9210525-TL0270-1a-pdf ex:B-PER ex:Thekla .
+ex:L9210525-TL0270-1a-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+ex:L9210525-TL0270-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9210525-TL0270-1a-pdf ex:B-PER ex:Danck .
+

@@ -1,0 +1,5 @@
+ex:L9200910-TL0220-1a-pdf ex:date '1920-09-10'^^xsd:date .
+ex:L9200910-TL0220-1a-pdf ex:B-PER ex:Robert .
+ex:L9200910-TL0220-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

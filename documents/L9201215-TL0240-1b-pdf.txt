@@ -1,0 +1,9 @@
+ex:L9201215-TL0240-1b-pdf ex:date '1920-12-15'^^xsd:date .
+ex:L9201215-TL0240-1b-pdf ex:B-OTH_FOOD ex:Rücken .
+ex:Rücken ex:wikidataQID ex:Q107262074 .
+ex:L9201215-TL0240-1b-pdf ex:B-LOC ex:Deutschlän .
+ex:L9201215-TL0240-1b-pdf ex:B-PER ex:Thekla .
+ex:L9201215-TL0240-1b-pdf ex:B-LOC ex:Nebelsberg .
+ex:L9201215-TL0240-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

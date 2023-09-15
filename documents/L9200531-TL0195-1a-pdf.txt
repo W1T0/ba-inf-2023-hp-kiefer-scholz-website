@@ -1,0 +1,6 @@
+ex:L9200531-TL0195-1a-pdf ex:date '1920-05-31'^^xsd:date .
+ex:L9200531-TL0195-1a-pdf ex:B-PER ex:Thekla .
+ex:L9200531-TL0195-1a-pdf ex:I-PER ex:Langer .
+ex:L9200531-TL0195-1a-pdf ex:B-PER ex:Anna .
+ex:L9200531-TL0195-1a-pdf ex:B-PER ex:Schneider .
+

@@ -1,0 +1,5 @@
+ex:L9200822-TL0216-1a-pdf ex:date '1920-08-22'^^xsd:date .
+ex:L9200822-TL0216-1a-pdf ex:B-PER ex:Rosalie .
+ex:L9200822-TL0216-1a-pdf ex:B-LOC ex:Strelitz .
+ex:L9200822-TL0216-1a-pdf ex:B-PER ex:August .
+

@@ -1,0 +1,14 @@
+ex:L9211212-TL0293-1a-pdf ex:date '1921-12-12'^^xsd:date .
+ex:L9211212-TL0293-1a-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9211212-TL0293-1a-pdf ex:B-OTH_RELIGION ex:Gnaden .
+ex:Gnaden ex:wikidataQID ex:Q3852175 .
+ex:L9211212-TL0293-1a-pdf ex:B-PER ex:Anna .
+ex:L9211212-TL0293-1a-pdf ex:B-PER ex:Franz .
+ex:L9211212-TL0293-1a-pdf ex:B-OTH_RELIGION ex:Christus .
+ex:Christus ex:wikidataQID ex:Q642420 .
+ex:L9211212-TL0293-1a-pdf ex:B-PER ex:Maria .
+ex:L9211212-TL0293-1a-pdf ex:B-PER ex:Jesus .
+ex:L9211212-TL0293-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

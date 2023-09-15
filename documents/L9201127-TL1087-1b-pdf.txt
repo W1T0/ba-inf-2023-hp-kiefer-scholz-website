@@ -1,0 +1,5 @@
+ex:L9201127-TL1087-1b-pdf ex:date '1920-11-27'^^xsd:date .
+ex:L9201127-TL1087-1b-pdf ex:B-LOC ex:Dresden .
+ex:Dresden ex:wikidataQID ex:Q737444 .
+ex:Dresden ex:coordinates ex:'39,6222_-100,421' .
+

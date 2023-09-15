@@ -1,0 +1,9 @@
+ex:L9201017-TL0225-2b-pdf ex:date '1920-10-17'^^xsd:date .
+ex:L9201017-TL0225-2b-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9201017-TL0225-2b-pdf ex:B-PER ex:August .
+ex:L9201017-TL0225-2b-pdf ex:B-PER ex:Massa .
+ex:L9201017-TL0225-2b-pdf ex:B-PER ex:Robert .
+ex:L9201017-TL0225-2b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

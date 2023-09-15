@@ -1,0 +1,13 @@
+ex:L9200930-TL0219-1a-pdf ex:date '1920-09-30'^^xsd:date .
+ex:L9200930-TL0219-1a-pdf ex:B-PER ex:Marta .
+ex:L9200930-TL0219-1a-pdf ex:B-OTH_RELIGION ex:Geduld .
+ex:Geduld ex:wikidataQID ex:Q12846123 .
+ex:L9200930-TL0219-1a-pdf ex:B-OTH_RELIGION ex:Religion .
+ex:Religion ex:wikidataQID ex:Q9174 .
+ex:L9200930-TL0219-1a-pdf ex:B-LOC ex:Langenbrück .
+ex:L9200930-TL0219-1a-pdf ex:B-LOC ex:Chrika .
+ex:L9200930-TL0219-1a-pdf ex:B-OTH_RELIGION ex:Geiste .
+ex:Geiste ex:wikidataQID ex:Q120312205 .
+ex:L9200930-TL0219-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

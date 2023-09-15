@@ -1,0 +1,12 @@
+ex:L9200612-TL0197-1b-pdf ex:date '1920-06-12'^^xsd:date .
+ex:L9200612-TL0197-1b-pdf ex:B-OTH ex:Mark .
+ex:L9200612-TL0197-1b-pdf ex:B-PER ex:Tekla .
+ex:L9200612-TL0197-1b-pdf ex:B-PER ex:August .
+ex:L9200612-TL0197-1b-pdf ex:B-OTH_RELIGION ex:Kirche .
+ex:Kirche ex:wikidataQID ex:Q34651 .
+ex:L9200612-TL0197-1b-pdf ex:B-PER ex:Paul .
+ex:L9200612-TL0197-1b-pdf ex:B-PER ex:Josef .
+ex:L9200612-TL0197-1b-pdf ex:B-PER ex:Guhl .
+ex:L9200612-TL0197-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

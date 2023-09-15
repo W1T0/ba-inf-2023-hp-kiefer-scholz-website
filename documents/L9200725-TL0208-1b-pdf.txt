@@ -1,0 +1,10 @@
+ex:L9200725-TL0208-1b-pdf ex:date '1920-07-25'^^xsd:date .
+ex:L9200725-TL0208-1b-pdf ex:B-PER ex:Thekla .
+ex:L9200725-TL0208-1b-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9200725-TL0208-1b-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+ex:L9200725-TL0208-1b-pdf ex:B-OTH_FOOD ex:Rücken .
+ex:Rücken ex:wikidataQID ex:Q107262074 .
+

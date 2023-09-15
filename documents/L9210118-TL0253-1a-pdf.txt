@@ -1,0 +1,8 @@
+ex:L9210118-TL0253-1a-pdf ex:date '1921-01-18'^^xsd:date .
+ex:L9210118-TL0253-1a-pdf ex:B-PER ex:Robert .
+ex:L9210118-TL0253-1a-pdf ex:B-PER ex:Thekla .
+ex:L9210118-TL0253-1a-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9210118-TL0253-1a-pdf ex:B-OTH_RELIGION ex:Kirche .
+ex:Kirche ex:wikidataQID ex:Q34651 .
+

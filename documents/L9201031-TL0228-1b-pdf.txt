@@ -1,0 +1,16 @@
+ex:L9201031-TL0228-1b-pdf ex:date '1920-10-31'^^xsd:date .
+ex:L9201031-TL0228-1b-pdf ex:B-PER ex:Mariechen .
+ex:L9201031-TL0228-1b-pdf ex:B-OTH_RELIGION ex:Strafe .
+ex:Strafe ex:wikidataQID ex:Q186361 .
+ex:L9201031-TL0228-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9201031-TL0228-1b-pdf ex:B-LOC ex:Breslau .
+ex:L9201031-TL0228-1b-pdf ex:B-OTH_RELIGION ex:Gebete .
+ex:Gebete ex:wikidataQID ex:Q40953 .
+ex:L9201031-TL0228-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9201031-TL0228-1b-pdf ex:B-OTH ex:Mk .
+ex:L9201031-TL0228-1b-pdf ex:B-OTH_RELIGION ex:Sünden .
+ex:Sünden ex:wikidataQID ex:Q60227 .
+

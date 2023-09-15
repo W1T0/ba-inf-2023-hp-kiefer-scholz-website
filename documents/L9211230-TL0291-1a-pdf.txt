@@ -1,0 +1,6 @@
+ex:L9211230-TL0291-1a-pdf ex:date '1921-12-30'^^xsd:date .
+ex:L9211230-TL0291-1a-pdf ex:B-OTH_RELIGION ex:Kollar .
+ex:Kollar ex:wikidataQID ex:Q118587 .
+ex:L9211230-TL0291-1a-pdf ex:B-PER ex:Thekla .
+ex:L9211230-TL0291-1a-pdf ex:B-LOC ex:Hebbelsberg .
+

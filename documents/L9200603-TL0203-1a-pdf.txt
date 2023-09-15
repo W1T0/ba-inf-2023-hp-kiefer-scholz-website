@@ -1,0 +1,13 @@
+ex:L9200603-TL0203-1a-pdf ex:date '1920-06-03'^^xsd:date .
+ex:L9200603-TL0203-1a-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9200603-TL0203-1a-pdf ex:B-OTH_FOOD ex:Lebensmitteln .
+ex:Lebensmitteln ex:wikidataQID ex:Q8195619 .
+ex:L9200603-TL0203-1a-pdf ex:B-PER ex:Anna .
+ex:L9200603-TL0203-1a-pdf ex:B-OTH_RELIGION ex:Himmel .
+ex:Himmel ex:wikidataQID ex:Q4489450 .
+ex:L9200603-TL0203-1a-pdf ex:B-PER ex:Reinhard .
+ex:L9200603-TL0203-1a-pdf ex:B-PER ex:Thekla .
+ex:L9200603-TL0203-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

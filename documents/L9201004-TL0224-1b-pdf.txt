@@ -1,0 +1,9 @@
+ex:L9201004-TL0224-1b-pdf ex:date '1920-10-04'^^xsd:date .
+ex:L9201004-TL0224-1b-pdf ex:I-PER ex:Marta .
+ex:L9201004-TL0224-1b-pdf ex:B-PER ex:August .
+ex:L9201004-TL0224-1b-pdf ex:B-OTH_FOOD ex:Samen .
+ex:Samen ex:wikidataQID ex:Q40763 .
+ex:L9201004-TL0224-1b-pdf ex:B-PER ex:Böhm .
+ex:L9201004-TL0224-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

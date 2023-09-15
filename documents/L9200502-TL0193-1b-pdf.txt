@@ -1,0 +1,6 @@
+ex:L9200502-TL0193-1b-pdf ex:date '1920-05-02'^^xsd:date .
+ex:L9200502-TL0193-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200502-TL0193-1b-pdf ex:B-OTH_RELIGION ex:Ostern .
+ex:Ostern ex:wikidataQID ex:Q21196 .
+
