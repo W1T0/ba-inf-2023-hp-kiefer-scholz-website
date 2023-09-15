@@ -1,0 +1,13 @@
+ex:L9191208-TL0169-2b-pdf ex:date '1919-12-08'^^xsd:date .
+ex:L9191208-TL0169-2b-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9191208-TL0169-2b-pdf ex:B-PER ex:August .
+ex:L9191208-TL0169-2b-pdf ex:B-PER ex:Marie .
+ex:L9191208-TL0169-2b-pdf ex:B-PER ex:Paul .
+ex:L9191208-TL0169-2b-pdf ex:B-OTH_FOOD ex:Fleisch .
+ex:Fleisch ex:wikidataQID ex:Q10990 .
+ex:L9191208-TL0169-2b-pdf ex:B-PER ex:Franz .
+ex:L9191208-TL0169-2b-pdf ex:B-PER ex:Josef .
+ex:L9191208-TL0169-2b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

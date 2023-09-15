@@ -1,0 +1,3 @@
+ex:L9191201-TL0170-2a-pdf ex:date '1919-12-01'^^xsd:date .
+ex:L9191201-TL0170-2a-pdf ex:B-OTH ex:Pfund .
+

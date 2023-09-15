@@ -1,0 +1,6 @@
+ex:L9190921-TL0168-1a-pdf ex:date '1919-09-21'^^xsd:date .
+ex:L9190921-TL0168-1a-pdf ex:B-OTH_FOOD ex:Gericht .
+ex:Gericht ex:wikidataQID ex:Q746549 .
+ex:L9190921-TL0168-1a-pdf ex:B-PER ex:Heder .
+ex:L9190921-TL0168-1a-pdf ex:B-PER ex:Paul .
+

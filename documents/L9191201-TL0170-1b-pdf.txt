@@ -1,0 +1,10 @@
+ex:L9191201-TL0170-1b-pdf ex:date '1919-12-01'^^xsd:date .
+ex:L9191201-TL0170-1b-pdf ex:B-PER ex:August .
+ex:L9191201-TL0170-1b-pdf ex:B-OTH_RELIGION ex:Taufbe .
+ex:Taufbe ex:wikidataQID ex:Q35856 .
+ex:L9191201-TL0170-1b-pdf ex:B-PER ex:Paul .
+ex:L9191201-TL0170-1b-pdf ex:B-PER ex:Robert .
+ex:L9191201-TL0170-1b-pdf ex:B-PER ex:Thekla .
+ex:L9191201-TL0170-1b-pdf ex:B-OTH_RELIGION ex:Pate .
+ex:Pate ex:wikidataQID ex:Q223973 .
+

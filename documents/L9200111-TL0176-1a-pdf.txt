@@ -1,0 +1,13 @@
+ex:L9200111-TL0176-1a-pdf ex:date '1920-01-11'^^xsd:date .
+ex:L9200111-TL0176-1a-pdf ex:I-LOC ex:c .
+ex:L9200111-TL0176-1a-pdf ex:B-PER ex:Thekla .
+ex:L9200111-TL0176-1a-pdf ex:B-PER ex:Franz .
+ex:L9200111-TL0176-1a-pdf ex:B-OTH_RELIGION ex:Schrei .
+ex:Schrei ex:wikidataQID ex:Q697295 .
+ex:L9200111-TL0176-1a-pdf ex:B-OTH_RELIGION ex:Seele .
+ex:Seele ex:wikidataQID ex:Q9165 .
+ex:L9200111-TL0176-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q986984 .
+ex:Neustadt ex:coordinates ex:'50,319722222_17,579166666' .
+ex:L9200111-TL0176-1a-pdf ex:I-LOC ex:Schles .
+

@@ -1,0 +1,8 @@
+ex:L9200222-TL0235-1a-pdf ex:date '1920-02-22'^^xsd:date .
+ex:L9200222-TL0235-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200222-TL0235-1a-pdf ex:B-PER ex:Thekla .
+ex:L9200222-TL0235-1a-pdf ex:B-OTH_RELIGION ex:Geist .
+ex:Geist ex:wikidataQID ex:Q120312205 .
+ex:L9200222-TL0235-1a-pdf ex:B-PER ex:Anna .
+

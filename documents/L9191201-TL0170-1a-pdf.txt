@@ -1,0 +1,14 @@
+ex:L9191201-TL0170-1a-pdf ex:date '1919-12-01'^^xsd:date .
+ex:L9191201-TL0170-1a-pdf ex:B-PER ex:Christ .
+ex:L9191201-TL0170-1a-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9191201-TL0170-1a-pdf ex:B-PER ex:Paul .
+ex:L9191201-TL0170-1a-pdf ex:I-PER ex:Kind .
+ex:L9191201-TL0170-1a-pdf ex:B-PER ex:Thekla .
+ex:L9191201-TL0170-1a-pdf ex:B-PER ex:Robert .
+ex:L9191201-TL0170-1a-pdf ex:B-PER ex:Josef .
+ex:L9191201-TL0170-1a-pdf ex:B-OTH_RELIGION ex:Pfarrer .
+ex:Pfarrer ex:wikidataQID ex:Q52769526 .
+ex:L9191201-TL0170-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

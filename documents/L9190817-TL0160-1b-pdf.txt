@@ -1,0 +1,11 @@
+ex:L9190817-TL0160-1b-pdf ex:date '1919-08-17'^^xsd:date .
+ex:L9190817-TL0160-1b-pdf ex:I-LOC ex:Berlin .
+ex:L9190817-TL0160-1b-pdf ex:B-PER ex:Robert .
+ex:L9190817-TL0160-1b-pdf ex:B-PER ex:Thekla .
+ex:L9190817-TL0160-1b-pdf ex:B-LOC ex:Langenbrück .
+ex:L9190817-TL0160-1b-pdf ex:B-LOC ex:Potsdam .
+ex:Potsdam ex:wikidataQID ex:Q1711 .
+ex:Potsdam ex:coordinates ex:'52,4_13,066666666' .
+ex:L9190817-TL0160-1b-pdf ex:B-OTH_RELIGION ex:Seele .
+ex:Seele ex:wikidataQID ex:Q9165 .
+

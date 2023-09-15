@@ -1,0 +1,7 @@
+ex:L9200102-TL0174-1b-pdf ex:date '1920-01-02'^^xsd:date .
+ex:L9200102-TL0174-1b-pdf ex:B-OTH_RELIGION ex:Weihnachten .
+ex:Weihnachten ex:wikidataQID ex:Q19809 .
+ex:L9200102-TL0174-1b-pdf ex:B-PER ex:Anna .
+ex:L9200102-TL0174-1b-pdf ex:B-OTH_RELIGION ex:Weihnachte .
+ex:Weihnachte ex:wikidataQID ex:Q19809 .
+

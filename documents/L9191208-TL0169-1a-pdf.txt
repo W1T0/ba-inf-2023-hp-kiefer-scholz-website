@@ -1,0 +1,12 @@
+ex:L9191208-TL0169-1a-pdf ex:date '1919-12-08'^^xsd:date .
+ex:L9191208-TL0169-1a-pdf ex:B-PER ex:August .
+ex:L9191208-TL0169-1a-pdf ex:B-PER ex:Paul .
+ex:L9191208-TL0169-1a-pdf ex:B-LOC ex:Russland .
+ex:Russland ex:wikidataQID ex:Q159 .
+ex:Russland ex:coordinates ex:'66,416666666_94,25' .
+ex:L9191208-TL0169-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9191208-TL0169-1a-pdf ex:B-PER ex:Josef .
+ex:L9191208-TL0169-1a-pdf ex:B-PER ex:Annas .
+

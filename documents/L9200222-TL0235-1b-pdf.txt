@@ -1,0 +1,13 @@
+ex:L9200222-TL0235-1b-pdf ex:date '1920-02-22'^^xsd:date .
+ex:L9200222-TL0235-1b-pdf ex:B-OTH_RELIGION ex:Beichtvater .
+ex:Beichtvater ex:wikidataQID ex:Q16827718 .
+ex:L9200222-TL0235-1b-pdf ex:B-LOC ex:Sogo .
+ex:L9200222-TL0235-1b-pdf ex:B-OTH_RELIGION ex:Geist .
+ex:Geist ex:wikidataQID ex:Q120312205 .
+ex:L9200222-TL0235-1b-pdf ex:B-LOC ex:Kission .
+ex:L9200222-TL0235-1b-pdf ex:B-PER ex:Thekla .
+ex:L9200222-TL0235-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200222-TL0235-1b-pdf ex:B-OTH_RELIGION ex:Kloster .
+ex:Kloster ex:wikidataQID ex:Q44613 .
+

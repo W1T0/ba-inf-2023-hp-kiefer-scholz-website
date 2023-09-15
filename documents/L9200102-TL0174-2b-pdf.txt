@@ -1,0 +1,5 @@
+ex:L9200102-TL0174-2b-pdf ex:date '1920-01-02'^^xsd:date .
+ex:L9200102-TL0174-2b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200102-TL0174-2b-pdf ex:B-PER ex:August .
+

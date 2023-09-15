@@ -1,0 +1,14 @@
+ex:L9190808-TL0164-1a-pdf ex:date '1919-08-08'^^xsd:date .
+ex:L9190808-TL0164-1a-pdf ex:B-PER ex:August .
+ex:L9190808-TL0164-1a-pdf ex:B-PER ex:Joseph .
+ex:L9190808-TL0164-1a-pdf ex:B-PER ex:Müller .
+ex:L9190808-TL0164-1a-pdf ex:B-PER ex:Paul .
+ex:L9190808-TL0164-1a-pdf ex:B-PER ex:Anna .
+ex:L9190808-TL0164-1a-pdf ex:B-PER ex:Johann .
+ex:L9190808-TL0164-1a-pdf ex:I-PER ex:Bleicher .
+ex:L9190808-TL0164-1a-pdf ex:B-PER ex:Franz .
+ex:L9190808-TL0164-1a-pdf ex:I-PER ex:Hagel .
+ex:L9190808-TL0164-1a-pdf ex:B-LOC ex:Frankreich .
+ex:Frankreich ex:wikidataQID ex:Q142 .
+ex:Frankreich ex:coordinates ex:'47,0_2,0' .
+

@@ -1,0 +1,10 @@
+ex:L9200215-TL0181-1a-pdf ex:date '1920-02-15'^^xsd:date .
+ex:L9200215-TL0181-1a-pdf ex:B-PER ex:Anna .
+ex:L9200215-TL0181-1a-pdf ex:B-OTH_RELIGION ex:Himmel .
+ex:Himmel ex:wikidataQID ex:Q4489450 .
+ex:L9200215-TL0181-1a-pdf ex:B-OTH ex:Kronen .
+ex:L9200215-TL0181-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200215-TL0181-1a-pdf ex:B-OTH_RELIGION ex:Gebet .
+ex:Gebet ex:wikidataQID ex:Q40953 .
+

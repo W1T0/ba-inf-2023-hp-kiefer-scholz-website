@@ -1,0 +1,4 @@
+ex:L9190921-TL0167-1b-pdf ex:date '1919-09-21'^^xsd:date .
+ex:L9190921-TL0167-1b-pdf ex:B-PER ex:Stefan .
+ex:L9190921-TL0167-1b-pdf ex:B-PER ex:Sontag .
+

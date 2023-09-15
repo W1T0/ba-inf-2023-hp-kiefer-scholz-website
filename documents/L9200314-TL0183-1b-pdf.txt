@@ -1,0 +1,16 @@
+ex:L9200314-TL0183-1b-pdf ex:date '1920-03-14'^^xsd:date .
+ex:L9200314-TL0183-1b-pdf ex:B-PER ex:Art .
+ex:L9200314-TL0183-1b-pdf ex:B-PER ex:August .
+ex:L9200314-TL0183-1b-pdf ex:B-PER ex:Marie .
+ex:L9200314-TL0183-1b-pdf ex:B-PER ex:Paul .
+ex:L9200314-TL0183-1b-pdf ex:B-OTH_FOOD ex:Gericht .
+ex:Gericht ex:wikidataQID ex:Q746549 .
+ex:L9200314-TL0183-1b-pdf ex:B-PER ex:Hoff .
+ex:L9200314-TL0183-1b-pdf ex:B-PER ex:Barthold .
+ex:L9200314-TL0183-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9200314-TL0183-1b-pdf ex:B-PER ex:Josef .
+ex:L9200314-TL0183-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200314-TL0183-1b-pdf ex:B-OTH_RELIGION ex:Gebet .
+ex:Gebet ex:wikidataQID ex:Q40953 .
+

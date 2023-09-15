@@ -1,0 +1,3 @@
+ex:L9190812-TL0162-1b-pdf ex:date '1919-08-12'^^xsd:date .
+ex:L9190812-TL0162-1b-pdf ex:B-PER ex:Krause .
+

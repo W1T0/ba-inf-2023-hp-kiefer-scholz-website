@@ -1,0 +1,9 @@
+ex:L9200317-TL0186-1a-pdf ex:date '1920-03-17'^^xsd:date .
+ex:L9200317-TL0186-1a-pdf ex:B-OTH ex:Mark .
+ex:L9200317-TL0186-1a-pdf ex:B-PER ex:Art .
+ex:L9200317-TL0186-1a-pdf ex:B-OTH_RELIGION ex:Strafe .
+ex:Strafe ex:wikidataQID ex:Q186361 .
+ex:L9200317-TL0186-1a-pdf ex:B-PER ex:Paul .
+ex:L9200317-TL0186-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+

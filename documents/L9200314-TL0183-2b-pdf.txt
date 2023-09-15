@@ -1,0 +1,9 @@
+ex:L9200314-TL0183-2b-pdf ex:date '1920-03-14'^^xsd:date .
+ex:L9200314-TL0183-2b-pdf ex:B-OTH_FOOD ex:Mehl .
+ex:Mehl ex:wikidataQID ex:Q36465 .
+ex:L9200314-TL0183-2b-pdf ex:B-PER ex:Johan .
+ex:L9200314-TL0183-2b-pdf ex:I-PER ex:Rostlich .
+ex:L9200314-TL0183-2b-pdf ex:B-PER ex:Müller .
+ex:L9200314-TL0183-2b-pdf ex:B-PER ex:Marie .
+ex:L9200314-TL0183-2b-pdf ex:B-PER ex:Bertha .
+

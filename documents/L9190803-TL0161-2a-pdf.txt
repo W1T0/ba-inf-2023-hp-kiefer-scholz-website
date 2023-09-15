@@ -1,0 +1,14 @@
+ex:L9190803-TL0161-2a-pdf ex:date '1919-08-03'^^xsd:date .
+ex:L9190803-TL0161-2a-pdf ex:B-LOC ex:Schweiz .
+ex:Schweiz ex:wikidataQID ex:Q39 .
+ex:Schweiz ex:coordinates ex:'46,798562_8,231973' .
+ex:L9190803-TL0161-2a-pdf ex:B-LOC ex:Holland .
+ex:Holland ex:wikidataQID ex:Q102911 .
+ex:Holland ex:coordinates ex:'52,25_4,667' .
+ex:L9190803-TL0161-2a-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9190803-TL0161-2a-pdf ex:B-PER ex:Scholz .
+ex:L9190803-TL0161-2a-pdf ex:B-PER ex:Lotterdam .
+ex:L9190803-TL0161-2a-pdf ex:B-OTH_RELIGION ex:Kloster .
+ex:Kloster ex:wikidataQID ex:Q44613 .
+

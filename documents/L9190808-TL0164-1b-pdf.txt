@@ -1,0 +1,14 @@
+ex:L9190808-TL0164-1b-pdf ex:date '1919-08-08'^^xsd:date .
+ex:L9190808-TL0164-1b-pdf ex:B-OTH_FOOD ex:Osterei .
+ex:Osterei ex:wikidataQID ex:Q163886 .
+ex:L9190808-TL0164-1b-pdf ex:B-PER ex:Josef .
+ex:L9190808-TL0164-1b-pdf ex:B-LOC ex:Oberschlesien .
+ex:Oberschlesien ex:wikidataQID ex:Q81011 .
+ex:Oberschlesien ex:coordinates ex:'50,433843_18,032375' .
+ex:L9190808-TL0164-1b-pdf ex:B-LOC ex:Polen .
+ex:Polen ex:wikidataQID ex:Q36 .
+ex:Polen ex:coordinates ex:'52,0_19,0' .
+ex:L9190808-TL0164-1b-pdf ex:B-LOC ex:Langerbit .
+ex:L9190808-TL0164-1b-pdf ex:B-LOC ex:Ostereich .
+ex:L9190808-TL0164-1b-pdf ex:B-LOC ex:Zingen .
+

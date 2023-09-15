@@ -1,0 +1,14 @@
+ex:L9200314-TL0183-1a-pdf ex:date '1920-03-14'^^xsd:date .
+ex:L9200314-TL0183-1a-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9200314-TL0183-1a-pdf ex:B-PER ex:Kartha .
+ex:L9200314-TL0183-1a-pdf ex:B-PER ex:Müller .
+ex:L9200314-TL0183-1a-pdf ex:B-PER ex:Marie .
+ex:L9200314-TL0183-1a-pdf ex:B-PER ex:Paul .
+ex:L9200314-TL0183-1a-pdf ex:B-PER ex:Barthold .
+ex:L9200314-TL0183-1a-pdf ex:B-PER ex:Franz .
+ex:L9200314-TL0183-1a-pdf ex:B-PER ex:Josef .
+ex:L9200314-TL0183-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200314-TL0183-1a-pdf ex:B-OTH ex:Mk .
+

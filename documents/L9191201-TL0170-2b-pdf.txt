@@ -1,0 +1,5 @@
+ex:L9191201-TL0170-2b-pdf ex:date '1919-12-01'^^xsd:date .
+ex:L9191201-TL0170-2b-pdf ex:B-PER ex:Paul .
+ex:L9191201-TL0170-2b-pdf ex:B-LOC ex:Langenbrück .
+ex:L9191201-TL0170-2b-pdf ex:B-PER ex:Franz .
+

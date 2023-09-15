@@ -1,0 +1,13 @@
+ex:L9190817-TL0160-1a-pdf ex:date '1919-08-17'^^xsd:date .
+ex:L9190817-TL0160-1a-pdf ex:B-PER ex:August .
+ex:L9190817-TL0160-1a-pdf ex:B-PER ex:Paul .
+ex:L9190817-TL0160-1a-pdf ex:B-PER ex:Böhm .
+ex:L9190817-TL0160-1a-pdf ex:B-PER ex:Thekla .
+ex:L9190817-TL0160-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q821229 .
+ex:Berlin ex:coordinates ex:'46,378333333_-98,487777777' .
+ex:L9190817-TL0160-1a-pdf ex:B-PER ex:Glos .
+ex:L9190817-TL0160-1a-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9190817-TL0160-1a-pdf ex:B-PER ex:Rob .
+

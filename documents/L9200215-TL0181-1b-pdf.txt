@@ -1,0 +1,9 @@
+ex:L9200215-TL0181-1b-pdf ex:date '1920-02-15'^^xsd:date .
+ex:L9200215-TL0181-1b-pdf ex:B-OTH_RELIGION ex:Gott .
+ex:Gott ex:wikidataQID ex:Q190 .
+ex:L9200215-TL0181-1b-pdf ex:B-PER ex:Thekla .
+ex:L9200215-TL0181-1b-pdf ex:B-OTH_FOOD ex:Lebensmitteln .
+ex:Lebensmitteln ex:wikidataQID ex:Q8195619 .
+ex:L9200215-TL0181-1b-pdf ex:B-OTH_RELIGION ex:Kirchen .
+ex:Kirchen ex:wikidataQID ex:Q34651 .
+

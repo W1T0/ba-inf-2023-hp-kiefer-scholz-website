@@ -1,0 +1,8 @@
+ex:L9200116-TL0178-1b-pdf ex:date '1920-01-16'^^xsd:date .
+ex:L9200116-TL0178-1b-pdf ex:B-OTH ex:Mark .
+ex:L9200116-TL0178-1b-pdf ex:B-OTH_RELIGION ex:Ehe .
+ex:Ehe ex:wikidataQID ex:Q8445 .
+ex:L9200116-TL0178-1b-pdf ex:B-PER ex:Robert .
+ex:L9200116-TL0178-1b-pdf ex:B-PER ex:Thekla .
+ex:L9200116-TL0178-1b-pdf ex:B-PER ex:Josef .
+

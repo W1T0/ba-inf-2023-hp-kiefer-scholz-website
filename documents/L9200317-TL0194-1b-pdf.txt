@@ -1,0 +1,13 @@
+ex:L9200317-TL0194-1b-pdf ex:date '1920-03-17'^^xsd:date .
+ex:L9200317-TL0194-1b-pdf ex:B-OTH_FOOD ex:Mehl .
+ex:Mehl ex:wikidataQID ex:Q36465 .
+ex:L9200317-TL0194-1b-pdf ex:B-LOC ex:Anrik .
+ex:L9200317-TL0194-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9200317-TL0194-1b-pdf ex:B-OTH_RELIGION ex:Stafe .
+ex:Stafe ex:wikidataQID ex:Q186361 .
+ex:L9200317-TL0194-1b-pdf ex:B-LOC ex:Schlesien .
+ex:Schlesien ex:wikidataQID ex:Q81720 .
+ex:Schlesien ex:coordinates ex:'51,1035_17,0396' .
+

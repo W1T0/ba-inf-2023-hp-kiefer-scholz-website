@@ -1,0 +1,17 @@
+ex:L9190803-TL0161-3a-pdf ex:date '1919-08-03'^^xsd:date .
+ex:L9190803-TL0161-3a-pdf ex:B-PER ex:S .
+ex:L9190803-TL0161-3a-pdf ex:B-PER ex:Klien .
+ex:L9190803-TL0161-3a-pdf ex:B-OTH_RELIGION ex:Opfer .
+ex:Opfer ex:wikidataQID ex:Q179723 .
+ex:L9190803-TL0161-3a-pdf ex:B-PER ex:Sigl .
+ex:L9190803-TL0161-3a-pdf ex:B-PER ex:Anna .
+ex:L9190803-TL0161-3a-pdf ex:B-LOC ex:Wien .
+ex:Wien ex:wikidataQID ex:Q1741 .
+ex:Wien ex:coordinates ex:'48,208333333_16,3725' .
+ex:L9190803-TL0161-3a-pdf ex:I-PER ex:K .
+ex:L9190803-TL0161-3a-pdf ex:B-OTH_RELIGION ex:Propaganda .
+ex:Propaganda ex:wikidataQID ex:Q7281 .
+ex:L9190803-TL0161-3a-pdf ex:B-OTH_RELIGION ex:Pfarrer .
+ex:Pfarrer ex:wikidataQID ex:Q52769526 .
+ex:L9190803-TL0161-3a-pdf ex:I-PER ex:Torturata .
+

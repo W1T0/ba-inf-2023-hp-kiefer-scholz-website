@@ -1,0 +1,11 @@
+ex:L9200314-TL0183-2a-pdf ex:date '1920-03-14'^^xsd:date .
+ex:L9200314-TL0183-2a-pdf ex:B-OTH_RELIGION ex:Kasten .
+ex:Kasten ex:wikidataQID ex:Q484416 .
+ex:L9200314-TL0183-2a-pdf ex:B-PER ex:Müller .
+ex:L9200314-TL0183-2a-pdf ex:B-PER ex:Paul .
+ex:L9200314-TL0183-2a-pdf ex:B-PER ex:Anna .
+ex:L9200314-TL0183-2a-pdf ex:B-PER ex:Franz .
+ex:L9200314-TL0183-2a-pdf ex:B-PER ex:Josef .
+ex:L9200314-TL0183-2a-pdf ex:B-PER ex:Guhl .
+ex:L9200314-TL0183-2a-pdf ex:I-PER ex:Barth .
+
