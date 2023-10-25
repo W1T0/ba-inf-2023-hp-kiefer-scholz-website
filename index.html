@@ -688,6 +688,9 @@
     let buttonZoomIn = document.getElementById("button-zoom-in");
     let buttonZoomOut = document.getElementById("button-zoom-out");
 
+    // marker variable
+    let markerList = [];
+
     //
     // FILECHOOSER EVENT LISTENER
     //
@@ -714,6 +717,9 @@
 
       // change graph
       addGraph(kgPath);
+
+      // remove markers
+      removeMarkers(markerList);
     });
 
     //
@@ -729,9 +735,21 @@
 
     // adds a marker with a pop up to the map
     function addMarker(lat, long, name) {
-      console.log(lat);
-      console.log(long);
-      L.marker([lat, long]).addTo(map).bindPopup(name).openPopup();
+      // console.log(lat);
+      // console.log(long);
+
+      marker = L.marker([lat, long]).addTo(map);
+      marker.bindPopup(name).openPopup();
+
+      markerList.push(marker);
+    }
+
+    // removes markers from previous file
+    function removeMarkers(markerList) {
+      for (let i = 0; i < markerList.length; i++) {
+        marker = markerList[i];
+        map.removeLayer(marker);
+      }
     }
 
     //
