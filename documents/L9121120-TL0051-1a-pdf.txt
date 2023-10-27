@@ -1,0 +1,12 @@
+ex:L9121120-TL0051-1a-pdf ex:date '1912-11-20'^^xsd:date .
+ex:L9121120-TL0051-1a-pdf ex:B-PER ex:Joseph .
+ex:L9121120-TL0051-1a-pdf ex:B-PER ex:Frida .
+ex:L9121120-TL0051-1a-pdf ex:B-PER ex:Riedel .
+ex:L9121120-TL0051-1a-pdf ex:B-PER ex:Maria .
+ex:L9121120-TL0051-1a-pdf ex:B-PER ex:Anna .
+ex:L9121120-TL0051-1a-pdf ex:B-LOC ex:Niederstraße .
+ex:L9121120-TL0051-1a-pdf ex:B-PER ex:Paul .
+ex:L9121120-TL0051-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

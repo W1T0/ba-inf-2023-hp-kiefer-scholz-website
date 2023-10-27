@@ -1,0 +1,3 @@
+ex:L91407xx-TL0084-1a-pdf ex:date '1914-07-xx'^^xsd:date .
+ex:L91407xx-TL0084-1a-pdf ex:B-PER ex:Thekla .
+

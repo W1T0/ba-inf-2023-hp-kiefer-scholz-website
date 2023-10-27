@@ -1,0 +1,6 @@
+ex:L9xx0910-TL2091-1a-pdf ex:date '19xx-09-10'^^xsd:date .
+ex:L9xx0910-TL2091-1a-pdf ex:B-LOC ex:Europas .
+ex:L9xx0910-TL2091-1a-pdf ex:B-PER ex:August .
+ex:L9xx0910-TL2091-1a-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+

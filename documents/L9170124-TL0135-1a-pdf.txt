@@ -1,0 +1,10 @@
+ex:L9170124-TL0135-1a-pdf ex:date '1917-01-24'^^xsd:date .
+ex:L9170124-TL0135-1a-pdf ex:I-PER ex:Bat .
+ex:L9170124-TL0135-1a-pdf ex:B-PER ex:Josef .
+ex:L9170124-TL0135-1a-pdf ex:B-PER ex:Thekla .
+ex:L9170124-TL0135-1a-pdf ex:I-ORG ex:Mater .
+ex:L9170124-TL0135-1a-pdf ex:B-PER ex:Paul .
+ex:L9170124-TL0135-1a-pdf ex:B-LOC ex:Sonne .
+ex:L9170124-TL0135-1a-pdf ex:I-ORG ex:Dolorosa .
+ex:L9170124-TL0135-1a-pdf ex:B-LOC ex:Russlandt .
+

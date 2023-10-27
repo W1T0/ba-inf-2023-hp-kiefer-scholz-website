@@ -1,0 +1,16 @@
+ex:L9120222-TL0030-1b-pdf ex:date '1912-02-22'^^xsd:date .
+ex:L9120222-TL0030-1b-pdf ex:I-PER ex:Augustin .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Vätter .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Tocka .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Ruprecht .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Max .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Frika .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Plotek .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Walter .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Hansl .
+ex:L9120222-TL0030-1b-pdf ex:B-LOC ex:Neuse .
+ex:L9120222-TL0030-1b-pdf ex:I-PER ex:Herr .
+ex:L9120222-TL0030-1b-pdf ex:I-PER ex:Bothe .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Mehrer .
+ex:L9120222-TL0030-1b-pdf ex:B-PER ex:Pilage .
+

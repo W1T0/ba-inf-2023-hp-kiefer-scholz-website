@@ -1,0 +1,15 @@
+ex:L9151017-TL0117-1b-pdf ex:date '1915-10-17'^^xsd:date .
+ex:L9151017-TL0117-1b-pdf ex:B-PER ex:Josef .
+ex:L9151017-TL0117-1b-pdf ex:B-PER ex:August .
+ex:L9151017-TL0117-1b-pdf ex:B-PER ex:Bacher .
+ex:L9151017-TL0117-1b-pdf ex:B-PER ex:Thekla .
+ex:L9151017-TL0117-1b-pdf ex:B-PER ex:Ernst .
+ex:L9151017-TL0117-1b-pdf ex:I-PER ex:Hedels .
+ex:L9151017-TL0117-1b-pdf ex:B-LOC ex:Europa .
+ex:L9151017-TL0117-1b-pdf ex:B-PER ex:Barthold .
+ex:L9151017-TL0117-1b-pdf ex:I-ORG ex:Katholie .
+ex:L9151017-TL0117-1b-pdf ex:I-ORG ex:Mission .
+ex:L9151017-TL0117-1b-pdf ex:B-PER ex:Emil .
+ex:L9151017-TL0117-1b-pdf ex:B-OTH ex:Apla .
+ex:L9151017-TL0117-1b-pdf ex:I-PER ex:Ist .
+

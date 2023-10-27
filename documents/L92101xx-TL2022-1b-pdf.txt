@@ -1,0 +1,9 @@
+ex:L92101xx-TL2022-1b-pdf ex:date '1921-01-xx'^^xsd:date .
+ex:L92101xx-TL2022-1b-pdf ex:B-PER ex:Kohl .
+ex:L92101xx-TL2022-1b-pdf ex:B-PER ex:Maria .
+ex:L92101xx-TL2022-1b-pdf ex:B-PER ex:Walter .
+ex:L92101xx-TL2022-1b-pdf ex:B-PER ex:Anna .
+ex:L92101xx-TL2022-1b-pdf ex:I-PER ex:A .
+ex:L92101xx-TL2022-1b-pdf ex:B-PER ex:K .
+ex:L92101xx-TL2022-1b-pdf ex:I-PER ex:H .
+

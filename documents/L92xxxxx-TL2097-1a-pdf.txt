@@ -1,0 +1,8 @@
+ex:L92xxxxx-TL2097-1a-pdf ex:date '192x-xx-xx'^^xsd:date .
+ex:L92xxxxx-TL2097-1a-pdf ex:I-PER ex:Gel .
+ex:L92xxxxx-TL2097-1a-pdf ex:B-LOC ex:Hamburg .
+ex:Hamburg ex:wikidataQID ex:Q1055 .
+ex:Hamburg ex:coordinates ex:'53,55_10,0' .
+ex:L92xxxxx-TL2097-1a-pdf ex:B-PER ex:Robert .
+ex:L92xxxxx-TL2097-1a-pdf ex:B-OTH ex:Doll .
+

@@ -1,0 +1,15 @@
+ex:L9130421-TL0063-1b-pdf ex:date '1913-04-21'^^xsd:date .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Baum .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Mark .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Thekla .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Görlich .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Marta .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Hempel .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Gürtler .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Anna .
+ex:L9130421-TL0063-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Paul .
+ex:L9130421-TL0063-1b-pdf ex:B-PER ex:Martel .
+

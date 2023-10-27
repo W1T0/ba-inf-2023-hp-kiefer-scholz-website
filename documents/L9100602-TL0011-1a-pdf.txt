@@ -1,0 +1,6 @@
+ex:L9100602-TL0011-1a-pdf ex:date '1910-06-02'^^xsd:date .
+ex:L9100602-TL0011-1a-pdf ex:B-PER ex:Anna .
+ex:L9100602-TL0011-1a-pdf ex:B-PER ex:Lekla .
+ex:L9100602-TL0011-1a-pdf ex:I-PER ex:Meine .
+ex:L9100602-TL0011-1a-pdf ex:B-PER ex:Paul .
+

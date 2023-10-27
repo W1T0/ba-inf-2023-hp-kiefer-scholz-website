@@ -1,0 +1,15 @@
+ex:L9150905-TL0113-1b-pdf ex:date '1915-09-05'^^xsd:date .
+ex:L9150905-TL0113-1b-pdf ex:B-PER ex:Joseph .
+ex:L9150905-TL0113-1b-pdf ex:I-PER ex:Leum .
+ex:L9150905-TL0113-1b-pdf ex:B-PER ex:Maria .
+ex:L9150905-TL0113-1b-pdf ex:B-PER ex:Agnes .
+ex:L9150905-TL0113-1b-pdf ex:B-PER ex:Peter .
+ex:L9150905-TL0113-1b-pdf ex:B-PER ex:Sicker .
+ex:L9150905-TL0113-1b-pdf ex:B-OTH ex:Pfund .
+ex:L9150905-TL0113-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9150905-TL0113-1b-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9150905-TL0113-1b-pdf ex:B-PER ex:Franz .
+

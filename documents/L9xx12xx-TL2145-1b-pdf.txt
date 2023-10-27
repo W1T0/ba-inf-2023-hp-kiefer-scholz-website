@@ -1,0 +1,5 @@
+ex:L9xx12xx-TL2145-1b-pdf ex:date '19xx-12-xx'^^xsd:date .
+ex:L9xx12xx-TL2145-1b-pdf ex:B-PER ex:Anna .
+ex:L9xx12xx-TL2145-1b-pdf ex:I-PER ex:Reuter .
+ex:L9xx12xx-TL2145-1b-pdf ex:B-PER ex:Thekla .
+

@@ -1,0 +1,7 @@
+ex:L9120114-TL0026-1b-pdf ex:date '1912-01-14'^^xsd:date .
+ex:L9120114-TL0026-1b-pdf ex:B-PER ex:Romer .
+ex:L9120114-TL0026-1b-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+ex:L9120114-TL0026-1b-pdf ex:I-PER ex:Ring .
+

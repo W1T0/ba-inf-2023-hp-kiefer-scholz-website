@@ -1,0 +1,4 @@
+ex:L9151125-TL0121-1b-pdf ex:date '1915-11-25'^^xsd:date .
+ex:L9151125-TL0121-1b-pdf ex:B-LOC ex:Amista .
+ex:L9151125-TL0121-1b-pdf ex:B-PER ex:Thekla .
+

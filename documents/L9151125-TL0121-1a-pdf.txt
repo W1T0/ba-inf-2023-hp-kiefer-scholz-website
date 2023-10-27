@@ -1,0 +1,8 @@
+ex:L9151125-TL0121-1a-pdf ex:date '1915-11-25'^^xsd:date .
+ex:L9151125-TL0121-1a-pdf ex:B-PER ex:Thekla .
+ex:L9151125-TL0121-1a-pdf ex:B-PER ex:Robert .
+ex:L9151125-TL0121-1a-pdf ex:I-PER ex:Berlin .
+ex:L9151125-TL0121-1a-pdf ex:B-OTH_FOOD ex:Mehl .
+ex:Mehl ex:wikidataQID ex:Q36465 .
+ex:L9151125-TL0121-1a-pdf ex:B-PER ex:Josef .
+

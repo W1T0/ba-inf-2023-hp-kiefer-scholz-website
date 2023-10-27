@@ -1,0 +1,5 @@
+ex:L9141220-TL0083-2b-pdf ex:date '1914-12-20'^^xsd:date .
+ex:L9141220-TL0083-2b-pdf ex:B-OTH ex:Mark .
+ex:L9141220-TL0083-2b-pdf ex:B-PER ex:Paul .
+ex:L9141220-TL0083-2b-pdf ex:B-OTH ex:Kronen .
+

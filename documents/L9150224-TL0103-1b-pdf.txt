@@ -1,0 +1,5 @@
+ex:L9150224-TL0103-1b-pdf ex:date '1915-02-24'^^xsd:date .
+ex:L9150224-TL0103-1b-pdf ex:B-PER ex:Salem .
+ex:L9150224-TL0103-1b-pdf ex:B-PER ex:Selma .
+ex:L9150224-TL0103-1b-pdf ex:B-PER ex:Franz .
+

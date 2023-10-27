@@ -1,0 +1,6 @@
+ex:L9160103-TL0125-1a-pdf ex:date '1916-01-03'^^xsd:date .
+ex:L9160103-TL0125-1a-pdf ex:B-PER ex:Jekla .
+ex:L9160103-TL0125-1a-pdf ex:I-PER ex:Meine .
+ex:L9160103-TL0125-1a-pdf ex:B-PER ex:Bertha .
+ex:L9160103-TL0125-1a-pdf ex:B-PER ex:Christus .
+

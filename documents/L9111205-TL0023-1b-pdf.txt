@@ -1,0 +1,4 @@
+ex:L9111205-TL0023-1b-pdf ex:date '1911-12-05'^^xsd:date .
+ex:L9111205-TL0023-1b-pdf ex:B-PER ex:Heder .
+ex:L9111205-TL0023-1b-pdf ex:B-PER ex:Marie .
+

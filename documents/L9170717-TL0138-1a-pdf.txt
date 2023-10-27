@@ -1,0 +1,5 @@
+ex:L9170717-TL0138-1a-pdf ex:date '1917-07-17'^^xsd:date .
+ex:L9170717-TL0138-1a-pdf ex:B-PER ex:Anna .
+ex:L9170717-TL0138-1a-pdf ex:B-PER ex:C .
+ex:L9170717-TL0138-1a-pdf ex:I-PER ex:Bekla .
+

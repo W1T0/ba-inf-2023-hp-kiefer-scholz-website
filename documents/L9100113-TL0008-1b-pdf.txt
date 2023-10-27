@@ -1,0 +1,5 @@
+ex:L9100113-TL0008-1b-pdf ex:date '1910-01-13'^^xsd:date .
+ex:L9100113-TL0008-1b-pdf ex:B-LOC ex:Neustad .
+ex:L9100113-TL0008-1b-pdf ex:B-PER ex:Thekla .
+ex:L9100113-TL0008-1b-pdf ex:B-PER ex:Alter .
+

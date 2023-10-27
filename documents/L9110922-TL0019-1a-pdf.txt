@@ -1,0 +1,6 @@
+ex:L9110922-TL0019-1a-pdf ex:date '1911-09-22'^^xsd:date .
+ex:L9110922-TL0019-1a-pdf ex:B-PER ex:Thekla .
+ex:L9110922-TL0019-1a-pdf ex:B-PER ex:Sicker .
+ex:L9110922-TL0019-1a-pdf ex:B-PER ex:Marie .
+ex:L9110922-TL0019-1a-pdf ex:B-PER ex:Rahmet .
+

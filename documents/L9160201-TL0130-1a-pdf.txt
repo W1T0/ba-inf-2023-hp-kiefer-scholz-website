@@ -1,0 +1,5 @@
+ex:L9160201-TL0130-1a-pdf ex:date '1916-02-01'^^xsd:date .
+ex:L9160201-TL0130-1a-pdf ex:B-PER ex:August .
+ex:L9160201-TL0130-1a-pdf ex:I-PER ex:Mari .
+ex:L9160201-TL0130-1a-pdf ex:B-PER ex:Franz .
+

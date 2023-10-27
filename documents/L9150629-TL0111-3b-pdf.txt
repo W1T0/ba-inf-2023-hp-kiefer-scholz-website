@@ -1,0 +1,7 @@
+ex:L9150629-TL0111-3b-pdf ex:date '1915-06-29'^^xsd:date .
+ex:L9150629-TL0111-3b-pdf ex:B-PER ex:August .
+ex:L9150629-TL0111-3b-pdf ex:B-PER ex:Thekla .
+ex:L9150629-TL0111-3b-pdf ex:B-PER ex:Paul .
+ex:L9150629-TL0111-3b-pdf ex:B-PER ex:Hasse .
+ex:L9150629-TL0111-3b-pdf ex:B-PER ex:Franz .
+

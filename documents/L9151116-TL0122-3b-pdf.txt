@@ -1,0 +1,4 @@
+ex:L9151116-TL0122-3b-pdf ex:date '1915-11-16'^^xsd:date .
+ex:L9151116-TL0122-3b-pdf ex:B-PER ex:Müller .
+ex:L9151116-TL0122-3b-pdf ex:B-PER ex:Thekla .
+

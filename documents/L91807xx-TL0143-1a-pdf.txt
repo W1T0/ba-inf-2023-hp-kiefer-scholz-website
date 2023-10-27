@@ -1,0 +1,9 @@
+ex:L91807xx-TL0143-1a-pdf ex:date '1918-07-xx'^^xsd:date .
+ex:L91807xx-TL0143-1a-pdf ex:I-PER ex:H .
+ex:L91807xx-TL0143-1a-pdf ex:B-OTH_FOOD ex:Gericht .
+ex:Gericht ex:wikidataQID ex:Q746549 .
+ex:L91807xx-TL0143-1a-pdf ex:B-LOC ex:Hage .
+ex:Hage ex:wikidataQID ex:Q634309 .
+ex:Hage ex:coordinates ex:'53,6_7,283333333' .
+ex:L91807xx-TL0143-1a-pdf ex:B-PER ex:E .
+

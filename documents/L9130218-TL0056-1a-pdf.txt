@@ -1,0 +1,13 @@
+ex:L9130218-TL0056-1a-pdf ex:date '1913-02-18'^^xsd:date .
+ex:L9130218-TL0056-1a-pdf ex:I-PER ex:der .
+ex:L9130218-TL0056-1a-pdf ex:B-LOC ex:Dome .
+ex:L9130218-TL0056-1a-pdf ex:B-LOC ex:Münster .
+ex:Münster ex:wikidataQID ex:Q2742 .
+ex:Münster ex:coordinates ex:'51,9625_7,625555555' .
+ex:L9130218-TL0056-1a-pdf ex:B-PER ex:Karl .
+ex:L9130218-TL0056-1a-pdf ex:B-LOC ex:Amerika .
+ex:Amerika ex:wikidataQID ex:Q30 .
+ex:Amerika ex:coordinates ex:'39,828175_-98,5795' .
+ex:L9130218-TL0056-1a-pdf ex:B-PER ex:Jekla .
+ex:L9130218-TL0056-1a-pdf ex:I-PER ex:Große .
+

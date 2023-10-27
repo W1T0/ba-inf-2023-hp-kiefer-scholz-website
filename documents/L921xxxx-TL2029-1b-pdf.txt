@@ -1,0 +1,6 @@
+ex:L921xxxx-TL2029-1b-pdf ex:date '1921-xx-xx'^^xsd:date .
+ex:L921xxxx-TL2029-1b-pdf ex:B-OTH ex:Mark .
+ex:L921xxxx-TL2029-1b-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

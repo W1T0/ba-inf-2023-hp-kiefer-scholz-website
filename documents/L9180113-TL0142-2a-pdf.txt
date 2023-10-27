@@ -1,0 +1,5 @@
+ex:L9180113-TL0142-2a-pdf ex:date '1918-01-13'^^xsd:date .
+ex:L9180113-TL0142-2a-pdf ex:B-PER ex:Anna .
+ex:L9180113-TL0142-2a-pdf ex:B-PER ex:Fritz .
+ex:L9180113-TL0142-2a-pdf ex:B-LOC ex:Waschinge .
+

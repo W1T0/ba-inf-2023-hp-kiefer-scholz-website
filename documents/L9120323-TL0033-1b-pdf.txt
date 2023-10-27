@@ -1,0 +1,14 @@
+ex:L9120323-TL0033-1b-pdf ex:date '1912-03-23'^^xsd:date .
+ex:L9120323-TL0033-1b-pdf ex:B-PER ex:Heineck .
+ex:L9120323-TL0033-1b-pdf ex:B-PER ex:Johann .
+ex:L9120323-TL0033-1b-pdf ex:B-LOC ex:Eichhausel .
+ex:L9120323-TL0033-1b-pdf ex:B-PER ex:Plaze .
+ex:L9120323-TL0033-1b-pdf ex:B-PER ex:Sicker .
+ex:L9120323-TL0033-1b-pdf ex:B-LOC ex:Bederstraße .
+ex:L9120323-TL0033-1b-pdf ex:I-PER ex:u .
+ex:L9120323-TL0033-1b-pdf ex:B-PER ex:Therese .
+ex:L9120323-TL0033-1b-pdf ex:B-PER ex:Lebek .
+ex:L9120323-TL0033-1b-pdf ex:I-PER ex:Schmidt .
+ex:L9120323-TL0033-1b-pdf ex:B-PER ex:Martha .
+ex:L9120323-TL0033-1b-pdf ex:B-PER ex:Schuhmacher .
+

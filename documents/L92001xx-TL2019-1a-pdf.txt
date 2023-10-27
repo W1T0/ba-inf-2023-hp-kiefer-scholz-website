@@ -1,0 +1,5 @@
+ex:L92001xx-TL2019-1a-pdf ex:date '1920-01-xx'^^xsd:date .
+ex:L92001xx-TL2019-1a-pdf ex:B-PER ex:Thekla .
+ex:L92001xx-TL2019-1a-pdf ex:B-OTH_FOOD ex:Lebensmittel .
+ex:Lebensmittel ex:wikidataQID ex:Q8195619 .
+

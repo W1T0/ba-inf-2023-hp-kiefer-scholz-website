@@ -1,0 +1,6 @@
+ex:L9xx0404-TL2156-2a-pdf ex:date '19xx-04-04'^^xsd:date .
+ex:L9xx0404-TL2156-2a-pdf ex:B-PER ex:Anna .
+ex:L9xx0404-TL2156-2a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+

@@ -1,0 +1,8 @@
+ex:L9130808-TL0069-1b-pdf ex:date '1913-08-08'^^xsd:date .
+ex:L9130808-TL0069-1b-pdf ex:B-PER ex:Albert .
+ex:L9130808-TL0069-1b-pdf ex:B-PER ex:Klatt .
+ex:L9130808-TL0069-1b-pdf ex:B-LOC ex:Bressen .
+ex:L9130808-TL0069-1b-pdf ex:B-PER ex:Rahmet .
+ex:L9130808-TL0069-1b-pdf ex:B-PER ex:Kockmann .
+ex:L9130808-TL0069-1b-pdf ex:B-PER ex:Hart .
+

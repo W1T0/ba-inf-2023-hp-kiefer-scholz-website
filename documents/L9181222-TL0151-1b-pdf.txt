@@ -1,0 +1,3 @@
+ex:L9181222-TL0151-1b-pdf ex:date '1918-12-22'^^xsd:date .
+ex:L9181222-TL0151-1b-pdf ex:B-PER ex:August .
+

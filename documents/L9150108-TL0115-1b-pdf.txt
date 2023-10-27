@@ -1,0 +1,3 @@
+ex:L9150108-TL0115-1b-pdf ex:date '1915-01-08'^^xsd:date .
+ex:L9150108-TL0115-1b-pdf ex:B-PER ex:Josef .
+

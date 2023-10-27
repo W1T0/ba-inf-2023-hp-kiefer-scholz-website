@@ -1,0 +1,6 @@
+ex:L9150519-TL0106-1a-pdf ex:date '1915-05-19'^^xsd:date .
+ex:L9150519-TL0106-1a-pdf ex:B-PER ex:Rosalia .
+ex:L9150519-TL0106-1a-pdf ex:B-PER ex:Thekla .
+ex:L9150519-TL0106-1a-pdf ex:B-PER ex:Emil .
+ex:L9150519-TL0106-1a-pdf ex:I-PER ex:Klem .
+

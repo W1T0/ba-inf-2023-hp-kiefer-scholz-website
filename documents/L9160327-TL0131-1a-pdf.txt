@@ -1,0 +1,4 @@
+ex:L9160327-TL0131-1a-pdf ex:date '1916-03-27'^^xsd:date .
+ex:L9160327-TL0131-1a-pdf ex:B-PER ex:Thekla .
+ex:L9160327-TL0131-1a-pdf ex:B-PER ex:Robert .
+

@@ -1,0 +1,7 @@
+ex:L9130218-TL0055-1a-pdf ex:date '1913-02-18'^^xsd:date .
+ex:L9130218-TL0055-1a-pdf ex:B-PER ex:Thekla .
+ex:L9130218-TL0055-1a-pdf ex:B-PER ex:Art .
+ex:L9130218-TL0055-1a-pdf ex:B-OTH_FOOD ex:Mehl .
+ex:Mehl ex:wikidataQID ex:Q36465 .
+ex:L9130218-TL0055-1a-pdf ex:B-PER ex:Franz .
+

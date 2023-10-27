@@ -1,0 +1,5 @@
+ex:L9140531-TL0109-1b-pdf ex:date '1914-05-31'^^xsd:date .
+ex:L9140531-TL0109-1b-pdf ex:B-PER ex:Georg .
+ex:L9140531-TL0109-1b-pdf ex:B-PER ex:Joseph .
+ex:L9140531-TL0109-1b-pdf ex:B-PER ex:Franz .
+

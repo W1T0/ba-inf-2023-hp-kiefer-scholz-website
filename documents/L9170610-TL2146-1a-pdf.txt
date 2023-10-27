@@ -1,0 +1,3 @@
+ex:L9170610-TL2146-1a-pdf ex:date '1917-06-10'^^xsd:date .
+ex:L9170610-TL2146-1a-pdf ex:B-PER ex:Hillen .
+

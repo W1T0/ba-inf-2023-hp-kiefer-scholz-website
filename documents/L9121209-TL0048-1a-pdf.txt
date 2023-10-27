@@ -1,0 +1,7 @@
+ex:L9121209-TL0048-1a-pdf ex:date '1912-12-09'^^xsd:date .
+ex:L9121209-TL0048-1a-pdf ex:B-PER ex:Jekla .
+ex:L9121209-TL0048-1a-pdf ex:B-PER ex:Müller .
+ex:L9121209-TL0048-1a-pdf ex:B-OTH_FOOD ex:Brot .
+ex:Brot ex:wikidataQID ex:Q7802 .
+ex:L9121209-TL0048-1a-pdf ex:B-PER ex:Martha .
+

@@ -1,0 +1,5 @@
+ex:L9130724-TL0067-1a-pdf ex:date '1913-07-24'^^xsd:date .
+ex:L9130724-TL0067-1a-pdf ex:B-OTH ex:Mark .
+ex:L9130724-TL0067-1a-pdf ex:B-PER ex:Schneiders .
+ex:L9130724-TL0067-1a-pdf ex:B-PER ex:Scholz .
+

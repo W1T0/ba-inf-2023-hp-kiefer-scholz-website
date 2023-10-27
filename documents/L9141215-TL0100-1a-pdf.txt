@@ -1,0 +1,8 @@
+ex:L9141215-TL0100-1a-pdf ex:date '1914-12-15'^^xsd:date .
+ex:L9141215-TL0100-1a-pdf ex:B-PER ex:Lindner .
+ex:L9141215-TL0100-1a-pdf ex:B-PER ex:Langer .
+ex:L9141215-TL0100-1a-pdf ex:B-PER ex:Scholz .
+ex:L9141215-TL0100-1a-pdf ex:I-PER ex:Schmied .
+ex:L9141215-TL0100-1a-pdf ex:I-PER ex:Schotz .
+ex:L9141215-TL0100-1a-pdf ex:B-PER ex:Paul .
+

@@ -1,0 +1,5 @@
+ex:L9150519-TL0106-1b-pdf ex:date '1915-05-19'^^xsd:date .
+ex:L9150519-TL0106-1b-pdf ex:B-PER ex:Müller .
+ex:L9150519-TL0106-1b-pdf ex:I-PER ex:W .
+ex:L9150519-TL0106-1b-pdf ex:B-PER ex:Kurt .
+

@@ -1,0 +1,8 @@
+ex:L9160124-TL0128-1a-pdf ex:date '1916-01-24'^^xsd:date .
+ex:L9160124-TL0128-1a-pdf ex:B-LOC ex:Westfrika .
+ex:L9160124-TL0128-1a-pdf ex:B-LOC ex:Aprika .
+ex:L9160124-TL0128-1a-pdf ex:B-PER ex:Josef .
+ex:L9160124-TL0128-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+

@@ -1,0 +1,4 @@
+ex:L9160129-TL0129-1a-pdf ex:date '1916-01-29'^^xsd:date .
+ex:L9160129-TL0129-1a-pdf ex:B-LOC ex:Amerik .
+ex:L9160129-TL0129-1a-pdf ex:B-PER ex:Franz .
+

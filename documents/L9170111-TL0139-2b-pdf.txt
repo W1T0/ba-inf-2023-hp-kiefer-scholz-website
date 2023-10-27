@@ -1,0 +1,3 @@
+ex:L9170111-TL0139-2b-pdf ex:date '1917-01-11'^^xsd:date .
+ex:L9170111-TL0139-2b-pdf ex:B-OTH ex:Doller .
+

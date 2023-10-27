@@ -1,0 +1,7 @@
+ex:L9081213-TL0006-1b-pdf ex:date '1908-12-13'^^xsd:date .
+ex:L9081213-TL0006-1b-pdf ex:B-PER ex:Wan .
+ex:L9081213-TL0006-1b-pdf ex:B-LOC ex:Grossen .
+ex:L9081213-TL0006-1b-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

@@ -1,0 +1,8 @@
+ex:L9120903-TL0046-1b-pdf ex:date '1912-09-03'^^xsd:date .
+ex:L9120903-TL0046-1b-pdf ex:B-PER ex:Mages .
+ex:L9120903-TL0046-1b-pdf ex:B-PER ex:Rod .
+ex:L9120903-TL0046-1b-pdf ex:B-PER ex:Kurt .
+ex:L9120903-TL0046-1b-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+

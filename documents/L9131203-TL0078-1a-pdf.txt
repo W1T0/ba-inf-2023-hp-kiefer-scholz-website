@@ -1,0 +1,7 @@
+ex:L9131203-TL0078-1a-pdf ex:date '1913-12-03'^^xsd:date .
+ex:L9131203-TL0078-1a-pdf ex:B-PER ex:August .
+ex:L9131203-TL0078-1a-pdf ex:B-PER ex:Herbert .
+ex:L9131203-TL0078-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+

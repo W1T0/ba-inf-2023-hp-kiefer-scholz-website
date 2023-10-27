@@ -1,0 +1,7 @@
+ex:L9140531-TL0109-1a-pdf ex:date '1914-05-31'^^xsd:date .
+ex:L9140531-TL0109-1a-pdf ex:B-PER ex:August .
+ex:L9140531-TL0109-1a-pdf ex:B-PER ex:Paul .
+ex:L9140531-TL0109-1a-pdf ex:B-OTH_FOOD ex:Obst .
+ex:Obst ex:wikidataQID ex:Q3314483 .
+ex:L9140531-TL0109-1a-pdf ex:B-PER ex:Franz .
+

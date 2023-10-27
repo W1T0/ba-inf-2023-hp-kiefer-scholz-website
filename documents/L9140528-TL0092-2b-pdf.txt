@@ -1,0 +1,5 @@
+ex:L9140528-TL0092-2b-pdf ex:date '1914-05-28'^^xsd:date .
+ex:L9140528-TL0092-2b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+

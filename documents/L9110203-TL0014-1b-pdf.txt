@@ -1,0 +1,9 @@
+ex:L9110203-TL0014-1b-pdf ex:date '1911-02-03'^^xsd:date .
+ex:L9110203-TL0014-1b-pdf ex:B-PER ex:August .
+ex:L9110203-TL0014-1b-pdf ex:I-PER ex:Hebracke .
+ex:L9110203-TL0014-1b-pdf ex:B-PER ex:Anna .
+ex:L9110203-TL0014-1b-pdf ex:B-OTH_FOOD ex:Fleisch .
+ex:Fleisch ex:wikidataQID ex:Q10990 .
+ex:L9110203-TL0014-1b-pdf ex:B-PER ex:Guhl .
+ex:L9110203-TL0014-1b-pdf ex:I-PER ex:von .
+

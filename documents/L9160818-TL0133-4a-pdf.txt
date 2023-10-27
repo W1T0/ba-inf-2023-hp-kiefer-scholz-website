@@ -1,0 +1,4 @@
+ex:L9160818-TL0133-4a-pdf ex:date '1916-08-18'^^xsd:date .
+ex:L9160818-TL0133-4a-pdf ex:B-OTH_FOOD ex:Gericht .
+ex:Gericht ex:wikidataQID ex:Q746549 .
+

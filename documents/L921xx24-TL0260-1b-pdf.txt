@@ -1,0 +1,7 @@
+ex:L921xx24-TL0260-1b-pdf ex:date '1921-xx-24'^^xsd:date .
+ex:L921xx24-TL0260-1b-pdf ex:B-LOC ex:Hausas .
+ex:L921xx24-TL0260-1b-pdf ex:B-PER ex:Anna .
+ex:L921xx24-TL0260-1b-pdf ex:B-PER ex:Braun .
+ex:L921xx24-TL0260-1b-pdf ex:B-OTH_FOOD ex:Dotter .
+ex:Dotter ex:wikidataQID ex:Q181409 .
+

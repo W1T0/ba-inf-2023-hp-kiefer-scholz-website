@@ -1,0 +1,4 @@
+ex:L9180825-TL0144-1a-pdf ex:date '1918-08-25'^^xsd:date .
+ex:L9180825-TL0144-1a-pdf ex:B-PER ex:Boller .
+ex:L9180825-TL0144-1a-pdf ex:B-PER ex:August .
+

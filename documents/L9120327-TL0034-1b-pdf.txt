@@ -1,0 +1,9 @@
+ex:L9120327-TL0034-1b-pdf ex:date '1912-03-27'^^xsd:date .
+ex:L9120327-TL0034-1b-pdf ex:B-PER ex:Gretel .
+ex:L9120327-TL0034-1b-pdf ex:B-PER ex:Secker .
+ex:L9120327-TL0034-1b-pdf ex:B-PER ex:Marie .
+ex:L9120327-TL0034-1b-pdf ex:B-PER ex:Maria .
+ex:L9120327-TL0034-1b-pdf ex:B-PER ex:Berta .
+ex:L9120327-TL0034-1b-pdf ex:B-PER ex:Schneider .
+ex:L9120327-TL0034-1b-pdf ex:B-PER ex:Franz .
+

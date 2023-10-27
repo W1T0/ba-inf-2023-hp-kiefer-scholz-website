@@ -1,0 +1,7 @@
+ex:L9xxxxxx-TL2011-1b-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2011-1b-pdf ex:B-PER ex:Josef .
+ex:L9xxxxxx-TL2011-1b-pdf ex:B-OTH_FOOD ex:Milch .
+ex:Milch ex:wikidataQID ex:Q8495 .
+ex:L9xxxxxx-TL2011-1b-pdf ex:B-PER ex:Paul .
+ex:L9xxxxxx-TL2011-1b-pdf ex:B-PER ex:Kranz .
+

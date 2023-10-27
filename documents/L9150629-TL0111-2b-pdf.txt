@@ -1,0 +1,11 @@
+ex:L9150629-TL0111-2b-pdf ex:date '1915-06-29'^^xsd:date .
+ex:L9150629-TL0111-2b-pdf ex:B-LOC ex:Italien .
+ex:Italien ex:wikidataQID ex:Q38 .
+ex:Italien ex:coordinates ex:'42,5_12,5' .
+ex:L9150629-TL0111-2b-pdf ex:B-LOC ex:Galizien .
+ex:Galizien ex:wikidataQID ex:Q2396442 .
+ex:Galizien ex:coordinates ex:'49,841888888_24,0315' .
+ex:L9150629-TL0111-2b-pdf ex:B-LOC ex:Ungarn .
+ex:Ungarn ex:wikidataQID ex:Q28 .
+ex:Ungarn ex:coordinates ex:'47,0_19,0' .
+

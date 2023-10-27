@@ -1,0 +1,7 @@
+ex:L9131105-TL0064-1a-pdf ex:date '1913-11-05'^^xsd:date .
+ex:L9131105-TL0064-1a-pdf ex:B-PER ex:Müller .
+ex:L9131105-TL0064-1a-pdf ex:B-PER ex:Josef .
+ex:L9131105-TL0064-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+

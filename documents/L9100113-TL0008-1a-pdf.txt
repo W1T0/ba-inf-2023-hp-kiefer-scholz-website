@@ -1,0 +1,10 @@
+ex:L9100113-TL0008-1a-pdf ex:date '1910-01-13'^^xsd:date .
+ex:L9100113-TL0008-1a-pdf ex:B-PER ex:Thekla .
+ex:L9100113-TL0008-1a-pdf ex:B-PER ex:Peter .
+ex:L9100113-TL0008-1a-pdf ex:B-PER ex:Sch .
+ex:L9100113-TL0008-1a-pdf ex:B-LOC ex:Steil .
+ex:L9100113-TL0008-1a-pdf ex:I-PER ex:Johannes .
+ex:L9100113-TL0008-1a-pdf ex:B-LOC ex:Breslau .
+ex:L9100113-TL0008-1a-pdf ex:B-LOC ex:Lau .
+ex:L9100113-TL0008-1a-pdf ex:B-PER ex:G .
+

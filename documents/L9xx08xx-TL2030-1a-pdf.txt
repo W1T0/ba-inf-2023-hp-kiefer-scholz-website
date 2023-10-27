@@ -1,0 +1,9 @@
+ex:L9xx08xx-TL2030-1a-pdf ex:date '19xx-08-xx'^^xsd:date .
+ex:L9xx08xx-TL2030-1a-pdf ex:B-PER ex:Gries .
+ex:L9xx08xx-TL2030-1a-pdf ex:B-PER ex:August .
+ex:L9xx08xx-TL2030-1a-pdf ex:B-PER ex:Thekla .
+ex:L9xx08xx-TL2030-1a-pdf ex:B-PER ex:Anna .
+ex:L9xx08xx-TL2030-1a-pdf ex:B-PER ex:Martha .
+ex:L9xx08xx-TL2030-1a-pdf ex:B-LOC ex:Westphalen .
+ex:L9xx08xx-TL2030-1a-pdf ex:B-PER ex:Josef .
+

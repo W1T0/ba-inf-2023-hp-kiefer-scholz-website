@@ -1,0 +1,7 @@
+ex:L9xx0206-TL2170-1b-pdf ex:date '19xx-02-06'^^xsd:date .
+ex:L9xx0206-TL2170-1b-pdf ex:B-LOC ex:Neutschland .
+ex:L9xx0206-TL2170-1b-pdf ex:B-PER ex:Tekla .
+ex:L9xx0206-TL2170-1b-pdf ex:B-PER ex:Anna .
+ex:L9xx0206-TL2170-1b-pdf ex:I-PER ex:Litz .
+ex:L9xx0206-TL2170-1b-pdf ex:B-PER ex:Hans .
+

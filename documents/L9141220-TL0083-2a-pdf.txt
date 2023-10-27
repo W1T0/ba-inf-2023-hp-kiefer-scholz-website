@@ -1,0 +1,16 @@
+ex:L9141220-TL0083-2a-pdf ex:date '1914-12-20'^^xsd:date .
+ex:L9141220-TL0083-2a-pdf ex:B-PER ex:Thekla .
+ex:L9141220-TL0083-2a-pdf ex:B-OTH_FOOD ex:Weizenmehl .
+ex:Weizenmehl ex:wikidataQID ex:Q2249305 .
+ex:L9141220-TL0083-2a-pdf ex:B-LOC ex:Dittersdorf .
+ex:Dittersdorf ex:wikidataQID ex:Q554713 .
+ex:Dittersdorf ex:coordinates ex:'50,642777777_11,816388888' .
+ex:L9141220-TL0083-2a-pdf ex:B-PER ex:Karl .
+ex:L9141220-TL0083-2a-pdf ex:B-LOC ex:Henig .
+ex:L9141220-TL0083-2a-pdf ex:B-LOC ex:Osterren .
+ex:L9141220-TL0083-2a-pdf ex:B-OTH_FOOD ex:Mehl .
+ex:Mehl ex:wikidataQID ex:Q36465 .
+ex:L9141220-TL0083-2a-pdf ex:B-PER ex:Paul .
+ex:L9141220-TL0083-2a-pdf ex:B-OTH_FOOD ex:Brot .
+ex:Brot ex:wikidataQID ex:Q7802 .
+

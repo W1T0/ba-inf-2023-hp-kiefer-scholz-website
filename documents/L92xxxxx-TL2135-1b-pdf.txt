@@ -1,0 +1,8 @@
+ex:L92xxxxx-TL2135-1b-pdf ex:date '192x-xx-xx'^^xsd:date .
+ex:L92xxxxx-TL2135-1b-pdf ex:B-LOC ex:Rhein .
+ex:Rhein ex:wikidataQID ex:Q616895 .
+ex:Rhein ex:coordinates ex:'53,937777777_21,548055555' .
+ex:L92xxxxx-TL2135-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+

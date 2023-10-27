@@ -1,0 +1,12 @@
+ex:L9120111-TL0025-1a-pdf ex:date '1912-01-11'^^xsd:date .
+ex:L9120111-TL0025-1a-pdf ex:I-PER ex:Schweder .
+ex:L9120111-TL0025-1a-pdf ex:B-PER ex:Berta .
+ex:L9120111-TL0025-1a-pdf ex:B-PER ex:Paul .
+ex:L9120111-TL0025-1a-pdf ex:B-PER ex:Rudolf .
+ex:L9120111-TL0025-1a-pdf ex:B-PER ex:Friderich .
+ex:L9120111-TL0025-1a-pdf ex:B-PER ex:Schuster .
+ex:L9120111-TL0025-1a-pdf ex:I-PER ex:Lefl .
+ex:L9120111-TL0025-1a-pdf ex:I-PER ex:Kaum .
+ex:L9120111-TL0025-1a-pdf ex:I-PER ex:Mitzl .
+ex:L9120111-TL0025-1a-pdf ex:B-PER ex:Josef .
+

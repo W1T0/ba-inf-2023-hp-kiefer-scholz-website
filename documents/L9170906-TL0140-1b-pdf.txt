@@ -1,0 +1,3 @@
+ex:L9170906-TL0140-1b-pdf ex:date '1917-09-06'^^xsd:date .
+ex:L9170906-TL0140-1b-pdf ex:B-PER ex:Marie .
+

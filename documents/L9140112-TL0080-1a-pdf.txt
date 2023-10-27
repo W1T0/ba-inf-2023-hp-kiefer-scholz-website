@@ -1,0 +1,4 @@
+ex:L9140112-TL0080-1a-pdf ex:date '1914-01-12'^^xsd:date .
+ex:L9140112-TL0080-1a-pdf ex:B-PER ex:Maria .
+ex:L9140112-TL0080-1a-pdf ex:B-PER ex:Thekla .
+

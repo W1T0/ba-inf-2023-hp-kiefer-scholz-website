@@ -1,0 +1,6 @@
+ex:L9150629-TL0111-2a-pdf ex:date '1915-06-29'^^xsd:date .
+ex:L9150629-TL0111-2a-pdf ex:B-PER ex:Bauer .
+ex:L9150629-TL0111-2a-pdf ex:B-LOC ex:Arnold .
+ex:Arnold ex:wikidataQID ex:Q602688 .
+ex:Arnold ex:coordinates ex:'38,432777777_-90,369444444' .
+

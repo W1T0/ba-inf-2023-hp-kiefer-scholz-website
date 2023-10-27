@@ -1,0 +1,6 @@
+ex:L921xxxx-TL2116-1a-pdf ex:date '1921-xx-xx'^^xsd:date .
+ex:L921xxxx-TL2116-1a-pdf ex:B-OTH_FOOD ex:Weizen .
+ex:Weizen ex:wikidataQID ex:Q15645384 .
+ex:L921xxxx-TL2116-1a-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+

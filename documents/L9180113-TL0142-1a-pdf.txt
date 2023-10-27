@@ -1,0 +1,4 @@
+ex:L9180113-TL0142-1a-pdf ex:date '1918-01-13'^^xsd:date .
+ex:L9180113-TL0142-1a-pdf ex:B-PER ex:Amalie .
+ex:L9180113-TL0142-1a-pdf ex:B-PER ex:Thekla .
+

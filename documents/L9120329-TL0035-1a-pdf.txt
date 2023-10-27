@@ -1,0 +1,4 @@
+ex:L9120329-TL0035-1a-pdf ex:date '1912-03-29'^^xsd:date .
+ex:L9120329-TL0035-1a-pdf ex:B-PER ex:Hetter .
+ex:L9120329-TL0035-1a-pdf ex:B-PER ex:Thekla .
+

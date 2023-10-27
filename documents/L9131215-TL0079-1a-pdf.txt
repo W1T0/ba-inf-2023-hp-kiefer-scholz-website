@@ -1,0 +1,9 @@
+ex:L9131215-TL0079-1a-pdf ex:date '1913-12-15'^^xsd:date .
+ex:L9131215-TL0079-1a-pdf ex:B-PER ex:Nikolaus .
+ex:L9131215-TL0079-1a-pdf ex:B-PER ex:Thekla .
+ex:L9131215-TL0079-1a-pdf ex:I-PER ex:J .
+ex:L9131215-TL0079-1a-pdf ex:B-LOC ex:Obermorgen .
+ex:L9131215-TL0079-1a-pdf ex:B-LOC ex:Deutsch .
+ex:L9131215-TL0079-1a-pdf ex:B-PER ex:Anna .
+ex:L9131215-TL0079-1a-pdf ex:I-PER ex:Gotter .
+

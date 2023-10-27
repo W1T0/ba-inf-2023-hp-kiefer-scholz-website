@@ -1,0 +1,10 @@
+ex:L9111118-TL0022-1b-pdf ex:date '1911-11-18'^^xsd:date .
+ex:L9111118-TL0022-1b-pdf ex:B-PER ex:August .
+ex:L9111118-TL0022-1b-pdf ex:I-PER ex:Hilf .
+ex:L9111118-TL0022-1b-pdf ex:B-PER ex:Bette .
+ex:L9111118-TL0022-1b-pdf ex:B-PER ex:Maria .
+ex:L9111118-TL0022-1b-pdf ex:B-PER ex:Tekla .
+ex:L9111118-TL0022-1b-pdf ex:B-OTH ex:El .
+ex:L9111118-TL0022-1b-pdf ex:B-PER ex:Ablas .
+ex:L9111118-TL0022-1b-pdf ex:B-PER ex:Josef .
+

@@ -1,0 +1,9 @@
+ex:L9140128-TL0085-1a-pdf ex:date '1914-01-28'^^xsd:date .
+ex:L9140128-TL0085-1a-pdf ex:B-PER ex:Schneer .
+ex:L9140128-TL0085-1a-pdf ex:B-PER ex:Thekla .
+ex:L9140128-TL0085-1a-pdf ex:B-PER ex:Neustadt .
+ex:L9140128-TL0085-1a-pdf ex:B-OTH ex:Mark .
+ex:L9140128-TL0085-1a-pdf ex:I-PER ex:S .
+ex:L9140128-TL0085-1a-pdf ex:B-PER ex:Schnider .
+ex:L9140128-TL0085-1a-pdf ex:B-PER ex:M .
+

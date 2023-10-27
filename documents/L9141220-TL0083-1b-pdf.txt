@@ -1,0 +1,12 @@
+ex:L9141220-TL0083-1b-pdf ex:date '1914-12-20'^^xsd:date .
+ex:L9141220-TL0083-1b-pdf ex:B-PER ex:Johann .
+ex:L9141220-TL0083-1b-pdf ex:B-PER ex:Thekla .
+ex:L9141220-TL0083-1b-pdf ex:B-LOC ex:Frankreich .
+ex:Frankreich ex:wikidataQID ex:Q142 .
+ex:Frankreich ex:coordinates ex:'47,0_2,0' .
+ex:L9141220-TL0083-1b-pdf ex:B-LOC ex:Rußland .
+ex:Rußland ex:wikidataQID ex:Q159 .
+ex:Rußland ex:coordinates ex:'66,416666666_94,25' .
+ex:L9141220-TL0083-1b-pdf ex:B-PER ex:Paul .
+ex:L9141220-TL0083-1b-pdf ex:B-PER ex:Franz .
+

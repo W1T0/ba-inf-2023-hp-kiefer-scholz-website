@@ -1,0 +1,16 @@
+ex:L92xxxxx-TL2136-1a-pdf ex:date '192x-xx-xx'^^xsd:date .
+ex:L92xxxxx-TL2136-1a-pdf ex:B-LOC ex:München .
+ex:München ex:wikidataQID ex:Q1726 .
+ex:München ex:coordinates ex:'48,1375_11,575' .
+ex:L92xxxxx-TL2136-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+ex:L92xxxxx-TL2136-1a-pdf ex:B-OTH ex:Mark .
+ex:L92xxxxx-TL2136-1a-pdf ex:B-LOC ex:Hamburg .
+ex:Hamburg ex:wikidataQID ex:Q1055 .
+ex:Hamburg ex:coordinates ex:'53,55_10,0' .
+ex:L92xxxxx-TL2136-1a-pdf ex:B-LOC ex:Bremen .
+ex:Bremen ex:wikidataQID ex:Q1209 .
+ex:Bremen ex:coordinates ex:'53,133333333_8,733333333' .
+ex:L92xxxxx-TL2136-1a-pdf ex:B-PER ex:Franz .
+

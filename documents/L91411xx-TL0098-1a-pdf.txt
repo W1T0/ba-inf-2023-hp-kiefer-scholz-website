@@ -1,0 +1,8 @@
+ex:L91411xx-TL0098-1a-pdf ex:date '1914-11-xx'^^xsd:date .
+ex:L91411xx-TL0098-1a-pdf ex:I-PER ex:Hofe .
+ex:L91411xx-TL0098-1a-pdf ex:B-PER ex:Thekla .
+ex:L91411xx-TL0098-1a-pdf ex:B-PER ex:Anna .
+ex:L91411xx-TL0098-1a-pdf ex:B-PER ex:Martha .
+ex:L91411xx-TL0098-1a-pdf ex:B-PER ex:Emil .
+ex:L91411xx-TL0098-1a-pdf ex:I-LOC ex:Seehal .
+

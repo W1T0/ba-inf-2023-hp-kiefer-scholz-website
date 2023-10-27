@@ -1,0 +1,11 @@
+ex:L9120311-TL0031-1a-pdf ex:date '1912-03-11'^^xsd:date .
+ex:L9120311-TL0031-1a-pdf ex:B-PER ex:Keller .
+ex:L9120311-TL0031-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9120311-TL0031-1a-pdf ex:B-PER ex:Schneider .
+ex:L9120311-TL0031-1a-pdf ex:B-PER ex:Anna .
+ex:L9120311-TL0031-1a-pdf ex:I-PER ex:Ich .
+ex:L9120311-TL0031-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+ex:L9120311-TL0031-1a-pdf ex:B-PER ex:Franz .
+

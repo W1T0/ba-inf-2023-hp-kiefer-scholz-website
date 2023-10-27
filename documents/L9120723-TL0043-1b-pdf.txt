@@ -1,0 +1,7 @@
+ex:L9120723-TL0043-1b-pdf ex:date '1912-07-23'^^xsd:date .
+ex:L9120723-TL0043-1b-pdf ex:B-PER ex:Josef .
+ex:L9120723-TL0043-1b-pdf ex:B-PER ex:Thekla .
+ex:L9120723-TL0043-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9120723-TL0043-1b-pdf ex:B-PER ex:Friderich .
+ex:L9120723-TL0043-1b-pdf ex:B-PER ex:Paul .
+

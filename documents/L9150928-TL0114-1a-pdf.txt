@@ -1,0 +1,5 @@
+ex:L9150928-TL0114-1a-pdf ex:date '1915-09-28'^^xsd:date .
+ex:L9150928-TL0114-1a-pdf ex:I-PER ex:H .
+ex:L9150928-TL0114-1a-pdf ex:B-PER ex:Anna .
+ex:L9150928-TL0114-1a-pdf ex:B-PER ex:Lisbeth .
+

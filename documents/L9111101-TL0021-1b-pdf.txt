@@ -1,0 +1,5 @@
+ex:L9111101-TL0021-1b-pdf ex:date '1911-11-01'^^xsd:date .
+ex:L9111101-TL0021-1b-pdf ex:B-LOC ex:Arnoldorf .
+ex:L9111101-TL0021-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9111101-TL0021-1b-pdf ex:B-PER ex:Art .
+

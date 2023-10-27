@@ -1,0 +1,10 @@
+ex:L9131109-TL0072-1a-pdf ex:date '1913-11-09'^^xsd:date .
+ex:L9131109-TL0072-1a-pdf ex:I-PER ex:d .
+ex:L9131109-TL0072-1a-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+ex:L9131109-TL0072-1a-pdf ex:B-PER ex:Thekla .
+ex:L9131109-TL0072-1a-pdf ex:B-OTH_FOOD ex:Rücken .
+ex:Rücken ex:wikidataQID ex:Q107262074 .
+ex:L9131109-TL0072-1a-pdf ex:I-PER ex:Hostin .
+ex:L9131109-TL0072-1a-pdf ex:I-PER ex:H .
+

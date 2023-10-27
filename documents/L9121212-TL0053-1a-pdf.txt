@@ -1,0 +1,8 @@
+ex:L9121212-TL0053-1a-pdf ex:date '1912-12-12'^^xsd:date .
+ex:L9121212-TL0053-1a-pdf ex:B-LOC ex:Gross .
+ex:L9121212-TL0053-1a-pdf ex:B-PER ex:Thekla .
+ex:L9121212-TL0053-1a-pdf ex:B-PER ex:H .
+ex:L9121212-TL0053-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+

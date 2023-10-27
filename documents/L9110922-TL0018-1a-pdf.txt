@@ -1,0 +1,9 @@
+ex:L9110922-TL0018-1a-pdf ex:date '1911-09-22'^^xsd:date .
+ex:L9110922-TL0018-1a-pdf ex:B-PER ex:August .
+ex:L9110922-TL0018-1a-pdf ex:B-LOC ex:Langenbrück .
+ex:L9110922-TL0018-1a-pdf ex:B-PER ex:Hettwer .
+ex:L9110922-TL0018-1a-pdf ex:B-OTH_FOOD ex:Apfel .
+ex:Apfel ex:wikidataQID ex:Q89 .
+ex:L9110922-TL0018-1a-pdf ex:B-PER ex:Paul .
+ex:L9110922-TL0018-1a-pdf ex:B-PER ex:Flaumen .
+

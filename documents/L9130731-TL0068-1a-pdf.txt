@@ -1,0 +1,8 @@
+ex:L9130731-TL0068-1a-pdf ex:date '1913-07-31'^^xsd:date .
+ex:L9130731-TL0068-1a-pdf ex:B-PER ex:Josef .
+ex:L9130731-TL0068-1a-pdf ex:B-PER ex:Marie .
+ex:L9130731-TL0068-1a-pdf ex:B-PER ex:Marta .
+ex:L9130731-TL0068-1a-pdf ex:B-PER ex:Mart .
+ex:L9130731-TL0068-1a-pdf ex:B-PER ex:Ricke .
+ex:L9130731-TL0068-1a-pdf ex:B-PER ex:Paul .
+

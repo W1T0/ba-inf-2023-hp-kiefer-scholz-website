@@ -1,0 +1,15 @@
+ex:L9130702-TL0066-1b-pdf ex:date '1913-07-02'^^xsd:date .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Jesu .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Johann .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:August .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Marie .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Marta .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Agnes .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Bertha .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Rinke .
+ex:L9130702-TL0066-1b-pdf ex:I-PER ex:Schmied .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Anna .
+ex:L9130702-TL0066-1b-pdf ex:B-LOC ex:Breslau .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Ottilie .
+ex:L9130702-TL0066-1b-pdf ex:B-PER ex:Franz .
+

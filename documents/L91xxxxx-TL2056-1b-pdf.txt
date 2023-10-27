@@ -1,0 +1,5 @@
+ex:L91xxxxx-TL2056-1b-pdf ex:date '191x-xx-xx'^^xsd:date .
+ex:L91xxxxx-TL2056-1b-pdf ex:B-OTH_FOOD ex:Hausen .
+ex:Hausen ex:wikidataQID ex:Q83363024 .
+ex:L91xxxxx-TL2056-1b-pdf ex:B-PER ex:Franz .
+

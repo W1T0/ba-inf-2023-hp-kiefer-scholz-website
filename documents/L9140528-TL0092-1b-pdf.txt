@@ -1,0 +1,5 @@
+ex:L9140528-TL0092-1b-pdf ex:date '1914-05-28'^^xsd:date .
+ex:L9140528-TL0092-1b-pdf ex:B-PER ex:Willer .
+ex:L9140528-TL0092-1b-pdf ex:B-PER ex:Kurt .
+ex:L9140528-TL0092-1b-pdf ex:I-PER ex:Be .
+

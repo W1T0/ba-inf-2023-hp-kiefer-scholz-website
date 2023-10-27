@@ -1,0 +1,9 @@
+ex:L921xxxx-TL2029-1a-pdf ex:date '1921-xx-xx'^^xsd:date .
+ex:L921xxxx-TL2029-1a-pdf ex:B-LOC ex:Turow .
+ex:L921xxxx-TL2029-1a-pdf ex:B-PER ex:Joseph .
+ex:L921xxxx-TL2029-1a-pdf ex:B-PER ex:August .
+ex:L921xxxx-TL2029-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+ex:L921xxxx-TL2029-1a-pdf ex:B-PER ex:Franz .
+

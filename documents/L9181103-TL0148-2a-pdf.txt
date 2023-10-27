@@ -1,0 +1,7 @@
+ex:L9181103-TL0148-2a-pdf ex:date '1918-11-03'^^xsd:date .
+ex:L9181103-TL0148-2a-pdf ex:B-PER ex:August .
+ex:L9181103-TL0148-2a-pdf ex:B-OTH ex:ODS .
+ex:L9181103-TL0148-2a-pdf ex:B-PER ex:Ludwig .
+ex:L9181103-TL0148-2a-pdf ex:B-PER ex:Paul .
+ex:L9181103-TL0148-2a-pdf ex:B-PER ex:Franz .
+

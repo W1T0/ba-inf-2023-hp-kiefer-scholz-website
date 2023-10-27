@@ -1,0 +1,5 @@
+ex:L9130414-TL0060-1b-pdf ex:date '1913-04-14'^^xsd:date .
+ex:L9130414-TL0060-1b-pdf ex:B-LOC ex:Bockenhalbinsel .
+ex:L9130414-TL0060-1b-pdf ex:B-PER ex:Rue .
+ex:L9130414-TL0060-1b-pdf ex:B-PER ex:Ritters .
+

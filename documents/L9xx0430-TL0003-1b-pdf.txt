@@ -1,0 +1,8 @@
+ex:L9xx0430-TL0003-1b-pdf ex:date '19xx-04-30'^^xsd:date .
+ex:L9xx0430-TL0003-1b-pdf ex:I-PER ex:Pomerin .
+ex:L9xx0430-TL0003-1b-pdf ex:B-PER ex:Robert .
+ex:L9xx0430-TL0003-1b-pdf ex:I-PER ex:J .
+ex:L9xx0430-TL0003-1b-pdf ex:I-PER ex:Division .
+ex:L9xx0430-TL0003-1b-pdf ex:B-PER ex:Stefan .
+ex:L9xx0430-TL0003-1b-pdf ex:B-PER ex:Josef .
+

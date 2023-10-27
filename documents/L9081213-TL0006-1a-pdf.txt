@@ -1,0 +1,3 @@
+ex:L9081213-TL0006-1a-pdf ex:date '1908-12-13'^^xsd:date .
+ex:L9081213-TL0006-1a-pdf ex:B-PER ex:Schneider .
+

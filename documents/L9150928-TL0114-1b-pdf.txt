@@ -1,0 +1,6 @@
+ex:L9150928-TL0114-1b-pdf ex:date '1915-09-28'^^xsd:date .
+ex:L9150928-TL0114-1b-pdf ex:B-PER ex:Selma .
+ex:L9150928-TL0114-1b-pdf ex:B-PER ex:Agnes .
+ex:L9150928-TL0114-1b-pdf ex:B-PER ex:Thekla .
+ex:L9150928-TL0114-1b-pdf ex:B-PER ex:Heidenreich .
+

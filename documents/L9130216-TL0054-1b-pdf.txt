@@ -1,0 +1,7 @@
+ex:L9130216-TL0054-1b-pdf ex:date '1913-02-16'^^xsd:date .
+ex:L9130216-TL0054-1b-pdf ex:B-PER ex:Hübner .
+ex:L9130216-TL0054-1b-pdf ex:B-PER ex:Postagen .
+ex:L9130216-TL0054-1b-pdf ex:B-LOC ex:Breslau .
+ex:L9130216-TL0054-1b-pdf ex:I-PER ex:Wenzel .
+ex:L9130216-TL0054-1b-pdf ex:B-PER ex:Paul .
+

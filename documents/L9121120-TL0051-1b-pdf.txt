@@ -1,0 +1,12 @@
+ex:L9121120-TL0051-1b-pdf ex:date '1912-11-20'^^xsd:date .
+ex:L9121120-TL0051-1b-pdf ex:B-PER ex:Johann .
+ex:L9121120-TL0051-1b-pdf ex:B-PER ex:Else .
+ex:L9121120-TL0051-1b-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+ex:L9121120-TL0051-1b-pdf ex:B-PER ex:Mike .
+ex:L9121120-TL0051-1b-pdf ex:B-PER ex:Frieda .
+ex:L9121120-TL0051-1b-pdf ex:I-PER ex:Rother .
+ex:L9121120-TL0051-1b-pdf ex:B-PER ex:Mutzner .
+ex:L9121120-TL0051-1b-pdf ex:B-LOC ex:Freiwaldau .
+

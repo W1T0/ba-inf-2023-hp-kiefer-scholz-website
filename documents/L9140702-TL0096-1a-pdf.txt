@@ -1,0 +1,4 @@
+ex:L9140702-TL0096-1a-pdf ex:date '1914-07-02'^^xsd:date .
+ex:L9140702-TL0096-1a-pdf ex:B-PER ex:H .
+ex:L9140702-TL0096-1a-pdf ex:I-PER ex:Jouis .
+

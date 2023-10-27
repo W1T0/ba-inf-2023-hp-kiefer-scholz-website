@@ -1,0 +1,6 @@
+ex:L9xx0404-TL2156-3a-pdf ex:date '19xx-04-04'^^xsd:date .
+ex:L9xx0404-TL2156-3a-pdf ex:I-PER ex:Teckla .
+ex:L9xx0404-TL2156-3a-pdf ex:B-PER ex:Andet .
+ex:L9xx0404-TL2156-3a-pdf ex:B-PER ex:C .
+ex:L9xx0404-TL2156-3a-pdf ex:B-PER ex:August .
+

@@ -1,0 +1,9 @@
+ex:L9130414-TL0060-1a-pdf ex:date '1913-04-14'^^xsd:date .
+ex:L9130414-TL0060-1a-pdf ex:B-PER ex:Elisabeth .
+ex:L9130414-TL0060-1a-pdf ex:B-PER ex:Thekla .
+ex:L9130414-TL0060-1a-pdf ex:B-PER ex:Mieke .
+ex:L9130414-TL0060-1a-pdf ex:I-LOC ex:Schlos .
+ex:L9130414-TL0060-1a-pdf ex:I-PER ex:Blatt .
+ex:L9130414-TL0060-1a-pdf ex:B-PER ex:Kabel .
+ex:L9130414-TL0060-1a-pdf ex:I-LOC ex:Neustadt .
+

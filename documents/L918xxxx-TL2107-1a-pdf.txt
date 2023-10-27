@@ -1,0 +1,6 @@
+ex:L918xxxx-TL2107-1a-pdf ex:date '1918-xx-xx'^^xsd:date .
+ex:L918xxxx-TL2107-1a-pdf ex:B-PER ex:Hoff .
+ex:L918xxxx-TL2107-1a-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L918xxxx-TL2107-1a-pdf ex:B-OTH ex:Regen .
+

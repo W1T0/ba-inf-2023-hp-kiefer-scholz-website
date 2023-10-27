@@ -1,0 +1,7 @@
+ex:L9xxxxxx-TL2016-1a-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2016-1a-pdf ex:B-LOC ex:München .
+ex:München ex:wikidataQID ex:Q1726 .
+ex:München ex:coordinates ex:'48,1375_11,575' .
+ex:L9xxxxxx-TL2016-1a-pdf ex:I-PER ex:Muller .
+ex:L9xxxxxx-TL2016-1a-pdf ex:B-PER ex:Josef .
+

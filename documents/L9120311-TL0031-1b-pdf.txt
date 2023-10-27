@@ -1,0 +1,8 @@
+ex:L9120311-TL0031-1b-pdf ex:date '1912-03-11'^^xsd:date .
+ex:L9120311-TL0031-1b-pdf ex:B-PER ex:Friedrich .
+ex:L9120311-TL0031-1b-pdf ex:B-PER ex:Georg .
+ex:L9120311-TL0031-1b-pdf ex:B-OTH ex:Mark .
+ex:L9120311-TL0031-1b-pdf ex:I-PER ex:dem .
+ex:L9120311-TL0031-1b-pdf ex:I-PER ex:Großen .
+ex:L9120311-TL0031-1b-pdf ex:B-PER ex:Ruschel .
+

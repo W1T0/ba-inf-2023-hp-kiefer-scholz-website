@@ -1,0 +1,17 @@
+ex:L9110922-TL0019-1b-pdf ex:date '1911-09-22'^^xsd:date .
+ex:L9110922-TL0019-1b-pdf ex:B-ORG ex:Porto .
+ex:L9110922-TL0019-1b-pdf ex:B-LOC ex:Neu .
+ex:L9110922-TL0019-1b-pdf ex:I-ORG ex:Welthalia .
+ex:L9110922-TL0019-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9110922-TL0019-1b-pdf ex:B-LOC ex:Salzuflen .
+ex:L9110922-TL0019-1b-pdf ex:B-LOC ex:Frankfurt .
+ex:Frankfurt ex:wikidataQID ex:Q1794 .
+ex:Frankfurt ex:coordinates ex:'50,110555555_8,682222222' .
+ex:L9110922-TL0019-1b-pdf ex:B-OTH_FOOD ex:Braten .
+ex:Braten ex:wikidataQID ex:Q899561 .
+ex:L9110922-TL0019-1b-pdf ex:B-LOC ex:Breslau .
+ex:L9110922-TL0019-1b-pdf ex:B-PER ex:Schneider .
+ex:L9110922-TL0019-1b-pdf ex:B-PER ex:Martha .
+ex:L9110922-TL0019-1b-pdf ex:B-OTH_FOOD ex:Kartoffel .
+ex:Kartoffel ex:wikidataQID ex:Q16587531 .
+

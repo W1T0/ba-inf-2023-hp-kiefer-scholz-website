@@ -1,0 +1,17 @@
+ex:L92xxxxx-TL2135-1a-pdf ex:date '192x-xx-xx'^^xsd:date .
+ex:L92xxxxx-TL2135-1a-pdf ex:B-OTH ex:Mark .
+ex:L92xxxxx-TL2135-1a-pdf ex:B-PER ex:Anna .
+ex:L92xxxxx-TL2135-1a-pdf ex:B-LOC ex:Frankreich .
+ex:Frankreich ex:wikidataQID ex:Q142 .
+ex:Frankreich ex:coordinates ex:'47,0_2,0' .
+ex:L92xxxxx-TL2135-1a-pdf ex:B-LOC ex:England .
+ex:England ex:wikidataQID ex:Q21 .
+ex:England ex:coordinates ex:'53,0_-1,0' .
+ex:L92xxxxx-TL2135-1a-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L92xxxxx-TL2135-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L92xxxxx-TL2135-1a-pdf ex:B-OTH_FOOD ex:Brot .
+ex:Brot ex:wikidataQID ex:Q7802 .
+

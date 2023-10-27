@@ -1,0 +1,4 @@
+ex:L9140623-TL0094-1a-pdf ex:date '1914-06-23'^^xsd:date .
+ex:L9140623-TL0094-1a-pdf ex:B-PER ex:Paul .
+ex:L9140623-TL0094-1a-pdf ex:B-PER ex:Annas .
+

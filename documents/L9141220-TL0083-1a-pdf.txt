@@ -1,0 +1,16 @@
+ex:L9141220-TL0083-1a-pdf ex:date '1914-12-20'^^xsd:date .
+ex:L9141220-TL0083-1a-pdf ex:B-PER ex:Josef .
+ex:L9141220-TL0083-1a-pdf ex:I-ORG ex:Polen .
+ex:L9141220-TL0083-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9141220-TL0083-1a-pdf ex:B-ORG ex:Entscheide .
+ex:L9141220-TL0083-1a-pdf ex:I-ORG ex:Schlesien .
+ex:L9141220-TL0083-1a-pdf ex:B-LOC ex:Frankreich .
+ex:Frankreich ex:wikidataQID ex:Q142 .
+ex:Frankreich ex:coordinates ex:'47,0_2,0' .
+ex:L9141220-TL0083-1a-pdf ex:I-ORG ex:für .
+ex:L9141220-TL0083-1a-pdf ex:I-ORG ex:u .
+ex:L9141220-TL0083-1a-pdf ex:B-LOC ex:England .
+ex:England ex:wikidataQID ex:Q21 .
+ex:England ex:coordinates ex:'53,0_-1,0' .
+ex:L9141220-TL0083-1a-pdf ex:B-PER ex:Paul .
+

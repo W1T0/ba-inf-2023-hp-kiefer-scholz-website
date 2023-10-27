@@ -1,0 +1,6 @@
+ex:L9xx0206-TL2170-1a-pdf ex:date '19xx-02-06'^^xsd:date .
+ex:L9xx0206-TL2170-1a-pdf ex:B-PER ex:Anna .
+ex:L9xx0206-TL2170-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+

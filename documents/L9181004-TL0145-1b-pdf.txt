@@ -1,0 +1,5 @@
+ex:L9181004-TL0145-1b-pdf ex:date '1918-10-04'^^xsd:date .
+ex:L9181004-TL0145-1b-pdf ex:B-PER ex:Walter .
+ex:L9181004-TL0145-1b-pdf ex:I-PER ex:Michel .
+ex:L9181004-TL0145-1b-pdf ex:I-PER ex:Lange .
+

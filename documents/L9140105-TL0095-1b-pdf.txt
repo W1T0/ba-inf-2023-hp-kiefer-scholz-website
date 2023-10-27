@@ -1,0 +1,3 @@
+ex:L9140105-TL0095-1b-pdf ex:date '1914-01-05'^^xsd:date .
+ex:L9140105-TL0095-1b-pdf ex:B-PER ex:Jekla .
+

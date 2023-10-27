@@ -1,0 +1,7 @@
+ex:L9190803-TL0161-1a-pdf ex:date '1919-08-03'^^xsd:date .
+ex:L9190803-TL0161-1a-pdf ex:B-PER ex:August .
+ex:L9190803-TL0161-1a-pdf ex:I-LOC ex:Holland .
+ex:L9190803-TL0161-1a-pdf ex:B-PER ex:Anna .
+ex:L9190803-TL0161-1a-pdf ex:B-LOC ex:Ander .
+ex:L9190803-TL0161-1a-pdf ex:B-LOC ex:Begl .
+

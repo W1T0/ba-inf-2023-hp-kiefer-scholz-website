@@ -1,0 +1,4 @@
+ex:L9140916-TL0013-1b-pdf ex:date '1914-09-16'^^xsd:date .
+ex:L9140916-TL0013-1b-pdf ex:B-PER ex:Selma .
+ex:L9140916-TL0013-1b-pdf ex:I-PER ex:Goerlich .
+

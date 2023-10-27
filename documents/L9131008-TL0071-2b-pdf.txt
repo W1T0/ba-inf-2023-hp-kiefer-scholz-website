@@ -1,0 +1,4 @@
+ex:L9131008-TL0071-2b-pdf ex:date '1913-10-08'^^xsd:date .
+ex:L9131008-TL0071-2b-pdf ex:B-PER ex:Tielchen .
+ex:L9131008-TL0071-2b-pdf ex:B-PER ex:Thekla .
+

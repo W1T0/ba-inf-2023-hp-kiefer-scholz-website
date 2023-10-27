@@ -1,0 +1,7 @@
+ex:L9131030-TL0073-1a-pdf ex:date '1913-10-30'^^xsd:date .
+ex:L9131030-TL0073-1a-pdf ex:B-PER ex:Müller .
+ex:L9131030-TL0073-1a-pdf ex:I-PER ex:Nonstadt .
+ex:L9131030-TL0073-1a-pdf ex:B-PER ex:Marta .
+ex:L9131030-TL0073-1a-pdf ex:B-PER ex:Marie .
+ex:L9131030-TL0073-1a-pdf ex:B-PER ex:Heder .
+

@@ -1,0 +1,7 @@
+ex:L9170717-TL0138-4a-pdf ex:date '1917-07-17'^^xsd:date .
+ex:L9170717-TL0138-4a-pdf ex:B-PER ex:Gun .
+ex:L9170717-TL0138-4a-pdf ex:B-PER ex:Mellić .
+ex:L9170717-TL0138-4a-pdf ex:I-PER ex:Mellen .
+ex:L9170717-TL0138-4a-pdf ex:B-PER ex:M .
+ex:L9170717-TL0138-4a-pdf ex:B-PER ex:Martha .
+

@@ -1,0 +1,7 @@
+ex:L9xxxxxx-TL2118-2b-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2118-2b-pdf ex:B-PER ex:Müller .
+ex:L9xxxxxx-TL2118-2b-pdf ex:B-PER ex:Rum .
+ex:L9xxxxxx-TL2118-2b-pdf ex:B-LOC ex:Griechenland .
+ex:Griechenland ex:wikidataQID ex:Q41 .
+ex:Griechenland ex:coordinates ex:'38,5_23,0' .
+

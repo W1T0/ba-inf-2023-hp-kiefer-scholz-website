@@ -1,0 +1,6 @@
+ex:L9150108-TL0115-1a-pdf ex:date '1915-01-08'^^xsd:date .
+ex:L9150108-TL0115-1a-pdf ex:B-PER ex:Josef .
+ex:L9150108-TL0115-1a-pdf ex:B-OTH_FOOD ex:Brei .
+ex:Brei ex:wikidataQID ex:Q669569 .
+ex:L9150108-TL0115-1a-pdf ex:B-LOC ex:Langenbuch .
+

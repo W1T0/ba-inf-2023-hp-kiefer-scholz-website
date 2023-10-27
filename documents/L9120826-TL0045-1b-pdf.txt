@@ -1,0 +1,15 @@
+ex:L9120826-TL0045-1b-pdf ex:date '1912-08-26'^^xsd:date .
+ex:L9120826-TL0045-1b-pdf ex:B-LOC ex:Lahn .
+ex:Lahn ex:wikidataQID ex:Q671829 .
+ex:Lahn ex:coordinates ex:'52,816666666_7,616666666' .
+ex:L9120826-TL0045-1b-pdf ex:B-PER ex:August .
+ex:L9120826-TL0045-1b-pdf ex:B-PER ex:Thekla .
+ex:L9120826-TL0045-1b-pdf ex:B-PER ex:Marie .
+ex:L9120826-TL0045-1b-pdf ex:B-PER ex:Maria .
+ex:L9120826-TL0045-1b-pdf ex:B-PER ex:Becker .
+ex:L9120826-TL0045-1b-pdf ex:I-PER ex:Heiderreich .
+ex:L9120826-TL0045-1b-pdf ex:B-OTH ex:Wie .
+ex:L9120826-TL0045-1b-pdf ex:I-PER ex:Franzes .
+ex:L9120826-TL0045-1b-pdf ex:B-PER ex:Paul .
+ex:L9120826-TL0045-1b-pdf ex:I-PER ex:von .
+

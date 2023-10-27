@@ -1,0 +1,14 @@
+ex:L9160129-TL0129-1b-pdf ex:date '1916-01-29'^^xsd:date .
+ex:L9160129-TL0129-1b-pdf ex:B-PER ex:August .
+ex:L9160129-TL0129-1b-pdf ex:B-PER ex:Maria .
+ex:L9160129-TL0129-1b-pdf ex:B-LOC ex:Neustad .
+ex:L9160129-TL0129-1b-pdf ex:B-PER ex:Agnes .
+ex:L9160129-TL0129-1b-pdf ex:B-PER ex:Bertha .
+ex:L9160129-TL0129-1b-pdf ex:B-PER ex:Paul .
+ex:L9160129-TL0129-1b-pdf ex:B-PER ex:Marieli .
+ex:L9160129-TL0129-1b-pdf ex:B-LOC ex:Rußland .
+ex:Rußland ex:wikidataQID ex:Q159 .
+ex:Rußland ex:coordinates ex:'66,416666666_94,25' .
+ex:L9160129-TL0129-1b-pdf ex:B-PER ex:Josef .
+ex:L9160129-TL0129-1b-pdf ex:B-PER ex:Franz .
+

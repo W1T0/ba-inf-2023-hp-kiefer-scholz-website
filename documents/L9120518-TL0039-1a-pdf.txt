@@ -1,0 +1,11 @@
+ex:L9120518-TL0039-1a-pdf ex:date '1912-05-18'^^xsd:date .
+ex:L9120518-TL0039-1a-pdf ex:B-PER ex:Thekla .
+ex:L9120518-TL0039-1a-pdf ex:B-PER ex:Licke .
+ex:L9120518-TL0039-1a-pdf ex:B-PER ex:Marie .
+ex:L9120518-TL0039-1a-pdf ex:B-PER ex:Paul .
+ex:L9120518-TL0039-1a-pdf ex:B-PER ex:Ficker .
+ex:L9120518-TL0039-1a-pdf ex:B-PER ex:Zicker .
+ex:L9120518-TL0039-1a-pdf ex:B-OTH ex:Thaler .
+ex:L9120518-TL0039-1a-pdf ex:B-PER ex:Lange .
+ex:L9120518-TL0039-1a-pdf ex:B-PER ex:Josef .
+

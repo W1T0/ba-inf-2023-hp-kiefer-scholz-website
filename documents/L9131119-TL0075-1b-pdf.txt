@@ -1,0 +1,15 @@
+ex:L9131119-TL0075-1b-pdf ex:date '1913-11-19'^^xsd:date .
+ex:L9131119-TL0075-1b-pdf ex:B-PER ex:Schneiders .
+ex:L9131119-TL0075-1b-pdf ex:B-PER ex:Fleischer .
+ex:L9131119-TL0075-1b-pdf ex:B-LOC ex:Oberschlesien .
+ex:Oberschlesien ex:wikidataQID ex:Q81011 .
+ex:Oberschlesien ex:coordinates ex:'50,433843_18,032375' .
+ex:L9131119-TL0075-1b-pdf ex:B-PER ex:Wittwer .
+ex:L9131119-TL0075-1b-pdf ex:B-PER ex:Mari .
+ex:L9131119-TL0075-1b-pdf ex:B-PER ex:Gruschka .
+ex:L9131119-TL0075-1b-pdf ex:B-PER ex:Martha .
+ex:L9131119-TL0075-1b-pdf ex:B-OTH_FOOD ex:Fleisch .
+ex:Fleisch ex:wikidataQID ex:Q10990 .
+ex:L9131119-TL0075-1b-pdf ex:B-PER ex:Paul .
+ex:L9131119-TL0075-1b-pdf ex:B-PER ex:Franz .
+

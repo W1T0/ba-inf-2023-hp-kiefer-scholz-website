@@ -1,0 +1,3 @@
+ex:L92101xx-TL2022-1a-pdf ex:date '1921-01-xx'^^xsd:date .
+ex:L92101xx-TL2022-1a-pdf ex:B-PER ex:Philothea .
+

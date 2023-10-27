@@ -1,0 +1,5 @@
+ex:L9141214-TL0099-1a-pdf ex:date '1914-12-14'^^xsd:date .
+ex:L9141214-TL0099-1a-pdf ex:B-OTH_FOOD ex:Gericht .
+ex:Gericht ex:wikidataQID ex:Q746549 .
+ex:L9141214-TL0099-1a-pdf ex:B-PER ex:August .
+

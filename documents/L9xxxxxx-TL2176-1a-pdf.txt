@@ -1,0 +1,5 @@
+ex:L9xxxxxx-TL2176-1a-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2176-1a-pdf ex:I-LOC ex:Re .
+ex:L9xxxxxx-TL2176-1a-pdf ex:B-LOC ex:Entles .
+ex:L9xxxxxx-TL2176-1a-pdf ex:I-LOC ex:Tecklen .
+

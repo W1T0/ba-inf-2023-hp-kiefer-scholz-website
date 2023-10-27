@@ -1,0 +1,5 @@
+ex:L9120111-TL0025-1b-pdf ex:date '1912-01-11'^^xsd:date .
+ex:L9120111-TL0025-1b-pdf ex:B-PER ex:Josef .
+ex:L9120111-TL0025-1b-pdf ex:B-PER ex:Paul .
+ex:L9120111-TL0025-1b-pdf ex:B-LOC ex:Generis .
+

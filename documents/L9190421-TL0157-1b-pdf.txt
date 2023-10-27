@@ -1,0 +1,5 @@
+ex:L9190421-TL0157-1b-pdf ex:date '1919-04-21'^^xsd:date .
+ex:L9190421-TL0157-1b-pdf ex:B-PER ex:Walter .
+ex:L9190421-TL0157-1b-pdf ex:B-PER ex:Boller .
+ex:L9190421-TL0157-1b-pdf ex:B-LOC ex:Ham .
+

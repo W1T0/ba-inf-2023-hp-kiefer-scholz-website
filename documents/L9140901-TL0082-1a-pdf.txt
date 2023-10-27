@@ -1,0 +1,7 @@
+ex:L9140901-TL0082-1a-pdf ex:date '1914-09-01'^^xsd:date .
+ex:L9140901-TL0082-1a-pdf ex:B-PER ex:Thekla .
+ex:L9140901-TL0082-1a-pdf ex:B-LOC ex:Langenbrück .
+ex:L9140901-TL0082-1a-pdf ex:B-LOC ex:Ostpreußen .
+ex:L9140901-TL0082-1a-pdf ex:B-PER ex:Bachemeister .
+ex:L9140901-TL0082-1a-pdf ex:B-PER ex:Franz .
+

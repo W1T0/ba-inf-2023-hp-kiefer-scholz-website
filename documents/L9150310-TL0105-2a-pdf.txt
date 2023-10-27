@@ -1,0 +1,8 @@
+ex:L9150310-TL0105-2a-pdf ex:date '1915-03-10'^^xsd:date .
+ex:L9150310-TL0105-2a-pdf ex:B-LOC ex:England .
+ex:England ex:wikidataQID ex:Q21 .
+ex:England ex:coordinates ex:'53,0_-1,0' .
+ex:L9150310-TL0105-2a-pdf ex:B-LOC ex:Russland .
+ex:Russland ex:wikidataQID ex:Q159 .
+ex:Russland ex:coordinates ex:'66,416666666_94,25' .
+

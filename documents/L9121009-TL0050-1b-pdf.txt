@@ -1,0 +1,15 @@
+ex:L9121009-TL0050-1b-pdf ex:date '1912-10-09'^^xsd:date .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Müller .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Secker .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Riker .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Marie .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Sicker .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Anna .
+ex:L9121009-TL0050-1b-pdf ex:I-PER ex:Joste .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Bart .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Kurt .
+ex:L9121009-TL0050-1b-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+ex:L9121009-TL0050-1b-pdf ex:B-PER ex:Franz .
+

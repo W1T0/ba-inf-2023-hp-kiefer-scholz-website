@@ -1,0 +1,4 @@
+ex:L9xxxxxx-TL2082-1b-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2082-1b-pdf ex:B-OTH_FOOD ex:Gericht .
+ex:Gericht ex:wikidataQID ex:Q746549 .
+

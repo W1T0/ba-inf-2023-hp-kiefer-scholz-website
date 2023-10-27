@@ -1,0 +1,6 @@
+ex:L9131203-TL0078-1b-pdf ex:date '1913-12-03'^^xsd:date .
+ex:L9131203-TL0078-1b-pdf ex:B-PER ex:Lüber .
+ex:L9131203-TL0078-1b-pdf ex:B-PER ex:Barthold .
+ex:L9131203-TL0078-1b-pdf ex:B-PER ex:Kruske .
+ex:L9131203-TL0078-1b-pdf ex:I-PER ex:Hedel .
+

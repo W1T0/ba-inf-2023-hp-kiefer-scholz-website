@@ -1,0 +1,7 @@
+ex:L9130218-TL0055-2a-pdf ex:date '1913-02-18'^^xsd:date .
+ex:L9130218-TL0055-2a-pdf ex:B-PER ex:Josef .
+ex:L9130218-TL0055-2a-pdf ex:B-PER ex:August .
+ex:L9130218-TL0055-2a-pdf ex:B-PER ex:Anna .
+ex:L9130218-TL0055-2a-pdf ex:B-PER ex:Paul .
+ex:L9130218-TL0055-2a-pdf ex:B-PER ex:Franz .
+

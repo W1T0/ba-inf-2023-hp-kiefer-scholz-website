@@ -1,0 +1,14 @@
+ex:L9120629-TL0042-1a-pdf ex:date '1912-06-29'^^xsd:date .
+ex:L9120629-TL0042-1a-pdf ex:B-PER ex:Thekla .
+ex:L9120629-TL0042-1a-pdf ex:B-PER ex:Secker .
+ex:L9120629-TL0042-1a-pdf ex:B-LOC ex:Langen .
+ex:Langen ex:wikidataQID ex:Q14932 .
+ex:Langen ex:coordinates ex:'49,989305555_8,680347222' .
+ex:L9120629-TL0042-1a-pdf ex:B-PER ex:Maria .
+ex:L9120629-TL0042-1a-pdf ex:B-PER ex:Heisig .
+ex:L9120629-TL0042-1a-pdf ex:B-PER ex:Berta .
+ex:L9120629-TL0042-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9120629-TL0042-1a-pdf ex:B-LOC ex:Steyl .
+ex:L9120629-TL0042-1a-pdf ex:B-PER ex:Mar .
+ex:L9120629-TL0042-1a-pdf ex:B-PER ex:Josef .
+

@@ -1,0 +1,15 @@
+ex:L9151222-TL0123-1b-pdf ex:date '1915-12-22'^^xsd:date .
+ex:L9151222-TL0123-1b-pdf ex:B-PER ex:August .
+ex:L9151222-TL0123-1b-pdf ex:B-LOC ex:Serbien .
+ex:Serbien ex:wikidataQID ex:Q403 .
+ex:Serbien ex:coordinates ex:'43,95_20,933333333' .
+ex:L9151222-TL0123-1b-pdf ex:B-LOC ex:Ostpreußen .
+ex:L9151222-TL0123-1b-pdf ex:B-LOC ex:Schlesien .
+ex:Schlesien ex:wikidataQID ex:Q81720 .
+ex:Schlesien ex:coordinates ex:'51,1035_17,0396' .
+ex:L9151222-TL0123-1b-pdf ex:B-LOC ex:Frankreich .
+ex:Frankreich ex:wikidataQID ex:Q142 .
+ex:Frankreich ex:coordinates ex:'47,0_2,0' .
+ex:L9151222-TL0123-1b-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+

@@ -1,0 +1,8 @@
+ex:L9130302-TL0057-1a-pdf ex:date '1913-03-02'^^xsd:date .
+ex:L9130302-TL0057-1a-pdf ex:I-PER ex:Meisner .
+ex:L9130302-TL0057-1a-pdf ex:B-LOC ex:Nieder .
+ex:L9130302-TL0057-1a-pdf ex:B-PER ex:Thekla .
+ex:L9130302-TL0057-1a-pdf ex:B-PER ex:Tekla .
+ex:L9130302-TL0057-1a-pdf ex:B-PER ex:Kauffmann .
+ex:L9130302-TL0057-1a-pdf ex:B-PER ex:Trude .
+

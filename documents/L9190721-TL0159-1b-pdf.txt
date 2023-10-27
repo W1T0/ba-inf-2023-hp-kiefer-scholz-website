@@ -1,0 +1,12 @@
+ex:L9190721-TL0159-1b-pdf ex:date '1919-07-21'^^xsd:date .
+ex:L9190721-TL0159-1b-pdf ex:B-LOC ex:Glevitz .
+ex:L9190721-TL0159-1b-pdf ex:B-PER ex:Barth .
+ex:L9190721-TL0159-1b-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+ex:L9190721-TL0159-1b-pdf ex:B-PER ex:Alten .
+ex:L9190721-TL0159-1b-pdf ex:B-PER ex:F .
+ex:L9190721-TL0159-1b-pdf ex:B-PER ex:Donners .
+ex:L9190721-TL0159-1b-pdf ex:B-PER ex:Josef .
+ex:L9190721-TL0159-1b-pdf ex:B-PER ex:Franz .
+

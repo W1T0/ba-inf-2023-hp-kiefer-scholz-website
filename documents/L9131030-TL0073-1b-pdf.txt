@@ -1,0 +1,8 @@
+ex:L9131030-TL0073-1b-pdf ex:date '1913-10-30'^^xsd:date .
+ex:L9131030-TL0073-1b-pdf ex:B-LOC ex:Langerück .
+ex:L9131030-TL0073-1b-pdf ex:B-PER ex:Müller .
+ex:L9131030-TL0073-1b-pdf ex:B-PER ex:Marta .
+ex:L9131030-TL0073-1b-pdf ex:B-PER ex:Anna .
+ex:L9131030-TL0073-1b-pdf ex:B-PER ex:Grau .
+ex:L9131030-TL0073-1b-pdf ex:B-PER ex:Martas .
+

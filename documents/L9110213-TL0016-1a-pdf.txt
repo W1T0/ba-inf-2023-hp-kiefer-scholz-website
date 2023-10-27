@@ -1,0 +1,9 @@
+ex:L9110213-TL0016-1a-pdf ex:date '1911-02-13'^^xsd:date .
+ex:L9110213-TL0016-1a-pdf ex:I-PER ex:M .
+ex:L9110213-TL0016-1a-pdf ex:B-PER ex:Thekla .
+ex:L9110213-TL0016-1a-pdf ex:B-PER ex:Martha .
+ex:L9110213-TL0016-1a-pdf ex:B-LOC ex:Guben .
+ex:Guben ex:wikidataQID ex:Q494747 .
+ex:Guben ex:coordinates ex:'51,95042_14,7143' .
+ex:L9110213-TL0016-1a-pdf ex:B-PER ex:Frl .
+

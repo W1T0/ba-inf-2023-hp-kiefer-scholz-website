@@ -1,0 +1,4 @@
+ex:L92110xx-TL0284-2b-pdf ex:date '1921-10-xx'^^xsd:date .
+ex:L92110xx-TL0284-2b-pdf ex:B-PER ex:Anna .
+ex:L92110xx-TL0284-2b-pdf ex:B-PER ex:Ziehl .
+

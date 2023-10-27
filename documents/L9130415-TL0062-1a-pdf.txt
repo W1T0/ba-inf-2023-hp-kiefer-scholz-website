@@ -1,0 +1,4 @@
+ex:L9130415-TL0062-1a-pdf ex:date '1913-04-15'^^xsd:date .
+ex:L9130415-TL0062-1a-pdf ex:B-PER ex:Thekla .
+ex:L9130415-TL0062-1a-pdf ex:B-PER ex:Th .
+

@@ -1,0 +1,8 @@
+ex:L9111101-TL0021-1a-pdf ex:date '1911-11-01'^^xsd:date .
+ex:L9111101-TL0021-1a-pdf ex:B-PER ex:August .
+ex:L9111101-TL0021-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9111101-TL0021-1a-pdf ex:B-PER ex:Paul .
+ex:L9111101-TL0021-1a-pdf ex:B-PER ex:Josef .
+ex:L9111101-TL0021-1a-pdf ex:B-OTH_FOOD ex:Brot .
+ex:Brot ex:wikidataQID ex:Q7802 .
+

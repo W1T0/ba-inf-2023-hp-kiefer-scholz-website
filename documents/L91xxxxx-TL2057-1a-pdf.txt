@@ -1,0 +1,10 @@
+ex:L91xxxxx-TL2057-1a-pdf ex:date '191x-xx-xx'^^xsd:date .
+ex:L91xxxxx-TL2057-1a-pdf ex:B-PER ex:Maßer .
+ex:L91xxxxx-TL2057-1a-pdf ex:I-PER ex:Eliese .
+ex:L91xxxxx-TL2057-1a-pdf ex:I-PER ex:Barthilde .
+ex:L91xxxxx-TL2057-1a-pdf ex:B-PER ex:Peter .
+ex:L91xxxxx-TL2057-1a-pdf ex:B-PER ex:Johanna .
+ex:L91xxxxx-TL2057-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+

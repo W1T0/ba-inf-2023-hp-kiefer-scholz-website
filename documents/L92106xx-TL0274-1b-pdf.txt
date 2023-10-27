@@ -1,0 +1,6 @@
+ex:L92106xx-TL0274-1b-pdf ex:date '1921-06-xx'^^xsd:date .
+ex:L92106xx-TL0274-1b-pdf ex:I-PER ex:Auf .
+ex:L92106xx-TL0274-1b-pdf ex:B-LOC ex:Nechst .
+ex:L92106xx-TL0274-1b-pdf ex:B-LOC ex:Sa .
+ex:L92106xx-TL0274-1b-pdf ex:I-PER ex:Landt .
+

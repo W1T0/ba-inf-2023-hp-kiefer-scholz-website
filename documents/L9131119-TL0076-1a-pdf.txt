@@ -1,0 +1,5 @@
+ex:L9131119-TL0076-1a-pdf ex:date '1913-11-19'^^xsd:date .
+ex:L9131119-TL0076-1a-pdf ex:I-PER ex:Rea .
+ex:L9131119-TL0076-1a-pdf ex:B-PER ex:Thekla .
+ex:L9131119-TL0076-1a-pdf ex:B-PER ex:Lina .
+

@@ -1,0 +1,12 @@
+ex:L9131109-TL0072-1b-pdf ex:date '1913-11-09'^^xsd:date .
+ex:L9131109-TL0072-1b-pdf ex:I-PER ex:munion .
+ex:L9131109-TL0072-1b-pdf ex:B-PER ex:August .
+ex:L9131109-TL0072-1b-pdf ex:B-PER ex:Thekla .
+ex:L9131109-TL0072-1b-pdf ex:B-LOC ex:Spanien .
+ex:Spanien ex:wikidataQID ex:Q29 .
+ex:Spanien ex:coordinates ex:'40,2_-3,5' .
+ex:L9131109-TL0072-1b-pdf ex:B-PER ex:Maria .
+ex:L9131109-TL0072-1b-pdf ex:I-PER ex:Hei .
+ex:L9131109-TL0072-1b-pdf ex:B-PER ex:Paul .
+ex:L9131109-TL0072-1b-pdf ex:B-PER ex:Franz .
+

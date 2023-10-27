@@ -1,0 +1,7 @@
+ex:L9120714-TL0044-1b-pdf ex:date '1912-07-14'^^xsd:date .
+ex:L9120714-TL0044-1b-pdf ex:B-PER ex:Klein .
+ex:L9120714-TL0044-1b-pdf ex:B-PER ex:Hesse .
+ex:L9120714-TL0044-1b-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

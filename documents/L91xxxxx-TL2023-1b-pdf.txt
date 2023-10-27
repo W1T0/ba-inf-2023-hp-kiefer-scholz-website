@@ -1,0 +1,3 @@
+ex:L91xxxxx-TL2023-1b-pdf ex:date '191x-xx-xx'^^xsd:date .
+ex:L91xxxxx-TL2023-1b-pdf ex:B-PER ex:Parker .
+

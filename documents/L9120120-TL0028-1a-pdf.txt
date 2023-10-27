@@ -1,0 +1,8 @@
+ex:L9120120-TL0028-1a-pdf ex:date '1912-01-20'^^xsd:date .
+ex:L9120120-TL0028-1a-pdf ex:B-PER ex:Thekla .
+ex:L9120120-TL0028-1a-pdf ex:I-LOC ex:Schles .
+ex:L9120120-TL0028-1a-pdf ex:I-LOC ex:c .
+ex:L9120120-TL0028-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

@@ -1,0 +1,13 @@
+ex:L9120318-TL0032-1a-pdf ex:date '1912-03-18'^^xsd:date .
+ex:L9120318-TL0032-1a-pdf ex:B-PER ex:Müller .
+ex:L9120318-TL0032-1a-pdf ex:B-PER ex:Lesus .
+ex:L9120318-TL0032-1a-pdf ex:B-PER ex:Hettwer .
+ex:L9120318-TL0032-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9120318-TL0032-1a-pdf ex:B-PER ex:Christus .
+ex:L9120318-TL0032-1a-pdf ex:B-LOC ex:Steiermark .
+ex:Steiermark ex:wikidataQID ex:Q215659 .
+ex:Steiermark ex:coordinates ex:'46,366666666_15,483333333' .
+ex:L9120318-TL0032-1a-pdf ex:B-OTH_FOOD ex:Gans .
+ex:Gans ex:wikidataQID ex:Q83363022 .
+ex:L9120318-TL0032-1a-pdf ex:B-PER ex:Martha .
+

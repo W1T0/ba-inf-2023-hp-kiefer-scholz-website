@@ -1,0 +1,7 @@
+ex:L9051123-TL0004-1b-pdf ex:date '1905-11-23'^^xsd:date .
+ex:L9051123-TL0004-1b-pdf ex:B-OTH ex:Mark .
+ex:L9051123-TL0004-1b-pdf ex:B-PER ex:Maria .
+ex:L9051123-TL0004-1b-pdf ex:B-PER ex:Robert .
+ex:L9051123-TL0004-1b-pdf ex:B-PER ex:Fischer .
+ex:L9051123-TL0004-1b-pdf ex:B-PER ex:Josef .
+

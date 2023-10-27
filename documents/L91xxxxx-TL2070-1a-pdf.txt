@@ -1,0 +1,6 @@
+ex:L91xxxxx-TL2070-1a-pdf ex:date '191x-xx-xx'^^xsd:date .
+ex:L91xxxxx-TL2070-1a-pdf ex:I-PER ex:Gefe .
+ex:L91xxxxx-TL2070-1a-pdf ex:B-PER ex:Hans .
+ex:L91xxxxx-TL2070-1a-pdf ex:B-PER ex:Peter .
+ex:L91xxxxx-TL2070-1a-pdf ex:I-PER ex:Potes .
+

@@ -1,0 +1,6 @@
+ex:L9xx01xx-TL2014-1a-pdf ex:date '19xx-01-xx'^^xsd:date .
+ex:L9xx01xx-TL2014-1a-pdf ex:B-PER ex:Jesu .
+ex:L9xx01xx-TL2014-1a-pdf ex:B-PER ex:Robert .
+ex:L9xx01xx-TL2014-1a-pdf ex:I-PER ex:Christus .
+ex:L9xx01xx-TL2014-1a-pdf ex:B-PER ex:Fortunata .
+

@@ -1,0 +1,8 @@
+ex:L9130216-TL0054-1a-pdf ex:date '1913-02-16'^^xsd:date .
+ex:L9130216-TL0054-1a-pdf ex:B-PER ex:August .
+ex:L9130216-TL0054-1a-pdf ex:B-PER ex:Marta .
+ex:L9130216-TL0054-1a-pdf ex:I-PER ex:Albert .
+ex:L9130216-TL0054-1a-pdf ex:B-PER ex:Anna .
+ex:L9130216-TL0054-1a-pdf ex:B-PER ex:Hans .
+ex:L9130216-TL0054-1a-pdf ex:B-PER ex:Paul .
+

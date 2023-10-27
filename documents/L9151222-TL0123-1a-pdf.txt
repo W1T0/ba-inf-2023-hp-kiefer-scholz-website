@@ -1,0 +1,16 @@
+ex:L9151222-TL0123-1a-pdf ex:date '1915-12-22'^^xsd:date .
+ex:L9151222-TL0123-1a-pdf ex:I-PER ex:Golsch .
+ex:L9151222-TL0123-1a-pdf ex:B-PER ex:Carl .
+ex:L9151222-TL0123-1a-pdf ex:B-PER ex:H .
+ex:L9151222-TL0123-1a-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+ex:L9151222-TL0123-1a-pdf ex:I-PER ex:Kochmann .
+ex:L9151222-TL0123-1a-pdf ex:B-PER ex:Sante .
+ex:L9151222-TL0123-1a-pdf ex:I-LOC ex:Sehl .
+ex:L9151222-TL0123-1a-pdf ex:B-LOC ex:Carlsbad .
+ex:Carlsbad ex:wikidataQID ex:Q491099 .
+ex:Carlsbad ex:coordinates ex:'33,158267_-117,350996' .
+ex:L9151222-TL0123-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

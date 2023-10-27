@@ -1,0 +1,5 @@
+ex:L921xx17-TL0283-2a-pdf ex:date '1921-xx-17'^^xsd:date .
+ex:L921xx17-TL0283-2a-pdf ex:B-PER ex:Annas .
+ex:L921xx17-TL0283-2a-pdf ex:B-LOC ex:Langenbrach .
+ex:L921xx17-TL0283-2a-pdf ex:B-PER ex:Hampel .
+

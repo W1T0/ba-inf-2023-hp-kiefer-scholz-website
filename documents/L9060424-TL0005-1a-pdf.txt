@@ -1,0 +1,5 @@
+ex:L9060424-TL0005-1a-pdf ex:date '1906-04-24'^^xsd:date .
+ex:L9060424-TL0005-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

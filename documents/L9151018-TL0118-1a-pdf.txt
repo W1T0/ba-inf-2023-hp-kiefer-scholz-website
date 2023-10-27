@@ -1,0 +1,10 @@
+ex:L9151018-TL0118-1a-pdf ex:date '1915-10-18'^^xsd:date .
+ex:L9151018-TL0118-1a-pdf ex:B-PER ex:Marie .
+ex:L9151018-TL0118-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+ex:L9151018-TL0118-1a-pdf ex:B-PER ex:Berta .
+ex:L9151018-TL0118-1a-pdf ex:B-ORG ex:Eisenbach .
+ex:L9151018-TL0118-1a-pdf ex:B-PER ex:Josef .
+ex:L9151018-TL0118-1a-pdf ex:I-ORG ex:Kol .
+

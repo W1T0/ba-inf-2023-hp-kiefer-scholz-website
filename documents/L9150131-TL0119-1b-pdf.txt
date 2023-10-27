@@ -1,0 +1,12 @@
+ex:L9150131-TL0119-1b-pdf ex:date '1915-01-31'^^xsd:date .
+ex:L9150131-TL0119-1b-pdf ex:B-PER ex:Wilhelm .
+ex:L9150131-TL0119-1b-pdf ex:B-PER ex:Agnes .
+ex:L9150131-TL0119-1b-pdf ex:B-PER ex:Sammer .
+ex:L9150131-TL0119-1b-pdf ex:B-LOC ex:England .
+ex:England ex:wikidataQID ex:Q21 .
+ex:England ex:coordinates ex:'53,0_-1,0' .
+ex:L9150131-TL0119-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9150131-TL0119-1b-pdf ex:B-PER ex:Berthold .
+

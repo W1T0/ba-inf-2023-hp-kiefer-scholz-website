@@ -1,0 +1,9 @@
+ex:L9141029-TL0097-1a-pdf ex:date '1914-10-29'^^xsd:date .
+ex:L9141029-TL0097-1a-pdf ex:B-PER ex:Jesu .
+ex:L9141029-TL0097-1a-pdf ex:B-PER ex:Jesus .
+ex:L9141029-TL0097-1a-pdf ex:I-PER ex:Christus .
+ex:L9141029-TL0097-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+ex:L9141029-TL0097-1a-pdf ex:B-PER ex:Franz .
+

@@ -1,0 +1,12 @@
+ex:L9130526-TL0065-1b-pdf ex:date '1913-05-26'^^xsd:date .
+ex:L9130526-TL0065-1b-pdf ex:B-OTH_FOOD ex:Paprika .
+ex:Paprika ex:wikidataQID ex:Q3127593 .
+ex:L9130526-TL0065-1b-pdf ex:I-LOC ex:Backpan .
+ex:L9130526-TL0065-1b-pdf ex:B-PER ex:Christi .
+ex:L9130526-TL0065-1b-pdf ex:B-LOC ex:Beyl .
+ex:L9130526-TL0065-1b-pdf ex:I-LOC ex:Saline .
+ex:L9130526-TL0065-1b-pdf ex:B-PER ex:Pritz .
+ex:L9130526-TL0065-1b-pdf ex:I-PER ex:Wetke .
+ex:L9130526-TL0065-1b-pdf ex:B-PER ex:Bekla .
+ex:L9130526-TL0065-1b-pdf ex:B-LOC ex:Ancke .
+

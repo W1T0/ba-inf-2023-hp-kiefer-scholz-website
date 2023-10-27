@@ -1,0 +1,5 @@
+ex:L9111205-TL0023-1a-pdf ex:date '1911-12-05'^^xsd:date .
+ex:L9111205-TL0023-1a-pdf ex:B-PER ex:M .
+ex:L9111205-TL0023-1a-pdf ex:I-PER ex:Picker .
+ex:L9111205-TL0023-1a-pdf ex:B-PER ex:Franz .
+

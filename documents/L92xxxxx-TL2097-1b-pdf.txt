@@ -1,0 +1,6 @@
+ex:L92xxxxx-TL2097-1b-pdf ex:date '192x-xx-xx'^^xsd:date .
+ex:L92xxxxx-TL2097-1b-pdf ex:B-LOC ex:Schlesien .
+ex:Schlesien ex:wikidataQID ex:Q81720 .
+ex:Schlesien ex:coordinates ex:'51,1035_17,0396' .
+ex:L92xxxxx-TL2097-1b-pdf ex:B-PER ex:Ledel .
+

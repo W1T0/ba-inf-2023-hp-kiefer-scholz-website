@@ -1,0 +1,9 @@
+ex:L9151227-TL0124-1a-pdf ex:date '1915-12-27'^^xsd:date .
+ex:L9151227-TL0124-1a-pdf ex:B-LOC ex:Thun .
+ex:L9151227-TL0124-1a-pdf ex:B-LOC ex:Schweden .
+ex:Schweden ex:wikidataQID ex:Q34 .
+ex:Schweden ex:coordinates ex:'61,0_15,0' .
+ex:L9151227-TL0124-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+

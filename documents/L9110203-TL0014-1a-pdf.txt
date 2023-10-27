@@ -1,0 +1,6 @@
+ex:L9110203-TL0014-1a-pdf ex:date '1911-02-03'^^xsd:date .
+ex:L9110203-TL0014-1a-pdf ex:B-PER ex:Paul .
+ex:L9110203-TL0014-1a-pdf ex:B-PER ex:Josef .
+ex:L9110203-TL0014-1a-pdf ex:B-PER ex:Marie .
+ex:L9110203-TL0014-1a-pdf ex:B-PER ex:Franz .
+

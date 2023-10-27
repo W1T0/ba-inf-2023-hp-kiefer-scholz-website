@@ -1,0 +1,8 @@
+ex:L9001212-TL0002-1a-pdf ex:date '1900-12-12'^^xsd:date .
+ex:L9001212-TL0002-1a-pdf ex:B-PER ex:Marie .
+ex:L9001212-TL0002-1a-pdf ex:B-PER ex:Albert .
+ex:L9001212-TL0002-1a-pdf ex:I-PER ex:Reits .
+ex:L9001212-TL0002-1a-pdf ex:I-PER ex:Schmit .
+ex:L9001212-TL0002-1a-pdf ex:B-PER ex:Lange .
+ex:L9001212-TL0002-1a-pdf ex:I-PER ex:von .
+

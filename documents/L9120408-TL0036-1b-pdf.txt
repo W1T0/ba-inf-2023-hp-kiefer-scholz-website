@@ -1,0 +1,4 @@
+ex:L9120408-TL0036-1b-pdf ex:date '1912-04-08'^^xsd:date .
+ex:L9120408-TL0036-1b-pdf ex:B-PER ex:Al .
+ex:L9120408-TL0036-1b-pdf ex:I-PER ex:Städter .
+

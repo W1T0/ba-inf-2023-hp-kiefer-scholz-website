@@ -1,0 +1,5 @@
+ex:L9060424-TL2033-1b-pdf ex:date '1906-04-24'^^xsd:date .
+ex:L9060424-TL2033-1b-pdf ex:B-PER ex:Maria .
+ex:L9060424-TL2033-1b-pdf ex:I-ORG ex:Kranken .
+ex:L9060424-TL2033-1b-pdf ex:I-PER ex:Kieler .
+

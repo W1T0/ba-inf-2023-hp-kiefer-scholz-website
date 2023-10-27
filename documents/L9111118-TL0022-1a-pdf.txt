@@ -1,0 +1,5 @@
+ex:L9111118-TL0022-1a-pdf ex:date '1911-11-18'^^xsd:date .
+ex:L9111118-TL0022-1a-pdf ex:B-PER ex:Berthold .
+ex:L9111118-TL0022-1a-pdf ex:B-OTH ex:Dollar .
+ex:L9111118-TL0022-1a-pdf ex:B-PER ex:Tekla .
+

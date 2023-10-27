@@ -1,0 +1,8 @@
+ex:L9181011-TL0146-1b-pdf ex:date '1918-10-11'^^xsd:date .
+ex:L9181011-TL0146-1b-pdf ex:B-PER ex:Hausas .
+ex:L9181011-TL0146-1b-pdf ex:B-LOC ex:Meckelbuchs .
+ex:L9181011-TL0146-1b-pdf ex:B-PER ex:Anna .
+ex:L9181011-TL0146-1b-pdf ex:B-PER ex:Frank .
+ex:L9181011-TL0146-1b-pdf ex:I-PER ex:Reuter .
+ex:L9181011-TL0146-1b-pdf ex:B-PER ex:Paul .
+

@@ -1,0 +1,8 @@
+ex:L9151018-TL0118-3a-pdf ex:date '1915-10-18'^^xsd:date .
+ex:L9151018-TL0118-3a-pdf ex:I-PER ex:Kanzel .
+ex:L9151018-TL0118-3a-pdf ex:B-PER ex:Hedwig .
+ex:L9151018-TL0118-3a-pdf ex:B-PER ex:Anna .
+ex:L9151018-TL0118-3a-pdf ex:I-PER ex:Josel .
+ex:L9151018-TL0118-3a-pdf ex:B-LOC ex:Rußlan .
+ex:L9151018-TL0118-3a-pdf ex:B-PER ex:Josef .
+

@@ -1,0 +1,4 @@
+ex:L9xx1217-TL2147-1b-pdf ex:date '19xx-12-17'^^xsd:date .
+ex:L9xx1217-TL2147-1b-pdf ex:B-PER ex:Schweder .
+ex:L9xx1217-TL2147-1b-pdf ex:B-PER ex:Robert .
+

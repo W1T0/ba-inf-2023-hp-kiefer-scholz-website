@@ -1,0 +1,8 @@
+ex:L9140329-TL0090-1b-pdf ex:date '1914-03-29'^^xsd:date .
+ex:L9140329-TL0090-1b-pdf ex:I-PER ex:Bude .
+ex:L9140329-TL0090-1b-pdf ex:B-PER ex:Krause .
+ex:L9140329-TL0090-1b-pdf ex:B-OTH ex:Mark .
+ex:L9140329-TL0090-1b-pdf ex:B-PER ex:Hanne .
+ex:L9140329-TL0090-1b-pdf ex:B-PER ex:Seba .
+ex:L9140329-TL0090-1b-pdf ex:B-PER ex:Emil .
+

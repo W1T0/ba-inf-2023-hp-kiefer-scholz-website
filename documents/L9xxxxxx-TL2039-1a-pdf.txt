@@ -1,0 +1,8 @@
+ex:L9xxxxxx-TL2039-1a-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2039-1a-pdf ex:B-PER ex:Anna .
+ex:L9xxxxxx-TL2039-1a-pdf ex:B-LOC ex:Baden .
+ex:Baden ex:wikidataQID ex:Q4100 .
+ex:Baden ex:coordinates ex:'48,761944444_8,240833333' .
+ex:L9xxxxxx-TL2039-1a-pdf ex:B-PER ex:August .
+ex:L9xxxxxx-TL2039-1a-pdf ex:B-PER ex:Paul .
+

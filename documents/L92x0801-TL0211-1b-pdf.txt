@@ -1,0 +1,3 @@
+ex:L92x0801-TL0211-1b-pdf ex:date '192x-08-01'^^xsd:date .
+ex:L92x0801-TL0211-1b-pdf ex:B-PER ex:Josef .
+

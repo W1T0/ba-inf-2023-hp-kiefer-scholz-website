@@ -1,0 +1,10 @@
+ex:L9140121-TL0081-1b-pdf ex:date '1914-01-21'^^xsd:date .
+ex:L9140121-TL0081-1b-pdf ex:B-PER ex:Barth .
+ex:L9140121-TL0081-1b-pdf ex:B-PER ex:Maria .
+ex:L9140121-TL0081-1b-pdf ex:B-PER ex:Strebel .
+ex:L9140121-TL0081-1b-pdf ex:B-PER ex:Miller .
+ex:L9140121-TL0081-1b-pdf ex:B-PER ex:Göbel .
+ex:L9140121-TL0081-1b-pdf ex:B-PER ex:Berthold .
+ex:L9140121-TL0081-1b-pdf ex:B-PER ex:Josef .
+ex:L9140121-TL0081-1b-pdf ex:B-PER ex:Franz .
+

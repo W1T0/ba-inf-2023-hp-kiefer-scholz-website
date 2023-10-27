@@ -1,0 +1,10 @@
+ex:L9150224-TL0103-1a-pdf ex:date '1915-02-24'^^xsd:date .
+ex:L9150224-TL0103-1a-pdf ex:B-PER ex:Johann .
+ex:L9150224-TL0103-1a-pdf ex:B-PER ex:Thekla .
+ex:L9150224-TL0103-1a-pdf ex:B-PER ex:Ehekla .
+ex:L9150224-TL0103-1a-pdf ex:B-PER ex:Hedewich .
+ex:L9150224-TL0103-1a-pdf ex:B-PER ex:Martha .
+ex:L9150224-TL0103-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+

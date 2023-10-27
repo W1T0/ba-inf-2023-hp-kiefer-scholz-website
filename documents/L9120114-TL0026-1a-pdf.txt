@@ -1,0 +1,3 @@
+ex:L9120114-TL0026-1a-pdf ex:date '1912-01-14'^^xsd:date .
+ex:L9120114-TL0026-1a-pdf ex:I-PER ex:Neugebauer .
+

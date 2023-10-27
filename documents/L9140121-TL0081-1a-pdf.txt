@@ -1,0 +1,7 @@
+ex:L9140121-TL0081-1a-pdf ex:date '1914-01-21'^^xsd:date .
+ex:L9140121-TL0081-1a-pdf ex:I-PER ex:Bäume .
+ex:L9140121-TL0081-1a-pdf ex:B-PER ex:Bertholde .
+ex:L9140121-TL0081-1a-pdf ex:B-PER ex:Bertha .
+ex:L9140121-TL0081-1a-pdf ex:B-PER ex:Fortunata .
+ex:L9140121-TL0081-1a-pdf ex:B-PER ex:Acker .
+

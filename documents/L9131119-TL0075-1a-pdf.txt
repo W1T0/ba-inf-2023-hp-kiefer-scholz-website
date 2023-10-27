@@ -1,0 +1,16 @@
+ex:L9131119-TL0075-1a-pdf ex:date '1913-11-19'^^xsd:date .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:August .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:Riker .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:Marie .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9131119-TL0075-1a-pdf ex:I-PER ex:u .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:Alber .
+ex:L9131119-TL0075-1a-pdf ex:I-PER ex:Seid .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:Heidenreich .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:Berthold .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:Paul .
+ex:L9131119-TL0075-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+ex:L9131119-TL0075-1a-pdf ex:B-PER ex:Franz .
+

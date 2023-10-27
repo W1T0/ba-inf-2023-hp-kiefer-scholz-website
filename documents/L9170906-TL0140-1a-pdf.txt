@@ -1,0 +1,7 @@
+ex:L9170906-TL0140-1a-pdf ex:date '1917-09-06'^^xsd:date .
+ex:L9170906-TL0140-1a-pdf ex:I-PER ex:D .
+ex:L9170906-TL0140-1a-pdf ex:B-PER ex:Graf .
+ex:L9170906-TL0140-1a-pdf ex:B-PER ex:Bull .
+ex:L9170906-TL0140-1a-pdf ex:B-PER ex:Chmel .
+ex:L9170906-TL0140-1a-pdf ex:B-PER ex:M .
+

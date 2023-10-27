@@ -1,0 +1,16 @@
+ex:L9151018-TL0118-1b-pdf ex:date '1915-10-18'^^xsd:date .
+ex:L9151018-TL0118-1b-pdf ex:B-LOC ex:Groß .
+ex:L9151018-TL0118-1b-pdf ex:B-PER ex:Thekla .
+ex:L9151018-TL0118-1b-pdf ex:B-PER ex:Berta .
+ex:L9151018-TL0118-1b-pdf ex:B-PER ex:Strebel .
+ex:L9151018-TL0118-1b-pdf ex:B-OTH_FOOD ex:Hafer .
+ex:Hafer ex:wikidataQID ex:Q12104 .
+ex:L9151018-TL0118-1b-pdf ex:I-LOC ex:Reichnen .
+ex:L9151018-TL0118-1b-pdf ex:B-OTH_FOOD ex:Butter .
+ex:Butter ex:wikidataQID ex:Q34172 .
+ex:L9151018-TL0118-1b-pdf ex:I-LOC ex:Reichenau .
+ex:L9151018-TL0118-1b-pdf ex:B-PER ex:Josef .
+ex:L9151018-TL0118-1b-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

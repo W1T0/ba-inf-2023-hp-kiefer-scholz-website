@@ -1,0 +1,5 @@
+ex:L9110213-TL0015-1a-pdf ex:date '1911-02-13'^^xsd:date .
+ex:L9110213-TL0015-1a-pdf ex:B-PER ex:Schiller .
+ex:L9110213-TL0015-1a-pdf ex:B-PER ex:Sontag .
+ex:L9110213-TL0015-1a-pdf ex:B-PER ex:Frank .
+

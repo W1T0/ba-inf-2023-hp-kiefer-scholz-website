@@ -1,0 +1,9 @@
+ex:L9120318-TL0032-1b-pdf ex:date '1912-03-18'^^xsd:date .
+ex:L9120318-TL0032-1b-pdf ex:B-PER ex:August .
+ex:L9120318-TL0032-1b-pdf ex:B-OTH ex:Mark .
+ex:L9120318-TL0032-1b-pdf ex:B-OTH_FOOD ex:Suppe .
+ex:Suppe ex:wikidataQID ex:Q41415 .
+ex:L9120318-TL0032-1b-pdf ex:B-PER ex:Berthold .
+ex:L9120318-TL0032-1b-pdf ex:B-PER ex:Josef .
+ex:L9120318-TL0032-1b-pdf ex:B-PER ex:Franz .
+

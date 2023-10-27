@@ -1,0 +1,5 @@
+ex:L9060424-TL0005-1b-pdf ex:date '1906-04-24'^^xsd:date .
+ex:L9060424-TL0005-1b-pdf ex:B-PER ex:Albert .
+ex:L9060424-TL0005-1b-pdf ex:B-LOC ex:Buchelsdorf .
+ex:L9060424-TL0005-1b-pdf ex:B-PER ex:Maria .
+

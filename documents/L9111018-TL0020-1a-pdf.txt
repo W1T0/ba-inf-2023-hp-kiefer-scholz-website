@@ -1,0 +1,7 @@
+ex:L9111018-TL0020-1a-pdf ex:date '1911-10-18'^^xsd:date .
+ex:L9111018-TL0020-1a-pdf ex:B-PER ex:Thekla .
+ex:L9111018-TL0020-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9111018-TL0020-1a-pdf ex:B-LOC ex:Europa .
+ex:L9111018-TL0020-1a-pdf ex:B-PER ex:Bekla .
+ex:L9111018-TL0020-1a-pdf ex:B-PER ex:Ratt .
+

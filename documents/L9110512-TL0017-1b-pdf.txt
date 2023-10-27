@@ -1,0 +1,3 @@
+ex:L9110512-TL0017-1b-pdf ex:date '1911-05-12'^^xsd:date .
+ex:L9110512-TL0017-1b-pdf ex:B-PER ex:Hetters .
+

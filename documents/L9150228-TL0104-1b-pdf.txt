@@ -1,0 +1,6 @@
+ex:L9150228-TL0104-1b-pdf ex:date '1915-02-28'^^xsd:date .
+ex:L9150228-TL0104-1b-pdf ex:B-LOC ex:Ostpreußen .
+ex:L9150228-TL0104-1b-pdf ex:B-PER ex:Bertha .
+ex:L9150228-TL0104-1b-pdf ex:B-PER ex:Noth .
+ex:L9150228-TL0104-1b-pdf ex:B-PER ex:Josef .
+

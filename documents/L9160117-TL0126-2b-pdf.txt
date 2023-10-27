@@ -1,0 +1,5 @@
+ex:L9160117-TL0126-2b-pdf ex:date '1916-01-17'^^xsd:date .
+ex:L9160117-TL0126-2b-pdf ex:B-PER ex:Thekla .
+ex:L9160117-TL0126-2b-pdf ex:B-PER ex:Mortho .
+ex:L9160117-TL0126-2b-pdf ex:I-PER ex:Müller .
+

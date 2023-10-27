@@ -1,0 +1,15 @@
+ex:L9110922-TL0018-1b-pdf ex:date '1911-09-22'^^xsd:date .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Müller .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:August .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Secker .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Sicker .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Streibe .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Paul .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Anna .
+ex:L9110922-TL0018-1b-pdf ex:B-LOC ex:Breslau .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Martha .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Josef .
+ex:L9110922-TL0018-1b-pdf ex:B-OTH_FOOD ex:Kartoffel .
+ex:Kartoffel ex:wikidataQID ex:Q16587531 .
+ex:L9110922-TL0018-1b-pdf ex:B-PER ex:Franz .
+

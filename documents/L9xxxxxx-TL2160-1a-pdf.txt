@@ -1,0 +1,7 @@
+ex:L9xxxxxx-TL2160-1a-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2160-1a-pdf ex:B-OTH ex:Mark .
+ex:L9xxxxxx-TL2160-1a-pdf ex:B-PER ex:Anna .
+ex:L9xxxxxx-TL2160-1a-pdf ex:I-PER ex:Reuter .
+ex:L9xxxxxx-TL2160-1a-pdf ex:B-OTH_FOOD ex:Fleisch .
+ex:Fleisch ex:wikidataQID ex:Q10990 .
+

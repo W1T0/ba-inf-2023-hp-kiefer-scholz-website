@@ -1,0 +1,7 @@
+ex:L9xx0404-TL2156-1b-pdf ex:date '19xx-04-04'^^xsd:date .
+ex:L9xx0404-TL2156-1b-pdf ex:B-LOC ex:Frankreich .
+ex:Frankreich ex:wikidataQID ex:Q142 .
+ex:Frankreich ex:coordinates ex:'47,0_2,0' .
+ex:L9xx0404-TL2156-1b-pdf ex:B-PER ex:Franz .
+ex:L9xx0404-TL2156-1b-pdf ex:B-PER ex:Ebert .
+

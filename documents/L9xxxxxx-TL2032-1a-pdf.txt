@@ -1,0 +1,5 @@
+ex:L9xxxxxx-TL2032-1a-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2032-1a-pdf ex:I-ORG ex:Verein .
+ex:L9xxxxxx-TL2032-1a-pdf ex:B-ORG ex:Landwehr .
+ex:L9xxxxxx-TL2032-1a-pdf ex:I-ORG ex:Unterstützungs .
+

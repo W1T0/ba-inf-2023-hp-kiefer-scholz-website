@@ -1,0 +1,9 @@
+ex:L9170131-TL0136-2b-pdf ex:date '1917-01-31'^^xsd:date .
+ex:L9170131-TL0136-2b-pdf ex:I-PER ex:C .
+ex:L9170131-TL0136-2b-pdf ex:B-PER ex:L .
+ex:L9170131-TL0136-2b-pdf ex:B-PER ex:Marielis .
+ex:L9170131-TL0136-2b-pdf ex:B-PER ex:Frank .
+ex:L9170131-TL0136-2b-pdf ex:B-PER ex:Paul .
+ex:L9170131-TL0136-2b-pdf ex:B-LOC ex:A .
+ex:L9170131-TL0136-2b-pdf ex:I-LOC ex:Fol .
+

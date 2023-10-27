@@ -1,0 +1,4 @@
+ex:L9150426-TL0107-1b-pdf ex:date '1915-04-26'^^xsd:date .
+ex:L9150426-TL0107-1b-pdf ex:I-PER ex:Müller .
+ex:L9150426-TL0107-1b-pdf ex:B-PER ex:Martha .
+

@@ -1,0 +1,14 @@
+ex:L9xx12xx-TL2137-1a-pdf ex:date '19xx-12-xx'^^xsd:date .
+ex:L9xx12xx-TL2137-1a-pdf ex:B-LOC ex:Florenz .
+ex:Florenz ex:wikidataQID ex:Q2044 .
+ex:Florenz ex:coordinates ex:'43,771388888_11,254166666' .
+ex:L9xx12xx-TL2137-1a-pdf ex:B-PER ex:August .
+ex:L9xx12xx-TL2137-1a-pdf ex:B-LOC ex:Rom .
+ex:Rom ex:wikidataQID ex:Q220 .
+ex:Rom ex:coordinates ex:'41,893055555_12,482777777' .
+ex:L9xx12xx-TL2137-1a-pdf ex:I-LOC ex:Appia .
+ex:L9xx12xx-TL2137-1a-pdf ex:B-PER ex:Joach .
+ex:L9xx12xx-TL2137-1a-pdf ex:I-ORG ex:Zeitung .
+ex:L9xx12xx-TL2137-1a-pdf ex:B-ORG ex:Neustädter .
+ex:L9xx12xx-TL2137-1a-pdf ex:B-LOC ex:Via .
+

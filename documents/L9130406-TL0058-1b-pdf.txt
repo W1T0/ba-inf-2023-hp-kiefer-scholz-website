@@ -1,0 +1,8 @@
+ex:L9130406-TL0058-1b-pdf ex:date '1913-04-06'^^xsd:date .
+ex:L9130406-TL0058-1b-pdf ex:B-PER ex:Schneider .
+ex:L9130406-TL0058-1b-pdf ex:B-PER ex:Paul .
+ex:L9130406-TL0058-1b-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+ex:L9130406-TL0058-1b-pdf ex:B-PER ex:Inkla .
+

@@ -1,0 +1,4 @@
+ex:L9171111-TL0141-1a-pdf ex:date '1917-11-11'^^xsd:date .
+ex:L9171111-TL0141-1a-pdf ex:B-PER ex:August .
+ex:L9171111-TL0141-1a-pdf ex:B-PER ex:Martha .
+

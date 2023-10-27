@@ -1,0 +1,11 @@
+ex:L9120117-TL0027-1a-pdf ex:date '1912-01-17'^^xsd:date .
+ex:L9120117-TL0027-1a-pdf ex:B-PER ex:Müller .
+ex:L9120117-TL0027-1a-pdf ex:B-PER ex:Thekla .
+ex:L9120117-TL0027-1a-pdf ex:B-PER ex:Marie .
+ex:L9120117-TL0027-1a-pdf ex:B-OTH ex:Mark .
+ex:L9120117-TL0027-1a-pdf ex:B-PER ex:Sicker .
+ex:L9120117-TL0027-1a-pdf ex:I-PER ex:Marta .
+ex:L9120117-TL0027-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

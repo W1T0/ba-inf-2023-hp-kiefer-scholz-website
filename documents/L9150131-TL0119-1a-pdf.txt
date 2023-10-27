@@ -1,0 +1,5 @@
+ex:L9150131-TL0119-1a-pdf ex:date '1915-01-31'^^xsd:date .
+ex:L9150131-TL0119-1a-pdf ex:B-PER ex:Berta .
+ex:L9150131-TL0119-1a-pdf ex:B-PER ex:Josef .
+ex:L9150131-TL0119-1a-pdf ex:B-PER ex:Jakob .
+

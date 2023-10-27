@@ -1,0 +1,6 @@
+ex:L9140617-TL0093-1a-pdf ex:date '1914-06-17'^^xsd:date .
+ex:L9140617-TL0093-1a-pdf ex:B-PER ex:Müller .
+ex:L9140617-TL0093-1a-pdf ex:B-PER ex:August .
+ex:L9140617-TL0093-1a-pdf ex:B-PER ex:Thekla .
+ex:L9140617-TL0093-1a-pdf ex:B-PER ex:Martha .
+

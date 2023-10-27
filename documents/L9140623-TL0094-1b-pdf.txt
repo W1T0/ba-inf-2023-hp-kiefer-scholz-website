@@ -1,0 +1,5 @@
+ex:L9140623-TL0094-1b-pdf ex:date '1914-06-23'^^xsd:date .
+ex:L9140623-TL0094-1b-pdf ex:B-PER ex:Agnes .
+ex:L9140623-TL0094-1b-pdf ex:B-PER ex:Heinisch .
+ex:L9140623-TL0094-1b-pdf ex:I-PER ex:Philomena .
+

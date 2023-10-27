@@ -1,0 +1,9 @@
+ex:L9xxxxxx-TL2060-1a-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2060-1a-pdf ex:B-PER ex:Thekla .
+ex:L9xxxxxx-TL2060-1a-pdf ex:B-PER ex:Salva .
+ex:L9xxxxxx-TL2060-1a-pdf ex:B-LOC ex:Salem .
+ex:Salem ex:wikidataQID ex:Q557718 .
+ex:Salem ex:coordinates ex:'47,766666666_9,295833333' .
+ex:L9xxxxxx-TL2060-1a-pdf ex:B-PER ex:Martha .
+ex:L9xxxxxx-TL2060-1a-pdf ex:B-PER ex:Josef .
+

@@ -1,0 +1,5 @@
+ex:L9151107-TL0120-1b-pdf ex:date '1915-11-07'^^xsd:date .
+ex:L9151107-TL0120-1b-pdf ex:B-LOC ex:Europa .
+ex:L9151107-TL0120-1b-pdf ex:B-LOC ex:Europe .
+ex:L9151107-TL0120-1b-pdf ex:I-PER ex:Schmalbaus .
+

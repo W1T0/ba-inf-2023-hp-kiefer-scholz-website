@@ -1,0 +1,9 @@
+ex:L9xx0618-TL2093-1a-pdf ex:date '19xx-06-18'^^xsd:date .
+ex:L9xx0618-TL2093-1a-pdf ex:B-PER ex:Rossel .
+ex:L9xx0618-TL2093-1a-pdf ex:B-PER ex:Eur .
+ex:L9xx0618-TL2093-1a-pdf ex:B-PER ex:Bekla .
+ex:L9xx0618-TL2093-1a-pdf ex:B-PER ex:Paul .
+ex:L9xx0618-TL2093-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

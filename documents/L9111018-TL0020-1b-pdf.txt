@@ -1,0 +1,13 @@
+ex:L9111018-TL0020-1b-pdf ex:date '1911-10-18'^^xsd:date .
+ex:L9111018-TL0020-1b-pdf ex:B-PER ex:Lösel .
+ex:L9111018-TL0020-1b-pdf ex:B-OTH_FOOD ex:Pfeffer .
+ex:Pfeffer ex:wikidataQID ex:Q3143131 .
+ex:L9111018-TL0020-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9111018-TL0020-1b-pdf ex:B-PER ex:M .
+ex:L9111018-TL0020-1b-pdf ex:B-OTH_FOOD ex:Dotter .
+ex:Dotter ex:wikidataQID ex:Q181409 .
+ex:L9111018-TL0020-1b-pdf ex:B-PER ex:Helwer .
+ex:L9111018-TL0020-1b-pdf ex:B-PER ex:Kurt .
+ex:L9111018-TL0020-1b-pdf ex:B-OTH_FOOD ex:Mehl .
+ex:Mehl ex:wikidataQID ex:Q36465 .
+

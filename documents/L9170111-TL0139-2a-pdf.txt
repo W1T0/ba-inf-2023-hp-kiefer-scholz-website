@@ -1,0 +1,7 @@
+ex:L9170111-TL0139-2a-pdf ex:date '1917-01-11'^^xsd:date .
+ex:L9170111-TL0139-2a-pdf ex:B-LOC ex:Teutschland .
+ex:L9170111-TL0139-2a-pdf ex:B-PER ex:Martha .
+ex:L9170111-TL0139-2a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+

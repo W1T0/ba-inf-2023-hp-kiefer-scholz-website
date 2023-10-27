@@ -1,0 +1,6 @@
+ex:L9xx0404-TL2156-2b-pdf ex:date '19xx-04-04'^^xsd:date .
+ex:L9xx0404-TL2156-2b-pdf ex:B-PER ex:Müller .
+ex:L9xx0404-TL2156-2b-pdf ex:I-PER ex:Mella .
+ex:L9xx0404-TL2156-2b-pdf ex:B-PER ex:Amalia .
+ex:L9xx0404-TL2156-2b-pdf ex:B-PER ex:Tathe .
+

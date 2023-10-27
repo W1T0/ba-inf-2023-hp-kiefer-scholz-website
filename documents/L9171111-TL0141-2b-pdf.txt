@@ -1,0 +1,7 @@
+ex:L9171111-TL0141-2b-pdf ex:date '1917-11-11'^^xsd:date .
+ex:L9171111-TL0141-2b-pdf ex:I-LOC ex:C .
+ex:L9171111-TL0141-2b-pdf ex:B-LOC ex:Frankreich .
+ex:Frankreich ex:wikidataQID ex:Q142 .
+ex:Frankreich ex:coordinates ex:'47,0_2,0' .
+ex:L9171111-TL0141-2b-pdf ex:B-LOC ex:K .
+

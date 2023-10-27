@@ -1,0 +1,17 @@
+ex:L918xxxx-TL2107-1b-pdf ex:date '1918-xx-xx'^^xsd:date .
+ex:L918xxxx-TL2107-1b-pdf ex:B-LOC ex:Belgien .
+ex:Belgien ex:wikidataQID ex:Q31 .
+ex:Belgien ex:coordinates ex:'50,641111111_4,668055555' .
+ex:L918xxxx-TL2107-1b-pdf ex:B-LOC ex:Hamburg .
+ex:Hamburg ex:wikidataQID ex:Q1055 .
+ex:Hamburg ex:coordinates ex:'53,55_10,0' .
+ex:L918xxxx-TL2107-1b-pdf ex:B-LOC ex:Nordsee .
+ex:L918xxxx-TL2107-1b-pdf ex:B-LOC ex:Magdeburg .
+ex:Magdeburg ex:wikidataQID ex:Q1733 .
+ex:Magdeburg ex:coordinates ex:'52,131666666_11,639166666' .
+ex:L918xxxx-TL2107-1b-pdf ex:B-LOC ex:Bittsch .
+ex:L918xxxx-TL2107-1b-pdf ex:B-LOC ex:Frankreich .
+ex:Frankreich ex:wikidataQID ex:Q142 .
+ex:Frankreich ex:coordinates ex:'47,0_2,0' .
+ex:L918xxxx-TL2107-1b-pdf ex:B-LOC ex:Annens .
+

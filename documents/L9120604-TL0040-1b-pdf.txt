@@ -1,0 +1,10 @@
+ex:L9120604-TL0040-1b-pdf ex:date '1912-06-04'^^xsd:date .
+ex:L9120604-TL0040-1b-pdf ex:B-PER ex:Tortura .
+ex:L9120604-TL0040-1b-pdf ex:B-PER ex:Marie .
+ex:L9120604-TL0040-1b-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+ex:L9120604-TL0040-1b-pdf ex:B-PER ex:Agnes .
+ex:L9120604-TL0040-1b-pdf ex:B-PER ex:Besoldine .
+ex:L9120604-TL0040-1b-pdf ex:B-PER ex:Josef .
+

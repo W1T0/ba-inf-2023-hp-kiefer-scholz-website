@@ -1,0 +1,5 @@
+ex:L91407xx-TL0084-1b-pdf ex:date '1914-07-xx'^^xsd:date .
+ex:L91407xx-TL0084-1b-pdf ex:B-OTH_FOOD ex:Mehl .
+ex:Mehl ex:wikidataQID ex:Q36465 .
+ex:L91407xx-TL0084-1b-pdf ex:B-PER ex:Martha .
+

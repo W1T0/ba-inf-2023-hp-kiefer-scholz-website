@@ -1,0 +1,4 @@
+ex:L9151017-TL0117-2a-pdf ex:date '1915-10-17'^^xsd:date .
+ex:L9151017-TL0117-2a-pdf ex:B-LOC ex:Anscko .
+ex:L9151017-TL0117-2a-pdf ex:B-PER ex:Paul .
+

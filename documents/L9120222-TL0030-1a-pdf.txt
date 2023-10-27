@@ -1,0 +1,10 @@
+ex:L9120222-TL0030-1a-pdf ex:date '1912-02-22'^^xsd:date .
+ex:L9120222-TL0030-1a-pdf ex:B-PER ex:Guttel .
+ex:L9120222-TL0030-1a-pdf ex:B-PER ex:Simon .
+ex:L9120222-TL0030-1a-pdf ex:B-PER ex:Teckla .
+ex:L9120222-TL0030-1a-pdf ex:I-PER ex:Hopf .
+ex:L9120222-TL0030-1a-pdf ex:B-PER ex:Fischer .
+ex:L9120222-TL0030-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

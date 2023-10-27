@@ -1,0 +1,9 @@
+ex:L9130731-TL0068-1b-pdf ex:date '1913-07-31'^^xsd:date .
+ex:L9130731-TL0068-1b-pdf ex:B-PER ex:August .
+ex:L9130731-TL0068-1b-pdf ex:B-PER ex:Thekla .
+ex:L9130731-TL0068-1b-pdf ex:B-OTH ex:Dollar .
+ex:L9130731-TL0068-1b-pdf ex:B-PER ex:Marta .
+ex:L9130731-TL0068-1b-pdf ex:B-OTH ex:Mark .
+ex:L9130731-TL0068-1b-pdf ex:B-PER ex:Kink .
+ex:L9130731-TL0068-1b-pdf ex:B-PER ex:Paul .
+

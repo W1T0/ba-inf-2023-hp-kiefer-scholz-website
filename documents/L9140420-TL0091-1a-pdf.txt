@@ -1,0 +1,8 @@
+ex:L9140420-TL0091-1a-pdf ex:date '1914-04-20'^^xsd:date .
+ex:L9140420-TL0091-1a-pdf ex:B-LOC ex:München .
+ex:München ex:wikidataQID ex:Q1726 .
+ex:München ex:coordinates ex:'48,1375_11,575' .
+ex:L9140420-TL0091-1a-pdf ex:B-LOC ex:Havel .
+ex:L9140420-TL0091-1a-pdf ex:B-PER ex:Tielchen .
+ex:L9140420-TL0091-1a-pdf ex:B-PER ex:Thekla .
+

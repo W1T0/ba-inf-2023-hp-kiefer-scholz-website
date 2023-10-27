@@ -1,0 +1,3 @@
+ex:L9150126-TL0102-1b-pdf ex:date '1915-01-26'^^xsd:date .
+ex:L9150126-TL0102-1b-pdf ex:B-PER ex:Thekla .
+

@@ -1,0 +1,5 @@
+ex:L9170124-TL0135-2a-pdf ex:date '1917-01-24'^^xsd:date .
+ex:L9170124-TL0135-2a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+

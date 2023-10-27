@@ -1,0 +1,7 @@
+ex:L9130415-TL0061-1a-pdf ex:date '1913-04-15'^^xsd:date .
+ex:L9130415-TL0061-1a-pdf ex:B-PER ex:August .
+ex:L9130415-TL0061-1a-pdf ex:B-PER ex:Gretel .
+ex:L9130415-TL0061-1a-pdf ex:B-OTH ex:Gedan .
+ex:L9130415-TL0061-1a-pdf ex:B-LOC ex:Breslau .
+ex:L9130415-TL0061-1a-pdf ex:B-PER ex:Franz .
+

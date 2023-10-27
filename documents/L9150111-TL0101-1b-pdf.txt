@@ -1,0 +1,14 @@
+ex:L9150111-TL0101-1b-pdf ex:date '1915-01-11'^^xsd:date .
+ex:L9150111-TL0101-1b-pdf ex:B-PER ex:Johann .
+ex:L9150111-TL0101-1b-pdf ex:B-PER ex:August .
+ex:L9150111-TL0101-1b-pdf ex:B-PER ex:Ehekla .
+ex:L9150111-TL0101-1b-pdf ex:B-LOC ex:Mühlberg .
+ex:Mühlberg ex:wikidataQID ex:Q170301 .
+ex:Mühlberg ex:coordinates ex:'51,433055555_13,216666666' .
+ex:L9150111-TL0101-1b-pdf ex:B-PER ex:Bekla .
+ex:L9150111-TL0101-1b-pdf ex:B-PER ex:Bu .
+ex:L9150111-TL0101-1b-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9150111-TL0101-1b-pdf ex:B-PER ex:Josef .
+

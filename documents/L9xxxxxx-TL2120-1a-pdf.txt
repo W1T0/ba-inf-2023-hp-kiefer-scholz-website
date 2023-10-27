@@ -1,0 +1,5 @@
+ex:L9xxxxxx-TL2120-1a-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2120-1a-pdf ex:B-PER ex:Geisler .
+ex:L9xxxxxx-TL2120-1a-pdf ex:I-PER ex:Marieli .
+ex:L9xxxxxx-TL2120-1a-pdf ex:B-ORG ex:Sparkasse .
+

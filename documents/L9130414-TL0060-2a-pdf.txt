@@ -1,0 +1,4 @@
+ex:L9130414-TL0060-2a-pdf ex:date '1913-04-14'^^xsd:date .
+ex:L9130414-TL0060-2a-pdf ex:B-PER ex:Keding .
+ex:L9130414-TL0060-2a-pdf ex:B-PER ex:Thekla .
+

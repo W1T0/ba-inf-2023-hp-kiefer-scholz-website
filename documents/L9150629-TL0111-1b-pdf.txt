@@ -1,0 +1,3 @@
+ex:L9150629-TL0111-1b-pdf ex:date '1915-06-29'^^xsd:date .
+ex:L9150629-TL0111-1b-pdf ex:B-PER ex:Müller .
+

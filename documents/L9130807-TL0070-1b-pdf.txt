@@ -1,0 +1,8 @@
+ex:L9130807-TL0070-1b-pdf ex:date '1913-08-07'^^xsd:date .
+ex:L9130807-TL0070-1b-pdf ex:B-PER ex:August .
+ex:L9130807-TL0070-1b-pdf ex:B-PER ex:Bertholde .
+ex:L9130807-TL0070-1b-pdf ex:I-PER ex:Baw .
+ex:L9130807-TL0070-1b-pdf ex:B-OTH_FOOD ex:Gerste .
+ex:Gerste ex:wikidataQID ex:Q61665121 .
+ex:L9130807-TL0070-1b-pdf ex:B-PER ex:Paul .
+

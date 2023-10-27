@@ -1,0 +1,3 @@
+ex:L91704xx-TL0137-1a-pdf ex:date '1917-04-xx'^^xsd:date .
+ex:L91704xx-TL0137-1a-pdf ex:B-PER ex:Sawicki .
+

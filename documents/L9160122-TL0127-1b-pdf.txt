@@ -1,0 +1,7 @@
+ex:L9160122-TL0127-1b-pdf ex:date '1916-01-22'^^xsd:date .
+ex:L9160122-TL0127-1b-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+ex:L9160122-TL0127-1b-pdf ex:B-PER ex:Josef .
+ex:L9160122-TL0127-1b-pdf ex:B-PER ex:May .
+ex:L9160122-TL0127-1b-pdf ex:B-PER ex:Paul .
+

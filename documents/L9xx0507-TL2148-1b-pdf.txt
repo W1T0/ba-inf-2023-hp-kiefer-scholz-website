@@ -1,0 +1,5 @@
+ex:L9xx0507-TL2148-1b-pdf ex:date '19xx-05-07'^^xsd:date .
+ex:L9xx0507-TL2148-1b-pdf ex:B-OTH_FOOD ex:Gericht .
+ex:Gericht ex:wikidataQID ex:Q746549 .
+ex:L9xx0507-TL2148-1b-pdf ex:B-PER ex:Robert .
+

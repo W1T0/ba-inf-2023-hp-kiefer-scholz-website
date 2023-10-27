@@ -1,0 +1,8 @@
+ex:L9130526-TL0065-1a-pdf ex:date '1913-05-26'^^xsd:date .
+ex:L9130526-TL0065-1a-pdf ex:B-LOC ex:Aprika .
+ex:L9130526-TL0065-1a-pdf ex:B-PER ex:Thekla .
+ex:L9130526-TL0065-1a-pdf ex:B-PER ex:Josef .
+ex:L9130526-TL0065-1a-pdf ex:B-LOC ex:Hamburg .
+ex:Hamburg ex:wikidataQID ex:Q1055 .
+ex:Hamburg ex:coordinates ex:'53,55_10,0' .
+

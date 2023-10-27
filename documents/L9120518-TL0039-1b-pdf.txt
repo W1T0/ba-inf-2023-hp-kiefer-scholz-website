@@ -1,0 +1,16 @@
+ex:L9120518-TL0039-1b-pdf ex:date '1912-05-18'^^xsd:date .
+ex:L9120518-TL0039-1b-pdf ex:I-PER ex:Gertrudt .
+ex:L9120518-TL0039-1b-pdf ex:I-PER ex:Heinisch .
+ex:L9120518-TL0039-1b-pdf ex:B-PER ex:Rabe .
+ex:L9120518-TL0039-1b-pdf ex:B-PER ex:Paul .
+ex:L9120518-TL0039-1b-pdf ex:I-PER ex:Heinsches .
+ex:L9120518-TL0039-1b-pdf ex:B-LOC ex:Lüder .
+ex:Lüder ex:wikidataQID ex:Q681305 .
+ex:Lüder ex:coordinates ex:'52,816666666_10,666666666' .
+ex:L9120518-TL0039-1b-pdf ex:I-PER ex:Blatt .
+ex:L9120518-TL0039-1b-pdf ex:B-LOC ex:Wallstraße .
+ex:L9120518-TL0039-1b-pdf ex:B-PER ex:Margarete .
+ex:L9120518-TL0039-1b-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

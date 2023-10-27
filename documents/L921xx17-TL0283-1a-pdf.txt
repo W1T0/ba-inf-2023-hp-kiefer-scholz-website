@@ -1,0 +1,6 @@
+ex:L921xx17-TL0283-1a-pdf ex:date '1921-xx-17'^^xsd:date .
+ex:L921xx17-TL0283-1a-pdf ex:B-PER ex:Barthold .
+ex:L921xx17-TL0283-1a-pdf ex:B-PER ex:Beverley .
+ex:L921xx17-TL0283-1a-pdf ex:B-PER ex:Robert .
+ex:L921xx17-TL0283-1a-pdf ex:B-LOC ex:Hausas .
+

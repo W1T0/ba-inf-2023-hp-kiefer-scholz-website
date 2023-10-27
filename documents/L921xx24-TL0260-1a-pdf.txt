@@ -1,0 +1,7 @@
+ex:L921xx24-TL0260-1a-pdf ex:date '1921-xx-24'^^xsd:date .
+ex:L921xx24-TL0260-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L921xx24-TL0260-1a-pdf ex:B-PER ex:Robert .
+ex:L921xx24-TL0260-1a-pdf ex:B-LOC ex:Hausas .
+

@@ -1,0 +1,8 @@
+ex:L9181103-TL0147-1a-pdf ex:date '1918-11-03'^^xsd:date .
+ex:L9181103-TL0147-1a-pdf ex:B-OTH_FOOD ex:Apfel .
+ex:Apfel ex:wikidataQID ex:Q89 .
+ex:L9181103-TL0147-1a-pdf ex:B-OTH_FOOD ex:Blut .
+ex:Blut ex:wikidataQID ex:Q494268 .
+ex:L9181103-TL0147-1a-pdf ex:B-PER ex:Paul .
+ex:L9181103-TL0147-1a-pdf ex:B-OTH ex:Can .
+

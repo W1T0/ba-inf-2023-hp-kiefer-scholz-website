@@ -1,0 +1,11 @@
+ex:L9150706-TL0110-1a-pdf ex:date '1915-07-06'^^xsd:date .
+ex:L9150706-TL0110-1a-pdf ex:B-LOC ex:Türkei .
+ex:Türkei ex:wikidataQID ex:Q43 .
+ex:Türkei ex:coordinates ex:'39,0_36,0' .
+ex:L9150706-TL0110-1a-pdf ex:B-PER ex:Thekla .
+ex:L9150706-TL0110-1a-pdf ex:B-LOC ex:Hamburg .
+ex:Hamburg ex:wikidataQID ex:Q1055 .
+ex:Hamburg ex:coordinates ex:'53,55_10,0' .
+ex:L9150706-TL0110-1a-pdf ex:B-PER ex:Paul .
+ex:L9150706-TL0110-1a-pdf ex:B-PER ex:Josef .
+

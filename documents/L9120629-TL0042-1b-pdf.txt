@@ -1,0 +1,12 @@
+ex:L9120629-TL0042-1b-pdf ex:date '1912-06-29'^^xsd:date .
+ex:L9120629-TL0042-1b-pdf ex:B-LOC ex:Ber .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Franzel .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Bertha .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Paul .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Vicken .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Kurt .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Josef .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Rösel .
+ex:L9120629-TL0042-1b-pdf ex:B-PER ex:Liese .
+

@@ -1,0 +1,8 @@
+ex:L9130702-TL0066-1a-pdf ex:date '1913-07-02'^^xsd:date .
+ex:L9130702-TL0066-1a-pdf ex:B-PER ex:Thekla .
+ex:L9130702-TL0066-1a-pdf ex:B-PER ex:Ange .
+ex:L9130702-TL0066-1a-pdf ex:B-PER ex:Marta .
+ex:L9130702-TL0066-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9130702-TL0066-1a-pdf ex:B-LOC ex:Erde .
+ex:L9130702-TL0066-1a-pdf ex:B-PER ex:Paul .
+

@@ -1,0 +1,7 @@
+ex:L9100312-TL0010-1a-pdf ex:date '1910-03-12'^^xsd:date .
+ex:L9100312-TL0010-1a-pdf ex:I-PER ex:Müller .
+ex:L9100312-TL0010-1a-pdf ex:B-PER ex:Anna .
+ex:L9100312-TL0010-1a-pdf ex:B-PER ex:Ankla .
+ex:L9100312-TL0010-1a-pdf ex:B-PER ex:Paul .
+ex:L9100312-TL0010-1a-pdf ex:B-PER ex:Franz .
+

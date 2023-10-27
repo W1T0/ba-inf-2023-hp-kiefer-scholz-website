@@ -1,0 +1,8 @@
+ex:L9150310-TL0105-1a-pdf ex:date '1915-03-10'^^xsd:date .
+ex:L9150310-TL0105-1a-pdf ex:B-PER ex:Strebel .
+ex:L9150310-TL0105-1a-pdf ex:B-PER ex:Thekla .
+ex:L9150310-TL0105-1a-pdf ex:B-LOC ex:Vehl .
+ex:L9150310-TL0105-1a-pdf ex:B-LOC ex:Neustadt .
+ex:Neustadt ex:wikidataQID ex:Q205383 .
+ex:Neustadt ex:coordinates ex:'52,866666666_12,433055555' .
+

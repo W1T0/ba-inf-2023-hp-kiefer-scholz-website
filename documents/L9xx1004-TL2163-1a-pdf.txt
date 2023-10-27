@@ -1,0 +1,4 @@
+ex:L9xx1004-TL2163-1a-pdf ex:date '19xx-10-04'^^xsd:date .
+ex:L9xx1004-TL2163-1a-pdf ex:B-OTH ex:Spanisch .
+ex:L9xx1004-TL2163-1a-pdf ex:B-PER ex:Biller .
+

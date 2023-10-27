@@ -1,0 +1,16 @@
+ex:L9xxxxxx-TL2113-1a-pdf ex:date '19xx-xx-xx'^^xsd:date .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Hubert .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Thekla .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Bernhard .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-LOC ex:Berlin .
+ex:Berlin ex:wikidataQID ex:Q64 .
+ex:Berlin ex:coordinates ex:'52,516666666_13,383333333' .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Peter .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Hedwig .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Robert .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Anna .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Böhm .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Paul .
+ex:L9xxxxxx-TL2113-1a-pdf ex:I-PER ex:Gerhard .
+ex:L9xxxxxx-TL2113-1a-pdf ex:B-PER ex:Franz .
+

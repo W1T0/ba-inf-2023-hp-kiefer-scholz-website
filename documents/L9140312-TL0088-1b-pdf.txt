@@ -1,0 +1,11 @@
+ex:L9140312-TL0088-1b-pdf ex:date '1914-03-12'^^xsd:date .
+ex:L9140312-TL0088-1b-pdf ex:B-LOC ex:Langenbrück .
+ex:L9140312-TL0088-1b-pdf ex:B-PER ex:Josel .
+ex:L9140312-TL0088-1b-pdf ex:B-LOC ex:Barthold .
+ex:L9140312-TL0088-1b-pdf ex:B-PER ex:Geisler .
+ex:L9140312-TL0088-1b-pdf ex:B-PER ex:Agnes .
+ex:L9140312-TL0088-1b-pdf ex:B-PER ex:Hedwig .
+ex:L9140312-TL0088-1b-pdf ex:B-PER ex:Anna .
+ex:L9140312-TL0088-1b-pdf ex:B-PER ex:Josef .
+ex:L9140312-TL0088-1b-pdf ex:B-PER ex:Jckla .
+

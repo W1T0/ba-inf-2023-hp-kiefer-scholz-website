@@ -1,0 +1,8 @@
+ex:L9150111-TL0101-1a-pdf ex:date '1915-01-11'^^xsd:date .
+ex:L9150111-TL0101-1a-pdf ex:B-LOC ex:Deutschland .
+ex:Deutschland ex:wikidataQID ex:Q183 .
+ex:Deutschland ex:coordinates ex:'51,0_10,0' .
+ex:L9150111-TL0101-1a-pdf ex:B-PER ex:August .
+ex:L9150111-TL0101-1a-pdf ex:B-OTH_FOOD ex:Roggenbrot .
+ex:Roggenbrot ex:wikidataQID ex:Q3893120 .
+
