@@ -1303,6 +1303,7 @@
         <option value="L9xxxxxx-TL2178.1a.pdf">L9xxxxxx-TL2178.1a</option>
         <option value="L9xxxxxx-TL2178.1b.pdf">L9xxxxxx-TL2178.1b</option>
       </select>
+      <a download href="#" id="download">Download KG</a>
       <button id="button-zoom-in">+</button>
       <button id="button-zoom-out">-</button>
       <div class="three-blocks">
@@ -1355,6 +1356,9 @@
     let buttonZoomIn = document.getElementById("button-zoom-in");
     let buttonZoomOut = document.getElementById("button-zoom-out");
 
+    // download
+    let download = document.getElementById("download");
+
     // marker variable
     let markerList = [];
 
@@ -1387,6 +1391,9 @@
 
       // remove markers
       removeMarkers(markerList);
+
+      // change download KG path
+      download.href = kgPath;
     });
 
     //
